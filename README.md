@@ -15,5 +15,5 @@ chmod +x email_finder.sh
 ```
 **Showing Keys**
 ```
-./email_finder.sh example.com | sed 's/@footlocker.com//g'
+./email_finder.sh example.com | sed 's/@example.com//g'
 ```
