@@ -14,7 +14,7 @@ chmod +x email_finder.sh
 curl -s https://raw.githubusercontent.com/rix4uni/EmailFinder/main/Emails/dell.com.txt
 ```
 
-**Showing Emails**
+**Directly Get Emails From Website**
 ```
 bash email_finder.sh example.com
 ```
