@@ -1,0 +1,10 @@
+athelp@metamask.io
+blog@metamask.io
+bobby@metamask.io
+communications@metamask.io
+hello@metamask.io
+help@metamask.io
+info@metamask.io
+legacyweb3@metamask.io
+legal-opt@metamask.io
+mobile@metamask.io

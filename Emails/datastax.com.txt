@@ -1,0 +1,15 @@
+15victor.coustenoble@datastax.com
+25steve@datastax.com
+5bsebastian.estevez@datastax.com
+academy@datastax.com
+accelerate@datastax.com
+acceleratereg@datastax.com
+achebotko@datastax.com
+acozzie@datastax.com
+ad-astra@datastax.com
+adam.holmberg@datastax.com
+admin@datastax.com
+ah@datastax.com
+ahattrell@datastax.com
+ain@datastax.com
+alan.boudreault@datastax.com

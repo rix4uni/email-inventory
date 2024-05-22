@@ -1,0 +1,15 @@
+account@yourdomain.onmicrosoft.com
+accountname@yourdomain.onmicrosoft.com
+admin@yourdomain.onmicrosoft.com
+admin365@yourdomain.onmicrosoft.com
+adminuser@yourdomain.onmicrosoft.com
+aipscanner@yourdomain.onmicrosoft.com
+alice@yourdomain.onmicrosoft.com
+azureaccount@yourdomain.onmicrosoft.com
+bsteinmeyer@yourdomain.onmicrosoft.com
+clientid@yourdomain.onmicrosoft.com
+demo@yourdomain.onmicrosoft.com
+globaladmin@yourdomain.onmicrosoft.com
+jane.doe@yourdomain.onmicrosoft.com
+jsmith@yourdomain.onmicrosoft.com
+m365admin@yourdomain.onmicrosoft.com

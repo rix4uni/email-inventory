@@ -1,0 +1,11 @@
+ca-notices@hyperledger.org
+certificationsupport@hyperledger.org
+community-architects@hyperledger.org
+cts@hyperledger.org
+ects@hyperledger.org
+events@hyperledger.org
+gerrit@hyperledger.org
+hackathons@hyperledger.org
+helpdesk@hyperledger.org
+hgf@hyperledger.org
+

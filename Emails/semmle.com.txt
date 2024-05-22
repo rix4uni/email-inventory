@@ -1,0 +1,14 @@
+aditya@semmle.com
+apache-jira@semmle.com
+bas@semmle.com
+bug-bounty@semmle.com
+careers@semmle.com
+chabotc@semmle.com
+christian@semmle.com
+contact@semmle.com
+ctf@semmle.com
+damianos@semmle.com
+dev-advocacy@semmle.com
+dom@semmle.com
+email@semmle.com
+esben@semmle.com

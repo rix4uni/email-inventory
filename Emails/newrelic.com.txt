@@ -998,3 +998,13 @@ nwolfe@newrelic.com
 dlord@newrelic.com
 mrider@newrelic.com
 bsimon@newrelic.com
+aaltman@newrelic.com
+abner@newrelic.com
+abuse@newrelic.com
+account_recovery@newrelic.com
+accountspayable@newrelic.com
+acquia@newrelic.com
+afeldman@newrelic.com
+agedi@newrelic.com
+aherve@newrelic.com
+akhil@newrelic.com

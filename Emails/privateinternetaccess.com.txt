@@ -100,3 +100,9 @@ cpw@slc-exit.privateinternetaccess.com
 1351700727.509150f7743da@support.privateinternetaccess.com
 no-reply@offers.privateinternetaccess.com
 helpdesk@offers.privateinternetaccess.com
+athelpdesk@privateinternetaccess.com
+buisness@privateinternetaccess.com
+coc@privateinternetaccess.com
+dazo@privateinternetaccess.com
+dj@privateinternetaccess.com
+doe@privateinternetaccess.com

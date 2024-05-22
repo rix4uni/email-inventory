@@ -1,0 +1,15 @@
+alvaro.brey@nextcloud.com
+android@nextcloud.com
+apps@nextcloud.com
+arthur@nextcloud.com
+barthelemy.briand@nextcloud.com
+bjoern@nextcloud.com
+bot@nextcloud.com
+camila@nextcloud.com
+come.chilliet@nextcloud.com
+dev@nextcloud.com
+events@nextcloud.com
+frank@nextcloud.com
+frank.karlitschek@nextcloud.com
+hello@nextcloud.com
+include@nextcloud.com

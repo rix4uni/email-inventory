@@ -1,0 +1,9 @@
+de-berlin.hauptbahnhof@starbucks.de
+de.berlin.alexanderplatz@starbucks.de
+de.duisburg-city-palais@starbucks.de
+de.frankfurt.hauptbahnhof@starbucks.de
+de.hamburg.bahnhofdammtor@starbucks.de
+de.mainz.hauptbahnhof@starbucks.de
+dhildenbrand@starbucks.de
+dirk.hildenbrand@starbucks.de
+esseninfo@starbucks.de

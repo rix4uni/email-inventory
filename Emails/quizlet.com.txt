@@ -1,0 +1,15 @@
+account@quizlet.com
+account-update-request@quizlet.com
+admin@quizlet.com
+advertising@quizlet.com
+aleah.feuerborn@quizlet.com
+amalia@quizlet.com
+ambassadors@quizlet.com
+andrew@quizlet.com
+androidsupport@quizlet.com
+api@quizlet.com
+arjita.ghosh@quizlet.com
+atquizletapp@quizlet.com
+beta@quizlet.com
+bryan@quizlet.com
+careers@quizlet.com

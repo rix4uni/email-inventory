@@ -1,0 +1,14 @@
+22vlc-commits@videolan.org
+2bgit@videolan.org
+3civoire@videolan.org
+3cjb@videolan.org
+3cvlc-devel@videolan.org
+adn@videolan.org
+alexandre@videolan.org
+ali@videolan.org
+altglass@videolan.org
+andrep@videolan.org
+android-support@videolan.org
+anil@videolan.org
+arnaud.meltz@videolan.org
+asmax@videolan.org

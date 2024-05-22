@@ -1,0 +1,10 @@
+abuse@smtp2go.com
+abuse-contact@smtp2go.com
+abuse-report@smtp2go.com
+address3@smtp2go.com
+bbb@smtp2go.com
+ceo@smtp2go.com
+charlie@smtp2go.com
+charlotte@smtp2go.com
+devs@smtp2go.com
+info@smtp2go.com
