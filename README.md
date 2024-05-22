@@ -9,13 +9,19 @@ chmod +x email_finder.sh
 
 ## Usage
 
+**Get Your Targets Email** change a `dell.com` with your target
+```
+curl -s https://raw.githubusercontent.com/rix4uni/EmailFinder/main/Emails/dell.com.txt
+```
+
 **Showing Emails**
 ```
-./email_finder.sh example.com
+bash email_finder.sh example.com
 ```
+
 **Showing Keys**
 ```
-./email_finder.sh example.com | cut -f1 -d"@"
+bash email_finder.sh example.com | cut -f1 -d"@"
 ```
 
 ## Another website to collect Emails
