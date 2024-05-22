@@ -1,0 +1,10 @@
+ao@verisign-grs.com
+cao@verisign-grs.com
+dnssupport@verisign-grs.com
+gr@verisign-grs.com
+hostmaster@verisign-grs.com
+i-nav@verisign-grs.com
+idn@verisign-grs.com
+idntestbed@verisign-grs.com
+info@verisign-grs.com
+jlee@verisign-grs.com

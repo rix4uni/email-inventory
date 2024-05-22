@@ -1,0 +1,15 @@
+acesso.agenda@mercadopago.com.br
+agenda@mercadopago.com.br
+alerta@mercadopago.com.br
+bcomercial@mercadopago.com.br
+certificacao@mercadopago.com.br
+cliente@mercadopago.com.br
+cobranca@mercadopago.com.br
+comercial@mercadopago.com.br
+comercial.iset@mercadopago.com.br
+compliance@mercadopago.com.br
+contato@mercadopago.com.br
+developer@mercadopago.com.br
+developers@mercadopago.com.br
+dispositivo@mercadopago.com.br
+dpo@mercadopago.com.br

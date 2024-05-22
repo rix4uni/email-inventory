@@ -1,0 +1,15 @@
+advisories@compass-security.com
+alessandro.zala@compass-security.com
+alex.joss@compass-security.com
+badger@compass-security.com
+beat.guldimann@compass-security.com
+benjamin.bruppacher@compass-security.com
+carel.vanrooyen@compass-security.com
+christoph.zwicker@compass-security.com
+cyrill.brunschwiler@compass-security.com
+damian.pfammatter@compass-security.com
+daniel.schenker@compass-security.com
+dobin.rutishauser@compass-security.com
+eam.csch@compass-security.com
+emanuel.duss@compass-security.com
+fabio.poloni@compass-security.com

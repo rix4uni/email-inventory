@@ -1,0 +1,10 @@
+bert@powerdns.com
+bert.hubert@powerdns.com
+dijk@powerdns.com
+erik.winkels@powerdns.com
+info@powerdns.com
+invoice-queries@powerdns.com
+michel@powerdns.com
+nbert.hubert@powerdns.com
+pdns@powerdns.com
+pdns-users@powerdns.com

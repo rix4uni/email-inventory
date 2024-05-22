@@ -1,0 +1,15 @@
+3c4e3658bd.8020407@zabbix.com
+admin@zabbix.com
+admin_user1@zabbix.com
+admin_user2@zabbix.com
+aigars.kadikis@zabbix.com
+aleksander.vladishev@zabbix.com
+aleksandrs.kalimulins@zabbix.com
+aleksandrs.larionovs@zabbix.com
+aleksandrs.petrovs-gavrilovs@zabbix.com
+aleksandrs.saveljevs@zabbix.com
+aleksandrs.subins@zabbix.com
+aleksejs.petrovs@zabbix.com
+aleksejs.sestakovs@zabbix.com
+alex@zabbix.com
+alexander.bakaldin@zabbix.com

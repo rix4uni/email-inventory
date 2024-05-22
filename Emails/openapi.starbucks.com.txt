@@ -1,0 +1,10 @@
+apistrat@openapi.groups.io
+bgb@openapi.groups.io
+github@openapi.groups.io
+government@openapi.groups.io
+help@openapi.groups.io
+legal-private@openapi.groups.io
+main@openapi.groups.io
+marketing@openapi.groups.io
+owner@openapi.groups.io
+scope@openapi.groups.io

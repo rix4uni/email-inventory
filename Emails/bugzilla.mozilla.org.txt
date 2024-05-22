@@ -1,0 +1,15 @@
+107115@bugzilla.gnome.org
+153105@bugzilla.gnome.org
+bug@bugzilla.gnome.org
+bugmaster@bugzilla.gnome.org
+bugzilla@bugzilla.gnome.org
+bugzilla-daemon@bugzilla.gnome.org
+control-center-maint@bugzilla.gnome.org
+control-center-qa-maint@bugzilla.gnome.org
+debbugs-export@bugzilla.gnome.org
+debbugs-test-submit@bugzilla.gnome.org
+esound-maint@bugzilla.gnome.org
+galeon-maint@bugzilla.gnome.org
+gnome-applets-qa-maint@bugzilla.gnome.org
+gnome-core-maint@bugzilla.gnome.org
+gnome-desktop-maint@bugzilla.gnome.org

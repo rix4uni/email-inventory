@@ -1,0 +1,14 @@
+admin.maintainers@tools.wmflabs.org
+and@tools.wmflabs.org
+andrew@tools.wmflabs.org
+apache@tools.wmflabs.org
+awight@tools.wmflabs.org
+bd808@tools.wmflabs.org
+by@tools.wmflabs.org
+cvn.admins@tools.wmflabs.org
+cvn.admins2@tools.wmflabs.org
+cvn.bots-bar@tools.wmflabs.org
+cvn.bots-foo@tools.wmflabs.org
+cvn.maintainers@tools.wmflabs.org
+date@tools.wmflabs.org
+delinker@tools.wmflabs.org

@@ -25,3 +25,7 @@ jon@gravitational.com
 fe201b36.034498a@gravitational.com
 -501.g70.i.9103053n2.302e902ps600.o0391995f9-02@gravitational.com
 ops+namecheap@gravitational.com
+bernard@gravitational.com
+email@gravitational.com
+lele@gravitational.com
+lisa@gravitational.com

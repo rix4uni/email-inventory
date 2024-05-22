@@ -1,0 +1,10 @@
+backpress-dev@lists.wordpress.org
+backpress-dev-owner@lists.wordpress.org
+backpress-trac@lists.wordpress.org
+backpress-trac-owner@lists.wordpress.org
+mailman@lists.wordpress.org
+ntheme-reviewers@lists.wordpress.org
+theme-reviewers@lists.wordpress.org
+theme-reviewers-bounces@lists.wordpress.org
+theme-reviewers-owner@lists.wordpress.org
+wp-gsoc@lists.wordpress.org

@@ -279,3 +279,12 @@ marketing@em.hellosign.com
 thegioididong.com@mail.hellosign.com
 hello@mail.hellosign.com
 noreply@mail.hellosign.com
+abuse@hellosign.com
+alias@hellosign.com
+arbitrationoptout@hellosign.com
+bill.lee@hellosign.com
+bill_lee@hellosign.com
+bizdev@hellosign.com
+blee@hellosign.com
+cc-test@hellosign.com
+compliance-reports@hellosign.com

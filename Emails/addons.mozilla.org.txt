@@ -1,0 +1,15 @@
+22sharing@addons.mozilla.org
+adblock-2020@addons.mozilla.org
+adblock-6.6@addons.mozilla.org
+adblock.2019@addons.mozilla.org
+as@addons.mozilla.org
+autoopenid.ff@addons.mozilla.org
+available@addons.mozilla.org
+closeforget@addons.mozilla.org
+cody-wohlers@addons.mozilla.org
+codywohlers@addons.mozilla.org
+compatibility@addons.mozilla.org
+context-duckduckgo@addons.mozilla.org
+context-wiktionary@addons.mozilla.org
+developer@addons.mozilla.org
+displayed@addons.mozilla.org

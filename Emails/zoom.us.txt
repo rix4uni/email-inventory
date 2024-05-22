@@ -998,3 +998,12 @@ adjuncts@zoom.us
 _zm_lang@zoom.us
 _zm_ga_trackid@zoom.us
 _zm_everlogin_type@zoom.us
+3cno-reply@zoom.us
+70qw@zoom.us
+abert.zhao@zoom.us
+access@zoom.us
+accessible@zoom.us
+adam.hathaway@zoom.us
+adinfo@zoom.us
+adsales@zoom.us
+alex.mooc@zoom.us

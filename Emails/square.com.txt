@@ -1,0 +1,14 @@
+account@square.com
+admin@square.com
+aerith@square.com
+alicia@square.com
+bcash@square.com
+cash@square.com
+cccash@square.com
+cloud@square.com
+copycash@square.com
+dashboard@square.com
+data@square.com
+dcash@square.com
+dmarc-rua@square.com
+dq10@square.com

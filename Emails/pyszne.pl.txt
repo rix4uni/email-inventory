@@ -1,0 +1,10 @@
+androidapp@pyszne.pl
+biuro@pyszne.pl
+blog@pyszne.pl
+foodwiki@pyszne.pl
+info@pyszne.pl
+internet@pyszne.pl
+iosapp@pyszne.pl
+konkurs@pyszne.pl
+kontakt@pyszne.pl
+no-reply@pyszne.pl

@@ -161,3 +161,15 @@ service@realme.com
 datesearch1@realme.com
 service.pk@realme.com
 realme@account3.realme.com
+apps_comm@realme.com
+apps_link@realme.com
+bburrow@realme.com
+bradministrativo@realme.com
+bulkorders@realme.com
+campus@realme.com
+chongqingprivacy@realme.com
+comercial.br@realme.com
+community_br@realme.com
+email@realme.com
+email.pr@realme.com
+eu@realme.com

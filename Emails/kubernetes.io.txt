@@ -1,0 +1,15 @@
+4info@kubernetes.io
+calendar@kubernetes.io
+community@kubernetes.io
+conduct@kubernetes.io
+contributors@kubernetes.io
+dev@kubernetes.io
+distributors-announce@kubernetes.io
+elections@kubernetes.io
+github@kubernetes.io
+info@kubernetes.io
+k8s-infra-azure-admins@kubernetes.io
+k8s-infra-equinix-admins@kubernetes.io
+k8s-infra-staging-bootkube@kubernetes.io
+k8s-infra-staging-kubetest2@kubernetes.io
+k8s-infra-staging-mirror@kubernetes.io

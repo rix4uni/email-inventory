@@ -213,3 +213,15 @@ donotreply@asp-1.reflexion.net
 notification@securemail.reflexion.net
 rfxnoreply@asp.reflexion.net
 rfx-noreply@asp.reflexion.net
+alex-pub.apache-ant@reflexion.net
+alex-pub.codehaus@reflexion.net
+alex-pub.sonatype@reflexion.net
+alexander@reflexion.net
+alexander.pogrebnyak@reflexion.net
+alexander_pogrebnyak@reflexion.net
+asp-support@reflexion.net
+billing@reflexion.net
+david@reflexion.net
+david.hughes@reflexion.net
+david_hughes@reflexion.net
+dhughes.lpi@reflexion.net

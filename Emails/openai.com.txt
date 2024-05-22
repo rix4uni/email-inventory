@@ -152,3 +152,12 @@ auth0@auth0.openai.com
 auth0.drivsnm2mu42t3kopqdtwb3nyvihyzwd.is.authenticated@platform.openai.com
 _legacy_auth0.drivsnm2mu42t3kopqdtwb3nyvihyzwd.is.authenticated@platform.openai.com
 noreply@email.openai.com
+adversariel@openai.com
+alec@openai.com
+alethea@openai.com
+alex@openai.com
+amint@openai.com
+ar@openai.com
+assist@openai.com
+atpaino@openai.com
+bestpractices@openai.com

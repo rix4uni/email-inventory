@@ -1,0 +1,10 @@
+achats@deliveroo.fr
+bikers@deliveroo.fr
+bikers.paris@deliveroo.fr
+bikers.votreville@deliveroo.fr
+catering@deliveroo.fr
+corporate@deliveroo.fr
+coursier@deliveroo.fr
+cscorporate@deliveroo.fr
+exemple@deliveroo.fr
+hello@deliveroo.fr

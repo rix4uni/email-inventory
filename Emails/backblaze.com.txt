@@ -143,3 +143,9 @@ patrick@backblaze.com
 natasha@backblaze.com
 emailhelp@backblaze.com
 fpatchel@backblaze.com
+accounting@backblaze.com
+b2beta@backblaze.com
+b2contact@backblaze.com
+b2feedback@backblaze.com
+bounty@backblaze.com
+casey.jones@backblaze.com

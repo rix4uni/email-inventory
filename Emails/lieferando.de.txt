@@ -171,3 +171,8 @@ newsletter@update.lieferando.de
 pizza-falko-bremen@r.lieferando.de
 dano-pizza-bremen@r.lieferando.de
 casa-mia-und-china-city-bremen@r.lieferando.de
+blog@lieferando.de
+foodfactor@lieferando.de
+foodwiki@lieferando.de
+iphoneapp@lieferando.de
+kai.hansen@lieferando.de

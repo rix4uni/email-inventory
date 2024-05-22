@@ -998,3 +998,17 @@ raeshawngoodine@wordpress.org
 berritorresolo@wordpress.org
 liam.withey@wordpress.org
 heartbeat@wordpress.org
+1.1.4@wordpress.org
+2.5-feedback@wordpress.org
+2.7.1@wordpress.org
+21securityfaq@wordpress.org
+3.7.11@wordpress.org
+3.7.2@wordpress.org
+3.7.3@wordpress.org
+3.7.6@wordpress.org
+3.7.7@wordpress.org
+3.7.8@wordpress.org
+3.7.9@wordpress.org
+3.8@wordpress.org
+4.4@wordpress.org
+8@wordpress.org

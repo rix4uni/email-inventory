@@ -998,3 +998,16 @@ samantha.daly@mongodb.com
 tabitha.wubbena@mongodb.com
 erica.klipper@mongodb.com
 kyle.wilgus@mongodb.com
+2brealm@mongodb.com
+3.2beta@mongodb.com
+86security@mongodb.com
+95jack.costley@mongodb.com
+a.chen@mongodb.com
+aaron.bassett@mongodb.com
+aaron.heckmann@mongodb.com
+aaron.morand@mongodb.com
+aaron.redalen@mongodb.com
+aasawari.sahasrabuddhe@mongodb.com
+abdul.qadeer@mongodb.com
+abraham.egnor@mongodb.com
+academia@mongodb.com

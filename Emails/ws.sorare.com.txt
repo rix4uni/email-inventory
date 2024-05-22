@@ -1,0 +1,15 @@
+22users@ws.apache.org
+3cabkffuksvboxsueyxih@ws.apache.org
+3ccdavywbtgqwfevkrzqx@ws.apache.org
+3cfaltuvjgduohvjffvmd@ws.apache.org
+3cigwaozakhbkvzzuejfd@ws.apache.org
+3cqasddhawfczblnilryi@ws.apache.org
+3cxvzllpicyissjizxdvr@ws.apache.org
+3daxis-c-dev@ws.apache.org
+3daxis-dev@ws.apache.org
+addressing-dev@ws.apache.org
+addressing-dev-digest-subscribe@ws.apache.org
+addressing-dev-help@ws.apache.org
+addressing-dev-subscribe@ws.apache.org
+addressing-dev-unsubscribe@ws.apache.org
+announce@ws.apache.org

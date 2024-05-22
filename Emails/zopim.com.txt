@@ -1,0 +1,15 @@
+account@zopim.com
+adinfo@zopim.com
+adsales@zopim.com
+android@zopim.com
+bizdev@zopim.com
+blog@zopim.com
+ceo@zopim.com
+developers@zopim.com
+doe@zopim.com
+feedback@zopim.com
+hires@zopim.com
+info@zopim.com
+jane@zopim.com
+janedoe@zopim.com
+jezreel@zopim.com

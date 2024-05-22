@@ -1,0 +1,15 @@
+22commits@logging.apache.org
+22log4net-dev@logging.apache.org
+22notifications@logging.apache.org
+2dhelp@logging.apache.org
+2dunsubscribe@logging.apache.org
+3dappsecinc.com@logging.apache.org
+apmail-logging-dev-archive@logging.apache.org
+apmail-logging-site-cvs@logging.apache.org
+appsecinc.com@logging.apache.org
+celadonlabs.com@logging.apache.org
+chainsaw-cvs@logging.apache.org
+commits@logging.apache.org
+commits-allow@logging.apache.org
+commits-digest-subscribe@logging.apache.org
+commits-help@logging.apache.org

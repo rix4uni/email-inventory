@@ -1,0 +1,15 @@
+announcements@owncloud.org
+announcements-owner@owncloud.org
+appsreview@owncloud.org
+appsreview-owner@owncloud.org
+blizzz@owncloud.org
+community@owncloud.org
+conference@owncloud.org
+devel@owncloud.org
+devel-bounces@owncloud.org
+devel-owner@owncloud.org
+donate@owncloud.org
+events@owncloud.org
+five@owncloud.org
+foundation@owncloud.org
+foundation-owner@owncloud.org

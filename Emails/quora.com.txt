@@ -998,3 +998,9 @@ english-digest-noreply@quora.com
 digest@quora.com
 question-noreply@quora.com
 chemistryknowledge-space@quora.com
+9cpaypal-notifs@quora.com
+adam@quora.com
+ads-api-help@quora.com
+advertising@quora.com
+andrew.canty@quora.com
+andrew_canty@quora.com
