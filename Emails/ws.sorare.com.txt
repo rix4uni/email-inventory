@@ -13,3 +13,8 @@ addressing-dev-help@ws.apache.org
 addressing-dev-subscribe@ws.apache.org
 addressing-dev-unsubscribe@ws.apache.org
 announce@ws.apache.org
+axis-user-ja-subscribe@ws.apache.org
+axis-user-ja-unsubscribe@ws.apache.org
+axis-user-ja-help@ws.apache.org
+apache.org@ws.apache.org
+kandula-dev-subscribe@ws.apache.org

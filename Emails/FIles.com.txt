@@ -1,1 +1,7 @@
 
+billing@files.com
+ar@files.com
+attached@files.com
+dmarc_ruf@files.com
+privacy@files.com
+dispute@files.com

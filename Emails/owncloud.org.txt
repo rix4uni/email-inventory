@@ -13,3 +13,8 @@ events@owncloud.org
 five@owncloud.org
 foundation@owncloud.org
 foundation-owner@owncloud.org
+lukas@owncloud.org
+user@owncloud.org
+info@owncloud.org
+frank@owncloud.org
+user-request@owncloud.org

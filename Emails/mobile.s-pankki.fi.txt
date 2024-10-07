@@ -8,3 +8,4 @@ mobile@mobile.mycingular.net
 mobile_number@mobile.mycingular.net
 mobilenumber@mobile.mycingular.net
 mobiletelephonenumber@mobile.mycingular.net
+u003e@mobile.mycingular.net

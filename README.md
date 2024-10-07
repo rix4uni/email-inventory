@@ -1,30 +1,81 @@
-# EmailFinder
+## EmailFinder
 
-## Install
+Email OSINT tool
+
+## Installation
 ```
-git clone https://github.com/rix4uni/EmailFinder.git
-cd EmailFinder
-chmod +x email_finder.sh
+go install github.com/rix4uni/emailfinder@latest
+```
+
+## Download prebuilt binaries
+```
+wget https://github.com/rix4uni/emailfinder/releases/download/v0.0.1/emailfinder-linux-amd64-0.0.1.tgz
+tar -xvzf emailfinder-linux-amd64-0.0.1.tgz
+rm -rf emailfinder-linux-amd64-0.0.1.tgz
+mv emailfinder ~/go/bin/emailfinder
+```
+Or download [binary release](https://github.com/rix4uni/emailfinder/releases) for your platform.
+
+## Compile from source
+```
+git clone --depth 1 github.com/rix4uni/emailfinder.git
+cd emailfinder; go install
+```
+
+#### Filter domains.txt
+```
+cat bbp.txt | sed 's/^\*\.//' | sed 's/^\*//' | sed 's/^\.//' | grep -v "*" | unew -q domains.txt
 ```
 
 ## Usage
-
-**Get Your Targets Email** change a `dell.com` with your target
-```
-curl -s https://raw.githubusercontent.com/rix4uni/EmailFinder/main/Emails/dell.com.txt
 ```
 
-**Directly Get Emails From Website**
-```
-bash email_finder.sh example.com
+                           _  __ ____ _             __
+  ___   ____ ___   ____ _ (_)/ // __/(_)____   ____/ /___   _____
+ / _ \ / __  __ \ / __  // // // /_ / // __ \ / __  // _ \ / ___/
+/  __// / / / / // /_/ // // // __// // / / // /_/ //  __// /
+\___//_/ /_/ /_/ \__,_//_//_//_/  /_//_/ /_/ \__,_/ \___//_/
+
+                                         Current emailfinder version v0.0.1
+
+This CLI tool allows users to fetch emails from Google, DuckDuckGo, Bing, Yahoo, Yandex, Github search results.
+
+Examples:
+echo "domain.com" | emailfinder
+cat domains.txt | emailfinder
+cat domains.txt | emailfinder --exact-match
+cat domains.txt | emailfinder --search-engine google, yandex
+
+Usage:
+  emailfinder [flags]
+  emailfinder [command]
+
+Available Commands:
+  bing        Fetch emails from Bing search results for a given domain.
+  completion  Generate the autocompletion script for the specified shell
+  duckduckgo  Fetch emails from DuckDuckGo search results for a given domain.
+  github      A brief description of your command
+  google      Fetch emails from Google search results for a given domain.
+  help        Help about any command
+  saved       Fetches emails for given domains using https://github.com/rix4uni/EmailFinder/tree/main/Emails
+  skymem      Fetch emails from a domain using skymem
+  yahoo       Fetch emails from Yahoo search results for a given domain.
+  yandex      Fetch emails from Yandex search results for a given domain.
+
+Flags:
+  -h, --help      help for emailfinder
+  -u, --update    update emailfinder to latest version
+  -v, --version   Print the version of the tool and exit.
+
+Use "emailfinder [command] --help" for more information about a command.
 ```
 
-**Showing Keys**
+## Usage Examples
+add more email files to https://github.com/rix4uni/EmailFinder/tree/main/Emails
 ```
-bash email_finder.sh example.com | cut -f1 -d"@"
+cat domains.txt | emailfinder skymem -s
 ```
 
-## Another website to collect Emails
-```
-for target in $(cat wildcards.txt | tr -d '\r');do curl -s "https://api.webscout.io/lookup/$target" | jq -r '.emails[].email' 2>/dev/null | anew $target.txt;done
-```
+## TODO
+- cmd/github.go
+- add flags for cmd/root.go

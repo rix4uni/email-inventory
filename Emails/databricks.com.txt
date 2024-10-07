@@ -13,3 +13,10 @@ alex.purkiss@databricks.com
 alexa.friedman@databricks.com
 ali@databricks.com
 ali.afroozeh@databricks.com
+guanjie.shen@databricks.com
+donovan.burchett@databricks.com
+alexey.ott@databricks.com
+it-support-github@databricks.com
+ricardo.portilla@databricks.com
+takaaki.yayoi@databricks.com
+spark-driver-support@databricks.com

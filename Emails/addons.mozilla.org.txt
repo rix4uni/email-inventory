@@ -13,3 +13,9 @@ context-duckduckgo@addons.mozilla.org
 context-wiktionary@addons.mozilla.org
 developer@addons.mozilla.org
 displayed@addons.mozilla.org
+thunderbirddictionariesandlanguagepacks@addons.mozilla.org
+firefoxdictionariesandlanguagepacks@addons.mozilla.org
+it@addons.mozilla.org
+hostowane@addons.mozilla.org
+update@addons.mozilla.org
+found@addons.mozilla.org
