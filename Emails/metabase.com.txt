@@ -2,3 +2,4 @@
 help@metabase.com
 content-feedback@metabase.com
 margaret@metabase.com
+billing@metabase.com
