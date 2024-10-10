@@ -1,0 +1,4 @@
+admin@linuxserver.io
+jenkins@linuxserver.io
+ixnyne@linuxserver.io
+linuxserver@linuxserver.io

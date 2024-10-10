@@ -1,0 +1,7 @@
+founders@hazelcast.com
+enes@hazelcast.com
+jeff.chase@hazelcast.com
+mehmet@hazelcast.com
+fuad@hazelcast.com
+miko@hazelcast.com
+talip@hazelcast.com

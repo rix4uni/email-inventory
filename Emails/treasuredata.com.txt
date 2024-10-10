@@ -1,0 +1,7 @@
+vulnerabilities@treasuredata.com
+johndoe@treasuredata.com
+jdoe@treasuredata.com
+john.doe@treasuredata.com
+john_doe@treasuredata.com
+johnd@treasuredata.com
+jd@treasuredata.com

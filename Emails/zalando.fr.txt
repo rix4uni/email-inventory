@@ -1,0 +1,4 @@
+suivanteservice@zalando.fr
+frn@zalando.fr
+team@zalando.fr
+serviceclient@zalando.fr

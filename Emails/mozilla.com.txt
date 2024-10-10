@@ -1,0 +1,7 @@
+av_recording_vault@mozilla.com
+gc@mozilla.com
+jlongster@mozilla.com
+mmayo@mozilla.com
+mcheang@mozilla.com
+kechang@mozilla.com
+dparks@mozilla.com

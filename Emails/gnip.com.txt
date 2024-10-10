@@ -13,3 +13,7 @@ fred@gnip.com
 greg@gnip.com
 htl@gnip.com
 ian@gnip.com
+sales@gnip.com
+info@gnip.com
+lauren@gnip.com
+seth@gnip.com

@@ -1,0 +1,7 @@
+isod.austria@zagg.com
+isod.germany@zagg.com
+isod.france@zagg.com
+isod.italy@zagg.com
+isod.apac@zagg.com
+isod.spain@zagg.com
+isod.support@zagg.com

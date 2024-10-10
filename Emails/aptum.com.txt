@@ -1,0 +1,6 @@
+global@aptum.com
+cansales@aptum.com
+ussales@aptum.com
+uksales@aptum.com
+dmarc@aptum.com
+ncs.global@aptum.com

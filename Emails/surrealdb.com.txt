@@ -1,0 +1,2 @@
+info@surrealdb.com
+security@surrealdb.com

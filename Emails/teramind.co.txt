@@ -1,0 +1,3 @@
+partners@teramind.co
+dmarc@teramind.co
+johnsmith@teramind.co

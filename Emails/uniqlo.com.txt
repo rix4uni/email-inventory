@@ -1,0 +1,4 @@
+example@uniqlo.com
+unionsquare@uniqlo.com
+berkeley@uniqlo.com
+kamal@uniqlo.com

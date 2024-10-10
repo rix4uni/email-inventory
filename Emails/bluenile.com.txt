@@ -1,0 +1,7 @@
+john@bluenile.com
+johns@bluenile.com
+john.smith@bluenile.com
+johnsmith@bluenile.com
+john_smith@bluenile.com
+smith@bluenile.com
+ccshowroom@bluenile.com

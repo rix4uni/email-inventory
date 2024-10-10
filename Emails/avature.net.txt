@@ -1,0 +1,5 @@
+platform@avature.net
+dmarc-rua@avature.net
+learnmore@avature.net
+avature-hrtechconference@avature.net
+machinelearning@avature.net

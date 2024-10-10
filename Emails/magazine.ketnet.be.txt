@@ -1,0 +1,2 @@
+server@magazine.joomla.org
+de@magazine.joomla.org

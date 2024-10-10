@@ -12,3 +12,8 @@ financedepartment.07@westernunion.co.uk
 gerald.hentschel@westernunion.co.uk
 info@westernunion.co.uk
 infocentre@westernunion.co.uk
+uk.customer@westernunion.co.uk
+winners@westernunion.co.uk
+customer.service@westernunion.co.uk
+kenny.revell@westernunion.co.uk
+sales@westernunion.co.uk

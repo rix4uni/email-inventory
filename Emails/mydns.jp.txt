@@ -1,0 +1,6 @@
+paypal@mydns.jp
+masterid@mydns.jp
+test@mydns.jp
+id@mydns.jp
+fail2ban@mydns.jp
+apache@mydns.jp

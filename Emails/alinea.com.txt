@@ -1,0 +1,4 @@
+relationclients.lehavre@alinea.com
+depot.mantes@alinea.com
+serviceclientsweb@alinea.com
+scecommerce@alinea.com

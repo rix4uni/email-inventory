@@ -13,3 +13,8 @@ email@redoxengine.com
 george@redoxengine.com
 greg@redoxengine.com
 hello@redoxengine.com
+legalnotices@redoxengine.com
+devin@redoxengine.com
+cicd@redoxengine.com
+bufkes@redoxengine.com
+mmcleod@redoxengine.com

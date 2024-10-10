@@ -1,0 +1,7 @@
+d.tostring@getsentry.com
+public@getsentry.com
+hello@getsentry.com
+info@getsentry.com
+eric@getsentry.com
+jcunningham@getsentry.com
+support@getsentry.com

@@ -1,0 +1,6 @@
+support@netregistry.net
+mailer-daemon@netregistry.net
+domains@netregistry.net
+adam.cassar@netregistry.net
+servers@netregistry.net
+dmain@netregistry.net

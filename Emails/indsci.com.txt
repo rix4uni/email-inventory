@@ -1,0 +1,7 @@
+jeremy.kins@indsci.com
+jsmith@indsci.com
+john.smith@indsci.com
+johnsmith@indsci.com
+john_smith@indsci.com
+john@indsci.com
+smith@indsci.com

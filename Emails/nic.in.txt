@@ -1,0 +1,8 @@
+nic.in@lists.isc.org
+bind-users@lists.isc.org
+bind-announce@lists.isc.org
+irrtoolset-ow@lists.isc.org
+inn-workers-ow@lists.isc.org
+dnsrpz-interest-ow@lists.isc.org
+dhcp-announce@lists.isc.org
+aftr-contacts-ow@lists.isc.org

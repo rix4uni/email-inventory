@@ -13,3 +13,10 @@ alexa-support@amazon.ca
 amazon@amazon.ca
 amazon-student@amazon.ca
 amazon-student-verification@amazon.ca
+uff1aseller-performance@amazon.ca
+ncs-reply@amazon.ca
+business@amazon.ca
+pq-offer-review@amazon.ca
+cis@amazon.ca
+seller.support06@amazon.ca
+payments-declined@amazon.ca

@@ -12,3 +12,10 @@ accomodations@twilio.com
 account@twilio.com
 acharles@twilio.com
 acook@twilio.com
+frontline@twilio.com
+svc.prodsec-bot@twilio.com
+team_match-dsys@twilio.com
+mfischer@twilio.com
+jgoldman@twilio.com
+jliscom@twilio.com
+akratiuk@twilio.com

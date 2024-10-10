@@ -1,0 +1,3 @@
+peering@ip-only.net
+noc@ip-only.net
+registry@ip-only.net

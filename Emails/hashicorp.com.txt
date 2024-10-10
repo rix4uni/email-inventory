@@ -1,0 +1,7 @@
+nels.andereck@hashicorp.com
+hcp-activations@hashicorp.com
+rtillery@hashicorp.com
+github-team-tf-cdk@hashicorp.com
+dr@hashicorp.com
+kurtzhashicorpir@hashicorp.com
+lehmanhashicorpmedia@hashicorp.com

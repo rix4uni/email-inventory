@@ -1,0 +1,7 @@
+isa-transfer@interactivebrokers.com
+tax-withholding@interactivebrokers.com
+tgyori@interactivebrokers.com
+dmarc_rua@interactivebrokers.com
+dmarc_ruf@interactivebrokers.com
+kreinhard@interactivebrokers.com
+egridneva@interactivebrokers.com

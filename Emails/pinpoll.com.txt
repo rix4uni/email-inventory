@@ -1,0 +1,7 @@
+polls@pinpoll.com
+office@pinpoll.com
+support@pinpoll.com
+info@pinpoll.com
+sales@pinpoll.com
+dev@pinpoll.com
+tobias.oberascher@pinpoll.com

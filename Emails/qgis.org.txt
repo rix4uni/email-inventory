@@ -1,0 +1,7 @@
+podcast@qgis.org
+trademark@qgis.org
+info@qgis.org
+tim@qgis.org
+noreply@qgis.org
+finance@qgis.org
+redmine@qgis.org

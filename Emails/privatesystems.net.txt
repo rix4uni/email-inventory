@@ -1,0 +1,4 @@
+dns@privatesystems.net
+noc@privatesystems.net
+abuse@privatesystems.net
+postmaster@privatesystems.net

@@ -1,0 +1,6 @@
+service@mobile01.com
+nanako@mobile01.com
+info@mobile01.com
+xxx@mobile01.com
+advertisement@mobile01.com
+test@mobile01.com

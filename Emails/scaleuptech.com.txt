@@ -1,0 +1,7 @@
+john.doe@scaleuptech.com
+john@scaleuptech.com
+doe@scaleuptech.com
+johndoe@scaleuptech.com
+doe.john@scaleuptech.com
+doejohn@scaleuptech.com
+j.doe@scaleuptech.com

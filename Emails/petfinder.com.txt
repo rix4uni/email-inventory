@@ -1,0 +1,5 @@
+api-help@petfinder.com
+first@petfinder.com
+janedoe@petfinder.com
+jane-doe@petfinder.com
+support@petfinder.com

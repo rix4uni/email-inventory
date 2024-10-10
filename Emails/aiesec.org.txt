@@ -1,0 +1,7 @@
+mx.nc@aiesec.org
+tkey@aiesec.org
+media@aiesec.org
+info@aiesec.org
+fr.mc@aiesec.org
+froilan.samonte@aiesec.org
+george.harada@aiesec.org

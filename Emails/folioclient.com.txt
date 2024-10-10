@@ -1,2 +1,4 @@
 sales@folioclient.com
 support@folioclient.com
+site@folioclient.com
+info@folioclient.com

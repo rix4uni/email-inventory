@@ -1,0 +1,3 @@
+domain-admin@2is.nl
+admin@2is.nl
+abuse@2is.nl

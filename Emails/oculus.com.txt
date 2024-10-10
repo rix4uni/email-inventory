@@ -13,3 +13,10 @@ artem.bolgar@oculus.com
 biribe@oculus.com
 brand@oculus.com
 brandon.boone@oculus.com
+holden.noble.test@oculus.com
+blake.mayes.test@oculus.com
+melanie.westbrook.test@oculus.com
+tomas.simon@oculus.com
+stephen.lombardi@oculus.com
+patrick.peluse@oculus.com
+hernan.badino@oculus.com

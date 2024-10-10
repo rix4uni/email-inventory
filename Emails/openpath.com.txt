@@ -1,0 +1,7 @@
+first@openpath.com
+joe@openpath.com
+flast@openpath.com
+jdoe@openpath.com
+first.last@openpath.com
+joe.doe@openpath.com
+last@openpath.com

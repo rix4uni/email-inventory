@@ -1,0 +1,7 @@
+career@qoo-app.com
+johndoe@qoo-app.com
+john@qoo-app.com
+john_doe@qoo-app.com
+johnd@qoo-app.com
+jd@qoo-app.com
+jdoe@qoo-app.com

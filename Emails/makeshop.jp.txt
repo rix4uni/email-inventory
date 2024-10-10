@@ -1,0 +1,3 @@
+root@makeshop.jp
+epos@makeshop.jp
+maketaro@makeshop.jp

@@ -1,0 +1,2 @@
+service@mindsay.com
+legal@mindsay.com
