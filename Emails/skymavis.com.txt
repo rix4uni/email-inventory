@@ -1,3 +1,4 @@
 20partnerships@skymavis.com
 dpo@skymavis.com
 john.doe@skymavis.com
+test@skymavis.com

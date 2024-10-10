@@ -2,3 +2,5 @@ returns@aglet.app
 dmoeschinger@aglet.app
 hello@aglet.app
 nwessblad@aglet.app
+mydesign@aglet.app
+u003emydesign@aglet.app

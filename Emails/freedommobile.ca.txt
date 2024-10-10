@@ -5,3 +5,4 @@ corecsengineering@freedommobile.ca
 mrahman2@freedommobile.ca
 events@freedommobile.ca
 no-reply@freedommobile.ca
+accessibility.feedback@freedommobile.ca

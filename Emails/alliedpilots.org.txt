@@ -4,3 +4,4 @@ training-committee@alliedpilots.org
 apa-tts-support@alliedpilots.org
 cersreview@alliedpilots.org
 tkennard@alliedpilots.org
+jclark@alliedpilots.org

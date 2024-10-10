@@ -4,3 +4,4 @@ alexander@openreplay.com
 federico@openreplay.com
 do-not-reply@openreplay.com
 mickael@openreplay.com
+dev@openreplay.com
