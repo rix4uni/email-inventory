@@ -2,3 +2,4 @@ suivanteservice@zalando.fr
 frn@zalando.fr
 team@zalando.fr
 serviceclient@zalando.fr
+cr-partnercare@zalando.fr
