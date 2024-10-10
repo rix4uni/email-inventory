@@ -397,3 +397,6 @@ appsupport.ucberkeleyprepaid@hyperwallet.com
 appsupport.wubsprepaid@hyperwallet.com
 asia@hyperwallet.com
 brentw@hyperwallet.com
+vjones@hyperwallet.com
+incentives@hyperwallet.com
+qa@hyperwallet.com

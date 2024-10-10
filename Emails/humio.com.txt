@@ -8,3 +8,6 @@ info@humio.com
 instructor@humio.com
 integrations@humio.com
 jason@humio.com
+privacy@humio.com
+kresten@humio.com
+peter@humio.com

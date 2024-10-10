@@ -1,0 +1,7 @@
+rajiv.sambasivan@arangodb.com
+jakub.wierzbowski@arangodb.com
+alan.plum-extern@arangodb.com
+simran.brucherseifer@arangodb.com
+soc2@arangodb.com
+anthony.mahanna@arangodb.com
+support@arangodb.com

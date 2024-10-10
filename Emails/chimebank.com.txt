@@ -8,3 +8,6 @@ ct@chimebank.com
 hello@chimebank.com
 info@chimebank.com
 jobs@chimebank.com
+press@chimebank.com
+sales@chimebank.com
+support@chimebank.com

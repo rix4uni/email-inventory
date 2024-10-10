@@ -1,0 +1,3 @@
+compliancelegal@replicon.com
+dmarc-report@replicon.com
+marketplace@replicon.com

@@ -13,3 +13,10 @@ amazonpay-escalation@amazon.in
 amazonpay-grievance-officer@amazon.in
 amazonpay-nodal-officer@amazon.in
 amazonpay-verification@amazon.in
+u003ecs-reply@amazon.in
+example@amazon.in
+source@amazon.in
+pwa-seller-performance@amazon.in
+notice-retraction@amazon.in
+atoz-guarantee-no-reply@amazon.in
+source-@amazon.in

@@ -1,0 +1,7 @@
+john@kahoot.it
+john.doe@kahoot.it
+doejohn@kahoot.it
+jd@kahoot.it
+doe_john@kahoot.it
+doe@kahoot.it
+j.doe@kahoot.it

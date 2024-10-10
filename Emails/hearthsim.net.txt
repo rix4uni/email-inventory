@@ -1,0 +1,3 @@
+alex@hearthsim.net
+admin@hearthsim.net
+npmjs@hearthsim.net

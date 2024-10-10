@@ -13,3 +13,10 @@ aeris-support-emea@irobot.com
 ahed@irobot.com
 akaminski@irobot.com
 akramer@irobot.com
+u003eakramer@irobot.com
+johnsmith@irobot.com
+john.smith@irobot.com
+john_smith@irobot.com
+john@irobot.com
+smith@irobot.com
+commercialsales@irobot.com

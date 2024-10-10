@@ -1,0 +1,7 @@
+ch-browser-extensions@coursehero.com
+assist@coursehero.com
+cro-onboarding-team@coursehero.com
+jdoe@coursehero.com
+johndoe@coursehero.com
+john.doe@coursehero.com
+john_doe@coursehero.com

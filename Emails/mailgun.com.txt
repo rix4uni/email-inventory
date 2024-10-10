@@ -1,0 +1,6 @@
+admin@mailgun.com
+postmaster@mailgun.com
+beispielname@mailgun.com
+3apostmaster@mailgun.com
+warmgun@mailgun.com
+contact@mailgun.com

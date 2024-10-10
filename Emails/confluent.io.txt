@@ -1,0 +1,7 @@
+education-support@confluent.io
+no-reply@confluent.io
+first@confluent.io
+joe@confluent.io
+flast@confluent.io
+jdoe@confluent.io
+first.last@confluent.io

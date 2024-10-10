@@ -13,3 +13,10 @@ alumni@org.hanze.nl
 alumnibureau@org.hanze.nl
 alumninet@org.hanze.nl
 application@org.hanze.nl
+ergotherapie@org.hanze.nl
+lectoraat-jes@org.hanze.nl
+stap@org.hanze.nl
+team_een@org.hanze.nl
+ctlabs@org.hanze.nl
+makerspace@org.hanze.nl
+profileringsfonds@org.hanze.nl

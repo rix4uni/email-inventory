@@ -1,0 +1,3 @@
+dmarc_reports@blueletterbible.org
+partners@blueletterbible.org
+testimonials@blueletterbible.org

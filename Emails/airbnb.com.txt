@@ -13,3 +13,10 @@
 1651@airbnb.com
 1683@airbnb.com
 1733@airbnb.com
+shaun.blackburn@airbnb.com
+be-hosted@airbnb.com
+firstname@airbnb.com
+firstname.lastname@airbnb.com
+donna@airbnb.com
+donna.boyer@airbnb.com
+utomated@airbnb.com

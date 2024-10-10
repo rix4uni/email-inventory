@@ -1,0 +1,6 @@
+arin-role@oneandone.net
+ripe-role@oneandone.net
+abuse@oneandone.net
+feedback@oneandone.net
+orders@oneandone.net
+noc@oneandone.net

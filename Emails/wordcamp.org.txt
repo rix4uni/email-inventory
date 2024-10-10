@@ -12,3 +12,10 @@ azerbaijan@wordcamp.org
 baltimor@wordcamp.org
 baltimore@wordcamp.org
 barcelona@wordcamp.org
+meetup-support@wordcamp.org
+communitysummit@wordcamp.org
+entebbe@wordcamp.org
+ileife@wordcamp.org
+montclair@wordcamp.org
+europe@wordcamp.org
+us@wordcamp.org

@@ -1,0 +1,7 @@
+service@piliapp.com
+index@piliapp.com
+emojilistactivities@piliapp.com
+emojilistfooddrink@piliapp.com
+emojilistobjects@piliapp.com
+emojilistheart@piliapp.com
+vatcalculatortw@piliapp.com

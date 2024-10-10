@@ -1,0 +1,6 @@
+john.doe@crisp.chat
+corp@crisp.chat
+dev@crisp.chat
+dmarc-forensic@crisp.chat
+myriam@crisp.chat
+eliott@crisp.chat

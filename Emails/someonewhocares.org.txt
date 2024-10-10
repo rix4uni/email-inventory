@@ -1,0 +1,3 @@
+hosts@someonewhocares.org
+webmaster@someonewhocares.org
+sotd@someonewhocares.org

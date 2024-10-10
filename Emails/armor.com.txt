@@ -1,0 +1,4 @@
+rir@armor.com
+press@armor.com
+dmarc@armor.com
+dmarc-fo@armor.com

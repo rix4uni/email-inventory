@@ -1,0 +1,7 @@
+buttons_group_ssz@allianz.bg
+buttons_group_pod@allianz.bg
+buttons_group_accident@allianz.bg
+buttons_group_accidents@allianz.bg
+buttons_group_property@allianz.bg
+delovodstvo@allianz.bg
+buttons_group_liability@allianz.bg

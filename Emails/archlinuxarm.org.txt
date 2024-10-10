@@ -1,0 +1,7 @@
+contact@archlinuxarm.org
+kevin@archlinuxarm.org
+builder@archlinuxarm.org
+jplum@archlinuxarm.org
+xu5@archlinuxarm.org
+xu4@archlinuxarm.org
+c2@archlinuxarm.org

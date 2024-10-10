@@ -1,0 +1,7 @@
+info@jupyter.org
+sales@jupyter.org
+marketing@jupyter.org
+speakers@jupyter.org
+conduct@jupyter.org
+email@jupyter.org
+contact@jupyter.org

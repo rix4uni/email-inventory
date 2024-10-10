@@ -13,3 +13,8 @@ george.hadjigeorgiou@housetrip.com
 host@housetrip.com
 info@housetrip.com
 intern@housetrip.com
+mcoleman@housetrip.com
+partners@housetrip.com
+smajor@housetrip.com
+rl@housetrip.com
+team@housetrip.com

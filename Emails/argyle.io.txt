@@ -1,0 +1,5 @@
+hello@argyle.io
+end-user-deletion-request@argyle.io
+end-user-support@argyle.io
+legal@argyle.io
+chris@argyle.io

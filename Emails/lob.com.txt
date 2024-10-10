@@ -13,3 +13,10 @@ cvsyc@lob.com
 cvsyc-conseil@lob.com
 cvsyc-senior@lob.com
 dan@lob.com
+scott@lob.com
+legal@lob.com
+sishaar@lob.com
+team.platform@lob.com
+barnaby.go@lob.com
+graeme.lowe@lob.com
+martin.han@lob.com

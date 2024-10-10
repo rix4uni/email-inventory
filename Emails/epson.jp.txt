@@ -1,0 +1,7 @@
+privacy@epson.jp
+r@epson.jp
+linux-printer@epson.jp
+esupport@epson.jp
+esa@epson.jp
+privacy-ns@epson.jp
+linux-scanner@epson.jp

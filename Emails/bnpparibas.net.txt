@@ -1,0 +1,3 @@
+service@bnpparibas.net
+n@bnpparibas.net
+bicignet@bnpparibas.net

@@ -13,3 +13,7 @@ contoso@sharepoint.com
 example@sharepoint.com
 feedback@sharepoint.com
 fenotte2003@sharepoint.com
+no-reply@sharepoint.com
+sales@sharepoint.com
+info@sharepoint.com
+sharepoint.notifications@sharepoint.com

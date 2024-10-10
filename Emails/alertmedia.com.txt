@@ -1,0 +1,7 @@
+joe@alertmedia.com
+flast@alertmedia.com
+jdoe@alertmedia.com
+first.last@alertmedia.com
+joe.doe@alertmedia.com
+last@alertmedia.com
+doe@alertmedia.com

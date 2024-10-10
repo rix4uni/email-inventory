@@ -1,0 +1,7 @@
+events@netlify.com
+kelly@netlify.com
+sarah.etter@netlify.com
+kevin.samoei@netlify.com
+npm@netlify.com
+bot@netlify.com
+nasiba@netlify.com

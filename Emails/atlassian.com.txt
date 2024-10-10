@@ -13,3 +13,10 @@
 a@atlassian.com
 a11y@atlassian.com
 aagrawal@atlassian.com
+issue_summary_reporter_dgedda@atlassian.com
+dgedda@atlassian.com
+issue_summary_assignee_akakade@atlassian.com
+dakinyemi@atlassian.com
+mdhahak@atlassian.com
+bamboo.user0000@atlassian.com
+brosa@atlassian.com

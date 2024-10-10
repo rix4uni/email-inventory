@@ -1,0 +1,7 @@
+hjiang@splunk.com
+azure@splunk.com
+ondemand-inquires@splunk.com
+developeredition@splunk.com
+name@splunk.com
+gscc@splunk.com
+jstrohschneider@splunk.com

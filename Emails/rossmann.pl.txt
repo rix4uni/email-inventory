@@ -1,0 +1,7 @@
+postmaster@rossmann.pl
+daniel.kostkowski@rossmann.pl
+info@rossmann.pl
+obsluga_klienta@rossmann.pl
+info_foto@rossmann.pl
+reklamacje_foto@rossmann.pl
+janed@rossmann.pl

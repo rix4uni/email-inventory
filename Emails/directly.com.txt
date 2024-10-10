@@ -13,3 +13,6 @@ info@directly.com
 jane@directly.com
 jeff@directly.com
 joey@directly.com
+press@directly.com
+sales@directly.com
+legal@directly.com

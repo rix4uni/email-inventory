@@ -1,0 +1,3 @@
+admin@tld.pl
+tellet@tld.pl
+user1@tld.pl

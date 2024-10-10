@@ -1,0 +1,7 @@
+server@haaretz.com
+blogs@haaretz.com
+article@haaretz.com
+worked@haaretz.com
+info@haaretz.com
+de@haaretz.com
+alon_i@haaretz.com

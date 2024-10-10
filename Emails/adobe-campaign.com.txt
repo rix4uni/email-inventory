@@ -1,0 +1,2 @@
+mcd-mkt-prod32@adobe-campaign.com
+bupaaustralia-mkt-stage6@adobe-campaign.com

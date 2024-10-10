@@ -1,0 +1,2 @@
+dmarc@7layers.it
+dmarc-failure@7layers.it

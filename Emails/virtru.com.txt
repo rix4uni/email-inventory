@@ -1,0 +1,7 @@
+gcp-marketplace@virtru.com
+dlpadmin@virtru.com
+engineeringadmin@virtru.com
+hqadmin@virtru.com
+old-admin@virtru.com
+new-dlpadmin@virtru.com
+nathan@virtru.com

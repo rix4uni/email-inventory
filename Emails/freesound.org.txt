@@ -1,0 +1,7 @@
+project@freesound.org
+ecodtr@freesound.org
+w@freesound.org
+chronos@freesound.org
+found@freesound.org
+gcmax@freesound.org
+users@freesound.org

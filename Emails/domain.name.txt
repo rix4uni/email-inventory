@@ -1,0 +1,7 @@
+non-exist-email-address@domain.name
+invalid-email-address@domain.name
+exist-email-address@domain.name
+whatever@domain.name
+gsurname@domain.name
+givenname.surname@domain.name
+100@domain.name
