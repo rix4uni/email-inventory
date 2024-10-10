@@ -1,3 +1,4 @@
 scorecard@foretees.com
 mnagle@foretees.com
 auto-send@foretees.com
+nsales@foretees.com

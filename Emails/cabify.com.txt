@@ -4,3 +4,4 @@ juan.barbolla@cabify.com
 facturacion.clientes.ar@cabify.com
 lorena.mickley@cabify.com
 compliance.co@cabify.com
+logistics.integrations.es@cabify.com
