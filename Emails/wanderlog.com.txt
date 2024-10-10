@@ -1,0 +1,2 @@
+maps@wanderlog.com
+chrome-extension@wanderlog.com

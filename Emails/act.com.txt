@@ -1,0 +1,7 @@
+international.legal@act.com
+gdpr.dpa@act.com
+itsupport@act.com
+test@act.com
+wc@act.com
+abcd@act.com
+hatch@act.com

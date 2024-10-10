@@ -1011,3 +1011,9 @@ aasawari.sahasrabuddhe@mongodb.com
 abdul.qadeer@mongodb.com
 abraham.egnor@mongodb.com
 academia@mongodb.com
+andrii.dobroshynskyi@mongodb.com
+rushil.kumar@mongodb.com
+trocchiomongodbcommunications@mongodb.com
+justin.costello@mongodb.com
+stuart.larsen@mongodb.com
+ronan.merrick@mongodb.com

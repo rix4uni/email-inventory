@@ -1,0 +1,7 @@
+compass-service@gitee.com
+zoker@gitee.com
+admin@gitee.com
+pass@gitee.com
+1234abcd@gitee.com
+96git@gitee.com
+company@gitee.com

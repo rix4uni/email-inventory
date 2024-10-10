@@ -1,0 +1,7 @@
+paulo@apify.com
+josef@apify.com
+matej@apify.com
+service-account@apify.com
+copy@apify.com
+unseencopy@apify.com
+replyto@apify.com

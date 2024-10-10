@@ -1,0 +1,3 @@
+gnu-bash-bug@funet.fi
+nummer@funet.fi
+training@funet.fi

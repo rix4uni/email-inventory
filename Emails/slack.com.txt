@@ -13,3 +13,10 @@ asch-platform@slack.com
 bill.macaitis@slack.com
 billing@slack.com
 billmilliken@slack.com
+u003efeedback@slack.com
+john@slack.com
+domenicomansue@slack.com
+1kb.no@slack.com
+20privacy@slack.com
+john.doe@slack.com
+afeedback@slack.com

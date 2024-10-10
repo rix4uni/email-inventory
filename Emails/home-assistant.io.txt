@@ -1,0 +1,2 @@
+security@home-assistant.io
+nick@home-assistant.io

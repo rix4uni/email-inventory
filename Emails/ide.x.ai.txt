@@ -8,3 +8,8 @@ icuc7@ide.titech.ac.jp
 icuc7secretariate.mk@ide.titech.ac.jp
 jwseast@ide.titech.ac.jp
 kanda@ide.titech.ac.jp
+nishida@ide.titech.ac.jp
+otsuki@ide.titech.ac.jp
+nabe@ide.titech.ac.jp
+takada@ide.titech.ac.jp
+ohta@ide.titech.ac.jp

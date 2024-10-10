@@ -1,0 +1,7 @@
+changed@schema.org
+maintained@schema.org
+seethefulllistofvideoobjectproperties@schema.org
+c.send@schema.org
+date@schema.org
+properties@schema.org
+documentation@schema.org

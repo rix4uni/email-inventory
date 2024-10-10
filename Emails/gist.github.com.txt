@@ -8,3 +8,5 @@ git@gist.github.com
 gracu.auraci@gist.github.com
 he-sb@gist.github.com
 hoge@gist.github.com
+password@gist.github.com
+steinarb@gist.github.com

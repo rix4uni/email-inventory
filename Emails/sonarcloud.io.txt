@@ -1,0 +1,2 @@
+noreply@sonarcloud.io
+my_token@sonarcloud.io

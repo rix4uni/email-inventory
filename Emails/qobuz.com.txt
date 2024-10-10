@@ -1,0 +1,5 @@
+all.france@qobuz.com
+all.br@qobuz.com
+all.it@qobuz.com
+all.en@qobuz.com
+contact@qobuz.com

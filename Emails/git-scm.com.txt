@@ -1,0 +1,4 @@
+videos@git-scm.com
+online@git-scm.com
+book@git-scm.com
+available@git-scm.com

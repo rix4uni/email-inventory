@@ -13,3 +13,10 @@ absent@inf.ed.ac.uk
 accml-info@inf.ed.ac.uk
 aclark11@inf.ed.ac.uk
 acm@inf.ed.ac.uk
+mrj@inf.ed.ac.uk
+luu@inf.ed.ac.uk
+juser@inf.ed.ac.uk
+b.webb@inf.ed.ac.uk
+jwessnit@inf.ed.ac.uk
+covezik@inf.ed.ac.uk
+bos@inf.ed.ac.uk

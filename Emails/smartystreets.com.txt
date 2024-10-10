@@ -1,0 +1,7 @@
+support@smartystreets.com
+jeffrey@smartystreets.com
+providers@smartystreets.com
+info@smartystreets.com
+jonathan@smartystreets.com
+sales@smartystreets.com
+npmjs-development@smartystreets.com

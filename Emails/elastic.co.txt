@@ -1009,3 +1009,10 @@ adrien@elastic.co
 albert.zaharovits@elastic.co
 alex@elastic.co
 alexis.florian@elastic.co
+marco.bruderreck@elastic.co
+oliver.gupte@elastic.co
+karlgodard@elastic.co
+wayne.seymour@elastic.co
+thom.heymann@elastic.co
+jonathan.buttner@elastic.co
+christos.nasikas@elastic.co

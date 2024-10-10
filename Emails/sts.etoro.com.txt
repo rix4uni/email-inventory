@@ -8,3 +8,5 @@ hans.glimell@sts.gu.se
 info@sts.gu.se
 ingemar.bohlin@sts.gu.se
 johan.soderberg@sts.gu.se
+mark.elam@sts.gu.se
+sebastian.linke@sts.gu.se

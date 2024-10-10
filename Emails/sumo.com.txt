@@ -1,0 +1,6 @@
+john@sumo.com
+jsmith@sumo.com
+john.smith@sumo.com
+johnsmith@sumo.com
+john_smith@sumo.com
+smith@sumo.com

@@ -13,3 +13,6 @@ mobile-phone-number@msg.telus.com
 mobilenumber@msg.telus.com
 mobiletelephonenumber@msg.telus.com
 my_phone_number@msg.telus.com
+xxx-xxx-xxxx@msg.telus.com
+tendigitmobilenumber@msg.telus.com
+xxxyyyzzzz@msg.telus.com

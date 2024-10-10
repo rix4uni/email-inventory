@@ -1,0 +1,7 @@
+jouwnaam@mijndomein.nl
+dmarc_report@mijndomein.nl
+mb_snooze_648@mijndomein.nl
+nieuwsbrief@mijndomein.nl
+reclame@mijndomein.nl
+mb_unsend_648@mijndomein.nl
+randomadres@mijndomein.nl

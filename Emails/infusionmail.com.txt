@@ -1,0 +1,6 @@
+bounce@infusionmail.com
+mailer@infusionmail.com
+infdmarcaggr@infusionmail.com
+noreply@infusionmail.com
+waitingmailer@infusionmail.com
+gmail@infusionmail.com

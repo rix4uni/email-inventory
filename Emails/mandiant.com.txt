@@ -1,0 +1,7 @@
+admin@mandiant.com
+vn@mandiant.com
+partnerhelp@mandiant.com
+certification@mandiant.com
+intelconnector@mandiant.com
+flare-gsoc-2023@mandiant.com
+certifications@mandiant.com

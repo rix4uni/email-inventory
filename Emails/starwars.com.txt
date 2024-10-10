@@ -1,0 +1,7 @@
+obi@starwars.com
+rei@starwars.com
+jar@starwars.com
+jaba@starwars.com
+princess.leia@starwars.com
+source-@starwars.com
+boba.fett@starwars.com

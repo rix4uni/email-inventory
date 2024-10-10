@@ -1,0 +1,7 @@
+billing@posthog.com
+ian@posthog.com
+paul@posthog.com
+u003eprivacy@posthog.com
+security@posthog.com
+perf@posthog.com
+eric@posthog.com

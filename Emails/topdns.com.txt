@@ -1,0 +1,3 @@
+domain@topdns.com
+suspended.domain@topdns.com
+servers@topdns.com

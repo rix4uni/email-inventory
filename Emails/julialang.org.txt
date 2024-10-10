@@ -1,0 +1,3 @@
+diversity@julialang.org
+compathelper_noreply@julialang.org
+community@julialang.org

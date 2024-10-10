@@ -1,0 +1,6 @@
+stichting@nlnog.net
+ring-admins@nlnog.net
+irc@nlnog.net
+ircnet@nlnog.net
+nlnog@nlnog.net
+nlnog-owner@nlnog.net

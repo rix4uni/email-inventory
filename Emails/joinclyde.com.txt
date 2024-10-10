@@ -1,0 +1,7 @@
+first@joinclyde.com
+joe@joinclyde.com
+flast@joinclyde.com
+jdoe@joinclyde.com
+first.last@joinclyde.com
+joe.doe@joinclyde.com
+last@joinclyde.com
