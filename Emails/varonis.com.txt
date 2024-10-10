@@ -13,3 +13,10 @@ admin@varonis.com
 afyffe@varonis.com
 agreen@varonis.com
 ajacobs@varonis.com
+dl-privacy-request@varonis.com
+albenton@varonis.com
+partner-portal@varonis.com
+mgarza@varonis.com
+rvanzonneveld@varonis.com
+team_au@varonis.com
+info_au@varonis.com

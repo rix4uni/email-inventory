@@ -1,0 +1,7 @@
+uvic.ca@openldap.org
+ietf-lbis@openldap.org
+mailman-owner@openldap.org
+mailman-request@openldap.org
+ietf-ldapbis-owner@openldap.org
+hymerfania.com@openldap.org
+remitpro.com@openldap.org

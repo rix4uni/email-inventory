@@ -1,0 +1,2 @@
+server@iplocation.net
+admin@iplocation.net

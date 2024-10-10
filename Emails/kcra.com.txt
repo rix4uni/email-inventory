@@ -1,0 +1,7 @@
+alerts@kcra.com
+sacnews@kcra.com
+newstips@kcra.com
+engineering@kcra.com
+info@kcra.com
+kcranewstips@kcra.com
+sales@kcra.com

@@ -8,3 +8,10 @@ george.porcella@clubhouse.com
 info@clubhouse.com
 international@clubhouse.com
 luke@clubhouse.com
+suspension@clubhouse.com
+recruiting_accomodations@clubhouse.com
+community@clubhouse.com
+ncommunity@clubhouse.com
+privacy@clubhouse.com
+legalrequest@clubhouse.com
+recruiting_accommodations@clubhouse.com

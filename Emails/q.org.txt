@@ -1,0 +1,7 @@
+q.org@paul.sladen.org
+debian@paul.sladen.org
+debparty-wiki@paul.sladen.org
+libiphone@paul.sladen.org
+ubuntu@paul.sladen.org
+totalnic@paul.sladen.org
+email.me@paul.sladen.org

@@ -1,0 +1,7 @@
+kate@kde.org
+bcc@kde.org
+cc@kde.org
+kde-l10n-eo@kde.org
+accid@kde.org
+kde-edu-devel@kde.org
+cb@kde.org

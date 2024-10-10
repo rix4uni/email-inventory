@@ -1,0 +1,7 @@
+etienne.collins@workjam.com
+first@workjam.com
+joe@workjam.com
+flast@workjam.com
+jdoe@workjam.com
+first.last@workjam.com
+joe.doe@workjam.com

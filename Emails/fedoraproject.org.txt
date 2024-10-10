@@ -1,0 +1,7 @@
+chimosky@fedoraproject.org
+guillermo.gomez@fedoraproject.org
+wilmer.jaramillo@fedoraproject.org
+soko@fedoraproject.org
+phuzion@fedoraproject.org
+xvitaly@fedoraproject.org
+rpeterso@fedoraproject.org

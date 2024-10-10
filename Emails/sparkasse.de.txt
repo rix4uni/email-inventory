@@ -1,0 +1,7 @@
+kunden-support@sparkasse.de
+avviso@sparkasse.de
+john@sparkasse.de
+john.doe@sparkasse.de
+doejohn@sparkasse.de
+jd@sparkasse.de
+doe_john@sparkasse.de

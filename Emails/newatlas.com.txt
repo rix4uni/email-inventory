@@ -1,0 +1,7 @@
+maps@newatlas.com
+chambermaps@newatlas.com
+sales@newatlas.com
+orders@newatlas.com
+feedback@newatlas.com
+info@newatlas.com
+editor@newatlas.com

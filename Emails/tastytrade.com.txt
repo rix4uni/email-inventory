@@ -1,0 +1,5 @@
+accounts@tastytrade.com
+autotrade@tastytrade.com
+tradedesk@tastytrade.com
+banking@tastytrade.com
+api.support@tastytrade.com

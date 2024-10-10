@@ -7,3 +7,9 @@ domain@1shoppingcart.com
 domainregistrar@1shoppingcart.com
 emails@1shoppingcart.com
 geof@1shoppingcart.com
+support@1shoppingcart.com
+sales@1shoppingcart.com
+those@1shoppingcart.com
+info@1shoppingcart.com
+shopping@1shoppingcart.com
+marks@1shoppingcart.com

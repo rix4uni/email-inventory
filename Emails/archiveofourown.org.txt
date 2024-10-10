@@ -1,0 +1,5 @@
+do-not-reply@archiveofourown.org
+test@archiveofourown.org
+valid2@archiveofourown.org
+foo1@archiveofourown.org
+info@archiveofourown.org

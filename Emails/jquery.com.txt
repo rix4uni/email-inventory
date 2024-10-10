@@ -1,0 +1,7 @@
+ui@jquery.com
+legal@jquery.com
+richard@jquery.com
+plugins@jquery.com
+looking@jquery.com
+content@jquery.com
+dave@jquery.com

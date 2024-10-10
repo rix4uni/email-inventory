@@ -1,0 +1,7 @@
+postmaster@your-server.de
+test@your-server.de
+abuse@your-server.de
+info@your-server.de
+root@your-server.de
+office@your-server.de
+ximenaycud@your-server.de

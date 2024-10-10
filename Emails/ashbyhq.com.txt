@@ -1,0 +1,6 @@
+lindsay@ashbyhq.com
+integrations@ashbyhq.com
+assessment-webhooks@ashbyhq.com
+test@ashbyhq.com
+test.email@ashbyhq.com
+u003esupport@ashbyhq.com

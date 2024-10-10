@@ -1,0 +1,7 @@
+sergio.costas@canonical.com
+heather.lemon@canonical.com
+nishit.majithia@canonical.com
+mark.esler@canonical.com
+marcin.wilk@canonical.com
+nikita.koltsov@canonical.com
+james.lin@canonical.com

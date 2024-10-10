@@ -13,3 +13,9 @@ info.jyvaskyla@sokos.fi
 jaana.karttunen@sokos.fi
 kari.ojala@sokos.fi
 kotka@sokos.fi
+sokos.lappeenranta@sokos.fi
+tanja.markkanen@sokos.fi
+pukeutuminen.naisetpori@sokos.fi
+pukeutuminen-miehet.pori@sokos.fi
+pukeutuminen-naiset.wiklund@sokos.fi
+tytti.saxman@sokos.fi

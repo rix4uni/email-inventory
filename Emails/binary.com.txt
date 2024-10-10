@@ -12,3 +12,10 @@ bea@binary.com
 beset@binary.com
 binary@binary.com
 binarybot@binary.com
+evgeniy@binary.com
+ivan@binary.com
+apoorv@binary.com
+kirill@binary.com
+greg@binary.com
+mohammad@binary.com
+tazeek@binary.com

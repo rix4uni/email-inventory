@@ -1,0 +1,2 @@
+dmarcreports@admindroid.com
+dmarcfailures@admindroid.com

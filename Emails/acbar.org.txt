@@ -1,0 +1,7 @@
+jalmanager@acbar.org
+coordination_jal@acbar.org
+adminjal@acbar.org
+admin@acbar.org
+webinfo@acbar.org
+anja@acbar.org
+pc@acbar.org

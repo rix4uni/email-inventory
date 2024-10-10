@@ -1,0 +1,3 @@
+sales@syncthing.net
+info@syncthing.net
+security@syncthing.net

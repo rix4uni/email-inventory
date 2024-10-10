@@ -1,0 +1,4 @@
+neku@pomf.se
+avail@pomf.se
+lsneku@pomf.se
+lsavail@pomf.se

@@ -13,3 +13,8 @@ abc-erp@sf.net
 abcexceltoolbar@sf.net
 abdetective@sf.net
 abetterportscan@sf.net
+octave-dev@sf.net
+adi@sf.net
+pieterb@sf.net
+wxtv@sf.net
+npat@sf.net

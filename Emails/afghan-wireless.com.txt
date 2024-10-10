@@ -1,0 +1,2 @@
+obs@afghan-wireless.com
+dmarc@afghan-wireless.com

@@ -8,3 +8,5 @@ edu@yeswehack.com
 f.michaux@yeswehack.com
 ilham@yeswehack.com
 jobs@yeswehack.com
+department_marketing@yeswehack.com
+m.ogren@yeswehack.com

@@ -1,0 +1,4 @@
+serverupgrades@ntppool.org
+upgrades@ntppool.org
+ask@ntppool.org
+help@ntppool.org

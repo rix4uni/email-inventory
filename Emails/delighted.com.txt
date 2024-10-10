@@ -1,0 +1,7 @@
+delighted-google-sso-support@delighted.com
+john-smith@delighted.com
+john@delighted.com
+smith@delighted.com
+john.smith@delighted.com
+johnsmith@delighted.com
+john_smith@delighted.com

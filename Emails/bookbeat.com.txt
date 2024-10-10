@@ -13,3 +13,10 @@ feedback.no@bookbeat.com
 feedback.pl@bookbeat.com
 feedback.se@bookbeat.com
 feedback.uk@bookbeat.com
+info.nl@bookbeat.com
+gavekort@bookbeat.com
+u003egavekort@bookbeat.com
+u003esupport.no@bookbeat.com
+assistenza@bookbeat.com
+u003eassistenza@bookbeat.com
+info.no@bookbeat.com
