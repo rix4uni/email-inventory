@@ -1,0 +1,4 @@
+info@kopano.io
+development@kopano.io
+contributing@kopano.io
+feedback@kopano.io

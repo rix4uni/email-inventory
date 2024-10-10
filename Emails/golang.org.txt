@@ -1,0 +1,7 @@
+support@golang.org
+eliben@golang.org
+joedian@golang.org
+joetsai@golang.org
+testuser@golang.org
+chressie@golang.org
+u003crsc@golang.org

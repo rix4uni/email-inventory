@@ -1,0 +1,7 @@
+mailer-daemon@cba.pl
+domeny@cba.pl
+admin@cba.pl
+strony@cba.pl
+zgrzyt@cba.pl
+support@cba.pl
+quickpolska@cba.pl

@@ -1,0 +1,3 @@
+freeman@steamdb.info
+info@steamdb.info
+firefox-extension@steamdb.info

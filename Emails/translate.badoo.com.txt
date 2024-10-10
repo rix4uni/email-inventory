@@ -1,0 +1,4 @@
+name@translate.wordpress.org
+installation@translate.wordpress.org
+projects@translate.wordpress.org
+located@translate.wordpress.org

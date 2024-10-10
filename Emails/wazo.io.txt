@@ -1,0 +1,7 @@
+dev@wazo.io
+jerome@wazo.io
+dpo@wazo.io
+dpd@wazo.io
+press@wazo.io
+afournier@wazo.io
+safchain@wazo.io

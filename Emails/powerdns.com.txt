@@ -8,3 +8,8 @@ michel@powerdns.com
 nbert.hubert@powerdns.com
 pdns@powerdns.com
 pdns-users@powerdns.com
+sales@powerdns.com
+powerdns.support.sales@powerdns.com
+powerdns.support@powerdns.com
+support@powerdns.com
+peter.van.dijk@powerdns.com

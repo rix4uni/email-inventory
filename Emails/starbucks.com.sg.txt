@@ -13,3 +13,5 @@ corporatesales@starbucks.com.sg
 customer@starbucks.com.sg
 cyong@starbucks.com.sg
 eneo@starbucks.com.sg
+noreply@starbucks.com.sg
+customercare@starbucks.com.sg

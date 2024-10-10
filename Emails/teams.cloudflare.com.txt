@@ -1,0 +1,7 @@
+pkg-bsdmainutils@teams.debian.net
+pkg-debfoster@teams.debian.net
+pkg-devscripts@teams.debian.net
+project-etchnahalf@teams.debian.net
+pkg-topgit@teams.debian.net
+listmaster@teams.debian.net
+area-muc@teams.debian.net

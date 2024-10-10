@@ -13,3 +13,10 @@
 2590@gitlab.org
 2600@gitlab.org
 2603@gitlab.org
+284@gitlab.org
+creator@gitlab.org
+611@gitlab.org
+option@gitlab.org
+47@gitlab.org
+languages@gitlab.org
+782@gitlab.org

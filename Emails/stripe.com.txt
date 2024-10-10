@@ -12,3 +12,10 @@ ach@stripe.com
 acs@stripe.com
 ad-reply@stripe.com
 adam@stripe.com
+u002bterminal@stripe.com
+service@stripe.com
+baas@stripe.com
+complaints-in@stripe.com
+lawenforcement@stripe.com
+lerequests@stripe.com
+commercetools@stripe.com

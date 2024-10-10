@@ -8,3 +8,5 @@ asupport@32red.com
 ayuda@32red.com
 bonus@32red.com
 brian@32red.com
+basic@32red.com
+32red@32red.com

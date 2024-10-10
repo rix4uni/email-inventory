@@ -1,0 +1,4 @@
+kai@openhab.org
+info@openhab.org
+admin@openhab.org
+thomas@openhab.org

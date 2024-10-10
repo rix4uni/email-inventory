@@ -1,0 +1,7 @@
+cliskh@linuxfoundation.org
+srao@linuxfoundation.org
+jlee@linuxfoundation.org
+jperlow@linuxfoundation.org
+cncfcolocatedevents@linuxfoundation.org
+hyperledger-events@linuxfoundation.org
+nlehman@linuxfoundation.org

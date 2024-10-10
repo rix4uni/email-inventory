@@ -1,0 +1,4 @@
+server@ad-magazin.de
+abo@ad-magazin.de
+sales@ad-magazin.de
+info@ad-magazin.de

@@ -1,0 +1,3 @@
+dries@laravel.com
+laravel_tinker@laravel.com
+5cntaylor@laravel.com

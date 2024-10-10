@@ -1,0 +1,7 @@
+janet@sentry.io
+crons-feedback@sentry.io
+swag-support@sentry.io
+aprasad@sentry.io
+luca.forstner@sentry.io
+hello-codecov@sentry.io
+accommodations@sentry.io

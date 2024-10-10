@@ -12,3 +12,4 @@ aspentech@agents.icims.com
 autoreply@agents.icims.com
 avalonbay@agents.icims.com
 brhc@agents.icims.com
+spanopratt@agents.icims.com

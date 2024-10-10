@@ -8,3 +8,4 @@ heckl@dcs.vein.hu
 kormendi@dcs.vein.hu
 lakner@dcs.vein.hu
 maros@dcs.vein.hu
+majozi@dcs.vein.hu

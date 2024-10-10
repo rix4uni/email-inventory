@@ -1,0 +1,5 @@
+adblock@pi-hole.net
+info@pi-hole.net
+dan.schaper@pi-hole.net
+jacob.salmela@pi-hole.net
+wally3k@pi-hole.net

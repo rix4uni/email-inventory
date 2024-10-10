@@ -13,3 +13,10 @@ andrea@npmjs.com
 andrew@npmjs.com
 angela@npmjs.com
 anne@npmjs.com
+u003cben@npmjs.com
+firebase@npmjs.com
+github@npmjs.com
+axios@npmjs.com
+jest@npmjs.com
+robot@npmjs.com
+community@npmjs.com

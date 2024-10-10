@@ -1,0 +1,7 @@
+john@chartboost.com
+john.smith@chartboost.com
+johnsmith@chartboost.com
+john_smith@chartboost.com
+smith@chartboost.com
+in-app-bidding@chartboost.com
+hr@chartboost.com

@@ -1,0 +1,5 @@
+john@gitbook.com
+john.smith@gitbook.com
+johnsmith@gitbook.com
+john_smith@gitbook.com
+smith@gitbook.com

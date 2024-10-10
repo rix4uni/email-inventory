@@ -285,3 +285,6 @@ americas@astaro.com
 uweber@astaro.com
 apac@astaro.com
 kmoeschle@astaro.com
+acc@astaro.com
+hschaa@astaro.com
+acc-support@astaro.com

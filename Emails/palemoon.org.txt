@@ -1,0 +1,6 @@
+langpack-sr@palemoon.org
+langpack-is@palemoon.org
+langpack-ro@palemoon.org
+langpack-zh-tw@palemoon.org
+langpack-sl@palemoon.org
+langpack-fi@palemoon.org

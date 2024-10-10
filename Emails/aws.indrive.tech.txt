@@ -13,3 +13,7 @@ jerome.fernald@aws.dillinger.biz
 john.roelands@aws.dillinger.biz
 joost.van.dijk@aws.dillinger.biz
 kees.beljaars@aws.dillinger.biz
+rinus.heistek@aws.dillinger.biz
+matthias.buurmans@aws.dillinger.biz
+miranda.baert@aws.dillinger.biz
+ron.wijnings@aws.dillinger.biz

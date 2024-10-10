@@ -1,0 +1,4 @@
+info@transifex.net
+support@transifex.net
+solution@transifex.net
+interface@transifex.net

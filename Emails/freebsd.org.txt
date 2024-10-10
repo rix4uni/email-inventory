@@ -1,0 +1,7 @@
+freebsd-accessibility@freebsd.org
+dev-commits-ports-all@freebsd.org
+dev-commits-doc-all@freebsd.org
+ronald@freebsd.org
+gnome-ports-bugs@freebsd.org
+grimes@freebsd.org
+yuan@freebsd.org

@@ -1,0 +1,7 @@
+nfl@sportskeeda.com
+basketball@sportskeeda.com
+fantasy@sportskeeda.com
+esports1@sportskeeda.com
+football1@sportskeeda.com
+combat@sportskeeda.com
+tennis@sportskeeda.com

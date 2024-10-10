@@ -1,0 +1,4 @@
+john.doe@aphrodites.com
+info@aphrodites.com
+alina@aphrodites.com
+amy@aphrodites.com

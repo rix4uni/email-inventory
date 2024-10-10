@@ -12,3 +12,4 @@ contest@astrogaming.com
 email@astrogaming.com
 euevents@astrogaming.com
 feedback@astrogaming.com
+stan@astrogaming.com

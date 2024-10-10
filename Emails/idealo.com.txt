@@ -1,0 +1,7 @@
+pricecomparison@idealo.com
+pricing@idealo.com
+product@idealo.com
+comparison@idealo.com
+flights@idealo.com
+online@idealo.com
+viajes@idealo.com

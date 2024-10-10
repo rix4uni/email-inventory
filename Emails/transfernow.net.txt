@@ -1,0 +1,2 @@
+dmarc@transfernow.net
+apps@transfernow.net

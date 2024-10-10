@@ -13,3 +13,5 @@ do-not-reply@poloniex.com
 email@poloniex.com
 info@poloniex.com
 marketing@poloniex.com
+anna.zvegintceva@poloniex.com
+listings@poloniex.com

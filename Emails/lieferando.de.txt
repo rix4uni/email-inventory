@@ -176,3 +176,4 @@ foodfactor@lieferando.de
 foodwiki@lieferando.de
 iphoneapp@lieferando.de
 kai.hansen@lieferando.de
+business@lieferando.de

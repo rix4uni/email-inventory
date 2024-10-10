@@ -12,3 +12,4 @@ auction@oneplus.net
 bacon@oneplus.net
 bd@oneplus.net
 blog@oneplus.net
+apps_launcher@oneplus.net

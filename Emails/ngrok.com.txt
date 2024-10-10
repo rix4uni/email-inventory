@@ -7,3 +7,8 @@ frank@ngrok.com
 info@ngrok.com
 joshua@ngrok.com
 myuser@ngrok.com
+ngrok-oauth@ngrok.com
+sam@ngrok.com
+danger@ngrok.com
+partners@ngrok.com
+inconshreveable@ngrok.com

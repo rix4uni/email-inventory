@@ -1,0 +1,5 @@
+help-legacy@bittorrent.com
+utorrent-android@bittorrent.com
+dorothy@bittorrent.com
+usandroid@bittorrent.com
+email_bttc_service@bittorrent.com

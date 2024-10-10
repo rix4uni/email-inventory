@@ -1,0 +1,7 @@
+opensuse-buildservice-help@opensuse.org
+opensuse-wiki-unsubscribe@opensuse.org
+opensuse-wiki-help@opensuse.org
+cwh@opensuse.org
+documentation@opensuse.org
+opensuse-maint@opensuse.org
+email@opensuse.org

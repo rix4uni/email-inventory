@@ -1008,3 +1008,10 @@ afeldman@newrelic.com
 agedi@newrelic.com
 aherve@newrelic.com
 akhil@newrelic.com
+up@newrelic.com
+japan_pr@newrelic.com
+customer.notices@newrelic.com
+esg@newrelic.com
+aco@newrelic.com
+askpeopleops@newrelic.com
+accommodation@newrelic.com

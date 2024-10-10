@@ -1,0 +1,5 @@
+john.smith@salonultimate.com
+johnsmith@salonultimate.com
+john_smith@salonultimate.com
+john@salonultimate.com
+smith@salonultimate.com

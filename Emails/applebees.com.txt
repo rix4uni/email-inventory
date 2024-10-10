@@ -1,0 +1,7 @@
+jsmith@applebees.com
+john@applebees.com
+john_doe@applebees.com
+johndoe@applebees.com
+jd@applebees.com
+jdoe@applebees.com
+john.doe@applebees.com
