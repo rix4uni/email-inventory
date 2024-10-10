@@ -1,3 +1,7 @@
 james.bond@sine.co
 host-email@sine.co
 u003esupport@sine.co
+u003einvite@sine.co
+no-reply@sine.co
+u003eno-reply@sine.co
+user@sine.co

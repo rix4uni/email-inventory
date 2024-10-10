@@ -5,3 +5,4 @@ applications@sans.edu
 registrar@sans.edu
 rsvp@sans.edu
 stephen@sans.edu
+hiringtalent@sans.edu
