@@ -1,0 +1,7 @@
+jane.doe@mariadb.com
+jane@mariadb.com
+jdoe@mariadb.com
+assen.totin@mariadb.com
+bod@mariadb.com
+u003epramod.mahto@mariadb.com
+david.mott@mariadb.com

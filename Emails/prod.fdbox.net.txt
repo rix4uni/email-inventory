@@ -1,0 +1,5 @@
+legal-sales@prod.lexis-nexis.com
+sciencedirect@prod.lexis-nexis.com
+custsrv@prod.lexis-nexis.com
+pr@prod.lexis-nexis.com
+webmaster@prod.lexis-nexis.com

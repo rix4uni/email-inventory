@@ -1,0 +1,5 @@
+hostmaster@amnic.net
+imkrtumyan@amnic.net
+noc@amnic.net
+amnic@amnic.net
+edd@amnic.net

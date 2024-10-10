@@ -1,0 +1,5 @@
+copyright.agent@beatport.com
+reconnect@beatport.com
+fund@beatport.com
+rob.eatwell@beatport.com
+itsupport@beatport.com

@@ -1,0 +1,5 @@
+john.smith@yieldify.com
+john@yieldify.com
+johnsmith@yieldify.com
+john_smith@yieldify.com
+smith@yieldify.com

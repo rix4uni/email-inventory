@@ -1,0 +1,7 @@
+michael@gem.com
+peopleops@gem.com
+first@gem.com
+flast@gem.com
+jdoe@gem.com
+first.last@gem.com
+joe.doe@gem.com

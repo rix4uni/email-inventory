@@ -12,3 +12,5 @@ confirmations@getaroom.com
 consumerrelations@getaroom.com
 contact@getaroom.com
 customercare@getaroom.com
+hotels@getaroom.com
+support@getaroom.com

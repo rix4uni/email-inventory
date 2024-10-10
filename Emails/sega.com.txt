@@ -1,0 +1,3 @@
+fresh25@sega.com
+segapress-web@sega.com
+sls_serv@sega.com

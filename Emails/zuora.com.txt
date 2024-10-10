@@ -1,0 +1,7 @@
+s@zuora.com
+ancohen@zuora.com
+guidedsellingportal@zuora.com
+customer_success_jp@zuora.com
+audit-trail@zuora.com
+user@zuora.com
+cho@zuora.com

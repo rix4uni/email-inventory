@@ -13,3 +13,7 @@ johnj@external.umass.edu
 jpalma@external.umass.edu
 jrabin@external.umass.edu
 maccsdb@external.umass.edu
+ruderman@external.umass.edu
+massrev@external.umass.edu
+spapush@external.umass.edu
+usa@external.umass.edu

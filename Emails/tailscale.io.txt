@@ -1,0 +1,2 @@
+info@tailscale.io
+privacy@tailscale.io

@@ -12,3 +12,5 @@ android-support@videolan.org
 anil@videolan.org
 arnaud.meltz@videolan.org
 asmax@videolan.org
+appleid-builders@videolan.org
+u003ctiter@videolan.org

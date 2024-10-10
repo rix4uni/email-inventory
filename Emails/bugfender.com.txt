@@ -1,0 +1,3 @@
+sales@bugfender.com
+marketing@bugfender.com
+support@bugfender.com

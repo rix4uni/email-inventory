@@ -1,0 +1,3 @@
+info@libreelec.tv
+donations@libreelec.tv
+docker@libreelec.tv

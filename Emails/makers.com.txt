@@ -13,3 +13,4 @@ hello@makers.com
 holly@makers.com
 info@makers.com
 julie@makers.com
+press@makers.com

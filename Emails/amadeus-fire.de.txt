@@ -1,0 +1,7 @@
+pv.accounting.koeln@amadeus-fire.de
+accounting.bielefeld@amadeus-fire.de
+pv.office.berlin@amadeus-fire.de
+accounting.kassel@amadeus-fire.de
+accounting.bremen@amadeus-fire.de
+pvim.duesseldorf@amadeus-fire.de
+pv.it.berlin@amadeus-fire.de

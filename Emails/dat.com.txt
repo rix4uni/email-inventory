@@ -1,0 +1,7 @@
+certs@dat.com
+u003ecerts@dat.com
+dataops@dat.com
+benchmarkcs@dat.com
+u003edataops@dat.com
+u003ebenchmarkcs@dat.com
+20techsupportteamleads@dat.com

@@ -1,0 +1,6 @@
+support@kodular.io
+support-billing@kodular.io
+support-deletion@kodular.io
+support-recovery@kodular.io
+conor@kodular.io
+diego@kodular.io

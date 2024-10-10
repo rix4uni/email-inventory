@@ -1,0 +1,6 @@
+peter.james@goldprice.org
+pjames@goldprice.org
+alert@goldprice.org
+dealers@goldprice.org
+prices@goldprice.org
+minutes@goldprice.org

@@ -1,0 +1,7 @@
+customerservice_ee@booztlet.com
+customerservice_lt@booztlet.com
+customerservice_dk@booztlet.com
+customerservice_lv@booztlet.com
+customerservice_pl@booztlet.com
+customerservice_ch@booztlet.com
+customerservice_se@booztlet.com

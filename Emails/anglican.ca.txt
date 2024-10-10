@@ -1,0 +1,6 @@
+majordomo@anglican.ca
+accounting@anglican.ca
+kapn@anglican.ca
+webmanager@anglican.ca
+sites@anglican.ca
+info@anglican.ca

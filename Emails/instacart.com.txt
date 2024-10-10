@@ -13,3 +13,10 @@ albertsons-market-street@instacart.com
 aldi@instacart.com
 amehta@instacart.com
 amy@instacart.com
+u003eaccommodations@instacart.com
+npm-publish@instacart.com
+deletedaccountinquiries@instacart.com
+hello@instacart.com
+bala@instacart.com
+investors@instacart.com
+ishwinder.singh@instacart.com

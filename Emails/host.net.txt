@@ -1,0 +1,6 @@
+u003euser@host.net
+sender@host.net
+some_email@host.net
+someone@host.net
+qwerty@host.net
+peer_1@host.net

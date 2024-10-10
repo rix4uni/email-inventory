@@ -1,0 +1,7 @@
+first@workstream.us
+joe@workstream.us
+flast@workstream.us
+jdoe@workstream.us
+first.last@workstream.us
+joe.doe@workstream.us
+last@workstream.us

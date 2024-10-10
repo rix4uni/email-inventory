@@ -13,3 +13,10 @@ anton@vendhq.com
 api@vendhq.com
 assistant@vendhq.com
 atiwanttobeceo@vendhq.com
+sales@vendhq.com
+support@vendhq.com
+partners@vendhq.com
+sim@vendhq.com
+nick@vendhq.com
+headoftalent@vendhq.com
+vaughan@vendhq.com

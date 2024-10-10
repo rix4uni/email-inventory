@@ -12,3 +12,5 @@ feedback@amazon.cn
 invoice@amazon.cn
 kindle-appstore@amazon.cn
 kindle-pic-logs@amazon.cn
+cs-reply@amazon.cn
+support-seller@amazon.cn

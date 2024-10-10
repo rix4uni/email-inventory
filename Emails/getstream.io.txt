@@ -1,0 +1,7 @@
+exampleemailaddress@getstream.io
+sender@getstream.io
+recipient@getstream.io
+lou@getstream.io
+jessica.nelson@getstream.io
+amos.gyamfi@getstream.io
+product@getstream.io

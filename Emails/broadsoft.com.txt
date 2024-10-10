@@ -1,0 +1,7 @@
+stephane@broadsoft.com
+johndoe@broadsoft.com
+john.doe@broadsoft.com
+john_doe@broadsoft.com
+johnd@broadsoft.com
+jd@broadsoft.com
+doejohn@broadsoft.com

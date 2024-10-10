@@ -1,0 +1,7 @@
+addict@gbatemp.net
+admin@gbatemp.net
+contributor@gbatemp.net
+fan@gbatemp.net
+fanboy@gbatemp.net
+guru@gbatemp.net
+king@gbatemp.net

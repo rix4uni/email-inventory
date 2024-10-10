@@ -1,0 +1,7 @@
+customer-success@docker.com
+jorge.jaramillo@docker.com
+shy.ruparel@docker.com
+sophia.parafina@docker.com
+nick.santos@docker.com
+doi@docker.com
+opensource@docker.com

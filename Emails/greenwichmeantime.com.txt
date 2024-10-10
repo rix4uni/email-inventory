@@ -1,0 +1,3 @@
+server@greenwichmeantime.com
+zone@greenwichmeantime.com
+info@greenwichmeantime.com

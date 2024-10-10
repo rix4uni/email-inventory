@@ -1,0 +1,5 @@
+checkmyauth@auth.returnpath.net
+dmarc_agg@auth.returnpath.net
+dmarcagg@auth.returnpath.net
+dmarc_afrf@auth.returnpath.net
+c_afrf@auth.returnpath.net

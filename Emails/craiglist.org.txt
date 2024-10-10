@@ -1,0 +1,7 @@
+jobs@craiglist.org
+nreply@craiglist.org
+craig@craiglist.org
+no-reply@craiglist.org
+service@craiglist.org
+help@craiglist.org
+noreply@craiglist.org

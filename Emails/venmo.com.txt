@@ -13,3 +13,10 @@ businesssupport@venmo.com
 campus@venmo.com
 cardsupport@venmo.com
 code@venmo.com
+disputedpayments@venmo.com
+crowcarl@venmo.com
+open-source@venmo.com
+investigate@venmo.com
+chargebackdisputes@venmo.com
+nsupport@venmo.com
+20privacy@venmo.com

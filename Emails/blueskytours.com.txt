@@ -12,3 +12,8 @@ dp@blueskytours.com
 duringtravel@blueskytours.com
 gb@blueskytours.com
 groups@blueskytours.com
+info@blueskytours.com
+customerservice@blueskytours.com
+res_e@blueskytours.com
+sales@blueskytours.com
+susan@blueskytours.com

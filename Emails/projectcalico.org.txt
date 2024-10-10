@@ -1,0 +1,7 @@
+info@projectcalico.org
+emma@projectcalico.org
+shaun@projectcalico.org
+matt@projectcalico.org
+rob@projectcalico.org
+tom@projectcalico.org
+christopher@projectcalico.org

@@ -1,0 +1,6 @@
+ios-log@mapfactor.com
+android-log@mapfactor.com
+sales@mapfactor.com
+ios@mapfactor.com
+lubos@mapfactor.com
+obchod@mapfactor.com

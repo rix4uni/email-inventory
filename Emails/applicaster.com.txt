@@ -1,0 +1,7 @@
+tsupport@applicaster.com
+first@applicaster.com
+joe@applicaster.com
+flast@applicaster.com
+jdoe@applicaster.com
+first.last@applicaster.com
+joe.doe@applicaster.com

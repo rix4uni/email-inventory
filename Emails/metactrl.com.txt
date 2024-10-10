@@ -1,0 +1,7 @@
+dropsync@metactrl.com
+boxsync@metactrl.com
+drivesync@metactrl.com
+hello@metactrl.com
+wifiadb@metactrl.com
+onesync@metactrl.com
+autousbtethering@metactrl.com

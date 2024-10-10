@@ -1,0 +1,3 @@
+info@wikidata.org
+wbsearchentities@wikidata.org
+oversight@wikidata.org

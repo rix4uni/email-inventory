@@ -1,0 +1,2 @@
+registry@aname.net
+folkan@aname.net

@@ -13,3 +13,6 @@ a.schneiders@academy.rwth-aachen.de
 a.stammermann@academy.rwth-aachen.de
 a.wesner@academy.rwth-aachen.de
 accommodation@academy.rwth-aachen.de
+nmpa-es@academy.rwth-aachen.de
+latin-america@academy.rwth-aachen.de
+ahi@academy.rwth-aachen.de

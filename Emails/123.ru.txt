@@ -1,0 +1,4 @@
+text@123.ru
+_123@123.ru
+example@123.ru
+ddd@123.ru

@@ -1,0 +1,7 @@
+bernadette.pichardo@weather.com
+thunderstorms@weather.com
+rains@weather.com
+rainfall@weather.com
+karnataka@weather.com
+kerala@weather.com
+earthquake@weather.com

@@ -8,3 +8,9 @@ investor@alibabagroup.com
 investorday@alibabagroup.com
 jacck@alibabagroup.com
 jack@alibabagroup.com
+jsmith@alibabagroup.com
+john@alibabagroup.com
+john.smith@alibabagroup.com
+johnsmith@alibabagroup.com
+johns@alibabagroup.com
+smith_john@alibabagroup.com

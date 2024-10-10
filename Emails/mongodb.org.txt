@@ -1,0 +1,7 @@
+info@mongodb.org
+justin@mongodb.org
+sales@mongodb.org
+kristina@mongodb.org
+jira@mongodb.org
+eliot@mongodb.org
+6info@mongodb.org

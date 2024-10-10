@@ -8,3 +8,6 @@ legal@matomo.org
 lukas@matomo.org
 marketing@matomo.org
 marketplace@matomo.org
+nprivacy@matomo.org
+support-lookerstudio@matomo.org
+sprivacy@matomo.org

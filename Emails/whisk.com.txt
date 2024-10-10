@@ -1,0 +1,7 @@
+hello@whisk.com
+integration@whisk.com
+pr@whisk.com
+sales@whisk.com
+admin@whisk.com
+manager@whisk.com
+nick@whisk.com

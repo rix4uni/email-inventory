@@ -1,0 +1,5 @@
+john@retargetly.com
+john.smith@retargetly.com
+johnsmith@retargetly.com
+john_smith@retargetly.com
+smith@retargetly.com
