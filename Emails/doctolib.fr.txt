@@ -13,3 +13,5 @@ https@doctolib.fr
 info@doctolib.fr
 john@doctolib.fr
 julia@doctolib.fr
+jessy@doctolib.fr
+ivan@doctolib.fr

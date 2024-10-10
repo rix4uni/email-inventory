@@ -1,0 +1,7 @@
+security@vadesecure.com
+dmarc-report@vadesecure.com
+20jennifer.greene@vadesecure.com
+jennifer.greene@vadesecure.com
+test@vadesecure.com
+pradipta.deb@vadesecure.com
+louis.charreau@vadesecure.com

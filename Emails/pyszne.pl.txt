@@ -8,3 +8,9 @@ iosapp@pyszne.pl
 konkurs@pyszne.pl
 kontakt@pyszne.pl
 no-reply@pyszne.pl
+telefon@pyszne.pl
+wynos@pyszne.pl
+online@pyszne.pl
+support@pyszne.pl
+tomasz.sikorski@pyszne.pl
+zakupami@pyszne.pl

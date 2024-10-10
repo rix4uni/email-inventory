@@ -1,0 +1,5 @@
+john.doe@sinparty.com
+support@sinparty.com
+hello@sinparty.com
+copyright@sinparty.com
+info@sinparty.com

@@ -1,0 +1,2 @@
+customer@your-site.com
+cassandra@your-site.com

@@ -1,0 +1,6 @@
+kyc@paysera.com
+kyc_company@paysera.com
+payments_info@paysera.com
+fraud@paysera.com
+d.turbatu@paysera.com
+example@paysera.com

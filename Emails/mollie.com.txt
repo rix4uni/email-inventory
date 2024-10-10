@@ -12,3 +12,10 @@ complaints@mollie.com
 compliance@mollie.com
 contactinfo@mollie.com
 creditcard@mollie.com
+pos-support@mollie.com
+fabian@mollie.com
+kenan@mollie.com
+markus.werra@mollie.com
+capital@mollie.com
+phishing@mollie.com
+korin.mima@mollie.com

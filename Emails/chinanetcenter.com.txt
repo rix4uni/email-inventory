@@ -1,0 +1,8 @@
+chinanetcenter.com@cloudstack.apache.org
+dev@cloudstack.apache.org
+security@cloudstack.apache.org
+users@cloudstack.apache.org
+private@cloudstack.apache.org
+marketing@cloudstack.apache.org
+users-subscribe@cloudstack.apache.org
+marketing-unsubscribe@cloudstack.apache.org

@@ -8,3 +8,6 @@ cte-dta@connect.uwaterloo.ca
 dkennedy@connect.uwaterloo.ca
 jdancker@connect.uwaterloo.ca
 makash@connect.uwaterloo.ca
+kgrindro@connect.uwaterloo.ca
+bmomani@connect.uwaterloo.ca
+sharenam@connect.uwaterloo.ca

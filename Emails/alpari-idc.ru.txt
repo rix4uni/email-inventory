@@ -1,0 +1,4 @@
+moscow@alpari-idc.ru
+spb@alpari-idc.ru
+andrey@alpari-idc.ru
+kiev@alpari-idc.ru

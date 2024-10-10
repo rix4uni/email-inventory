@@ -1,0 +1,7 @@
+sales@applicantstack.com
+partners@applicantstack.com
+support@applicantstack.com
+marketing@applicantstack.com
+info@applicantstack.com
+mailer-noreply@applicantstack.com
+michael.west@applicantstack.com

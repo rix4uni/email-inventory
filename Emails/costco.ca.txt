@@ -1,0 +1,7 @@
+service@costco.ca
+and@costco.ca
+orderstatus@costco.ca
+miles@costco.ca
+now@costco.ca
+online@costco.ca
+w162phm@costco.ca

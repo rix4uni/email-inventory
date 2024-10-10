@@ -1,0 +1,7 @@
+msfuser@rapid7.com
+kwan_lin@rapid7.com
+julian_waits@rapid7.com
+maya_hl@rapid7.com
+emergent_threat_advisory@rapid7.com
+managed@rapid7.com
+mdr_notifications@rapid7.com

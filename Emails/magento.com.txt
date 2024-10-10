@@ -13,3 +13,5 @@ alexandra.ustinova@magento.com
 aleza@magento.com
 alice.patzer@magento.com
 alina.goodnight@magento.com
+phpacademy@magento.com
+o@magento.com

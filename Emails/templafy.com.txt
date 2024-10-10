@@ -1,0 +1,7 @@
+first@templafy.com
+joe@templafy.com
+flast@templafy.com
+jdoe@templafy.com
+first.last@templafy.com
+joe.doe@templafy.com
+last@templafy.com

@@ -1,0 +1,7 @@
+info@dns.pl
+partner@dns.pl
+webmaster@dns.pl
+zmiana-abonenta@dns.pl
+pl-admin@dns.pl
+pl-tech@dns.pl
+transfer@dns.pl

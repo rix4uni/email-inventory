@@ -1,0 +1,7 @@
+wireshark-dev@wireshark.org
+wireshark-bugs@wireshark.org
+bugzilla-admin@wireshark.org
+gerald@wireshark.org
+info@wireshark.org
+wireshark-commits@wireshark.org
+wireshark-users@wireshark.org

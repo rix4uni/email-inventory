@@ -13,3 +13,10 @@ cswart@plaid.com
 cwatson@plaid.com
 danm@plaid.com
 dashboard@plaid.com
+hstaples@plaid.com
+sms@plaid.com
+enrich-feedback@plaid.com
+noreply@plaid.com
+echu@plaid.com
+ilacombe@plaid.com
+aglaab@plaid.com

@@ -1,0 +1,7 @@
+concours@jeedom.com
+partenaire@jeedom.com
+mathieu@jeedom.com
+support@jeedom.com
+support-jira@jeedom.com
+no-reply@jeedom.com
+postmaster@jeedom.com

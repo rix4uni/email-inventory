@@ -1,0 +1,4 @@
+hello@guardianapp.com
+feedback@guardianapp.com
+media@guardianapp.com
+tech-support@guardianapp.com

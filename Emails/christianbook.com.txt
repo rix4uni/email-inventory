@@ -1,0 +1,7 @@
+product.assistance@christianbook.com
+available@christianbook.com
+culpepper@christianbook.com
+customer.service@christianbook.com
+orders@christianbook.com
+info@christianbook.com
+manual@christianbook.com

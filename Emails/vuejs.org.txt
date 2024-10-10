@@ -1,0 +1,4 @@
+info@vuejs.org
+sponsor@vuejs.org
+community@vuejs.org
+bot@vuejs.org

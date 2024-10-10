@@ -1,0 +1,7 @@
+ttmplots@ripe.net
+timbru@ripe.net
+audio-exp@ripe.net
+audio-exp-request@ripe.net
+jnen@ripe.net
+060auto-rip@ripe.net
+060auto-181@ripe.net

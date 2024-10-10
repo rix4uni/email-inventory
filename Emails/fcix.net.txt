@@ -1,0 +1,3 @@
+noc@fcix.net
+peering@fcix.net
+contact@fcix.net

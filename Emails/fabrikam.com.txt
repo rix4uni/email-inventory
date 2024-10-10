@@ -1,0 +1,7 @@
+emily@fabrikam.com
+ana@fabrikam.com
+fake@fabrikam.com
+jane@fabrikam.com
+23@fabrikam.com
+_@fabrikam.com
+kim@fabrikam.com

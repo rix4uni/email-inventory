@@ -1,0 +1,4 @@
+android@deepl.com
+firefox-extension@deepl.com
+firefox@deepl.com
+write@deepl.com

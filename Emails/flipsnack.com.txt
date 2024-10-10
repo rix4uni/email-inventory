@@ -1,0 +1,3 @@
+legal@flipsnack.com
+abuse@flipsnack.com
+dmarc@flipsnack.com

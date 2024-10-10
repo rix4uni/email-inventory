@@ -13,3 +13,10 @@ ah@datastax.com
 ahattrell@datastax.com
 ain@datastax.com
 alan.boudreault@datastax.com
+srv-unito@datastax.com
+mary.grygleski@datastax.com
+u003ecommunity@datastax.com
+datastax-poly@datastax.com
+json-preview@datastax.com
+u003ejson-preview@datastax.com
+miles.garnsey@datastax.com

@@ -1,0 +1,7 @@
+guix@libera.chat
+kempe@libera.chat
+podman-desktop@libera.chat
+mozer@libera.chat
+whisper.cat@libera.chat
+taktpraha@libera.chat
+fdisotto@libera.chat

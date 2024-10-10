@@ -1,0 +1,4 @@
+isabelle.gobet1@swisscom.ch
+miguel.magnenat1@swisscom.ch
+andreas.fahrni@swisscom.ch
+benjamin.jungen@swisscom.ch

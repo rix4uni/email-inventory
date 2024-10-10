@@ -1,0 +1,7 @@
+npm@launchdarkly.com
+aws_mp_orders@launchdarkly.com
+sdks@launchdarkly.com
+arun@launchdarkly.com
+gwhelan@launchdarkly.com
+eli@launchdarkly.com
+bwoskow@launchdarkly.com

@@ -1,0 +1,7 @@
+john@looker.com
+john.smith@looker.com
+johnsmith@looker.com
+john_smith@looker.com
+smith@looker.com
+victor@looker.com
+integrations@looker.com

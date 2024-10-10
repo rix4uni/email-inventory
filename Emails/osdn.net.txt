@@ -1,0 +1,4 @@
+admin@osdn.net
+privacy@osdn.net
+webmaster@osdn.net
+security@osdn.net

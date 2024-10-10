@@ -13,3 +13,5 @@ support@heytap.com
 support.id@heytap.com
 support_au@heytap.com
 support_be@heytap.com
+app_bravo@heytap.com
+support_eu@heytap.com

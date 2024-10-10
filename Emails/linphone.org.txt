@@ -1,0 +1,7 @@
+website@linphone.org
+info@linphone.org
+simon.morlat@linphone.org
+jehan.monnier@linphone.org
+guillaume.beraudo@linphone.org
+sylvain.berfini@linphone.org
+pierre-eric.pelloux-prayer@linphone.org

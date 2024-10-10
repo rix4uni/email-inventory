@@ -7,3 +7,6 @@ corp2@tickets.ua
 events@tickets.ua
 feedback@tickets.ua
 hr@tickets.ua
+support@tickets.ua
+noreply@tickets.ua
+kino@tickets.ua

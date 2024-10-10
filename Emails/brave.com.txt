@@ -13,3 +13,10 @@ anthony@brave.com
 artem@brave.com
 asad@brave.com
 aseren@brave.com
+sceli@brave.com
+extensions@brave.com
+brand-bidding-suspensions@brave.com
+browser@brave.com
+hnewell@brave.com
+hr_privacy@brave.com
+stripe-payments@brave.com

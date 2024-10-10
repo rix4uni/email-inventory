@@ -8,3 +8,6 @@ foo@internet.org
 frustracja@internet.org
 happyfeet@internet.org
 human@internet.org
+name@internet.org
+admin@internet.org
+cool@internet.org

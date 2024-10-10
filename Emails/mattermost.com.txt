@@ -1,0 +1,7 @@
+ben.pearson@mattermost.com
+john.tzikas@mattermost.com
+juho.nurminen@mattermost.com
+miguel@mattermost.com
+agniva.de.sarker@mattermost.com
+eric@mattermost.com
+media@mattermost.com

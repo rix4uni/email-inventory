@@ -13,3 +13,4 @@ antonio.coelho@corp.globo.com
 appdev@corp.globo.com
 azambuja@corp.globo.com
 backstage@corp.globo.com
+igor.fernandes@corp.globo.com

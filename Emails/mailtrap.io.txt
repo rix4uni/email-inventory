@@ -1,0 +1,7 @@
+john.doe@mailtrap.io
+servera-12ab32@mailtrap.io
+abuse@mailtrap.io
+mailtrap@mailtrap.io
+webmaster@mailtrap.io
+sales@mailtrap.io
+test@mailtrap.io

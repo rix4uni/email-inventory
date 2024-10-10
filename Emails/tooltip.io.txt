@@ -1,0 +1,3 @@
+hello@tooltip.io
+privacy@tooltip.io
+legal@tooltip.io

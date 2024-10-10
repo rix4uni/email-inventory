@@ -1,0 +1,7 @@
+first@andjaro.com
+joe@andjaro.com
+flast@andjaro.com
+jdoe@andjaro.com
+first.last@andjaro.com
+joe.doe@andjaro.com
+last@andjaro.com
