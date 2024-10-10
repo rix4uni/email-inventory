@@ -3,3 +3,5 @@ james.zammit@angellist.com
 security@angellist.com
 fund-ops@angellist.com
 invest@angellist.com
+rollups@angellist.com
+portfolio@angellist.com

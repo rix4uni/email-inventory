@@ -4,3 +4,4 @@ sales-us@iadvize.com
 clement.spiers@iadvize.com
 john.doe@iadvize.com
 john@iadvize.com
+cyril.catel@iadvize.com
