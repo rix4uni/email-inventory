@@ -5,3 +5,4 @@ server@atomicorp.com
 cops@atomicorp.com
 info@atomicorp.com
 partner@atomicorp.com
+root@atomicorp.com

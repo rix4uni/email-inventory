@@ -2,3 +2,6 @@ support.lt@reserved.com
 app.help@reserved.com
 support.de@reserved.com
 support.rs@reserved.com
+support.pt@reserved.com
+support.sk@reserved.com
+support.lv@reserved.com
