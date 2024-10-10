@@ -1,0 +1,6 @@
+jsmith@hightail.com
+john.smith@hightail.com
+johnsmith@hightail.com
+john_smith@hightail.com
+john@hightail.com
+smith@hightail.com

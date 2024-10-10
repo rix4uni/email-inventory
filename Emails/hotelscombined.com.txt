@@ -12,3 +12,10 @@ apps@hotelscombined.com
 atapps@hotelscombined.com
 auckland@hotelscombined.com
 barcelona@hotelscombined.com
+affiliate@hotelscombined.com
+educationsupport@hotelscombined.com
+conferencerebates@hotelscombined.com
+comparelasramblashotelsbarcelona@hotelscombined.com
+compareluxuryhotelsbarcelona@hotelscombined.com
+comparetherockshotelssydney@hotelscombined.com
+comparesydneycbdhotels@hotelscombined.com

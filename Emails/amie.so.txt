@@ -1,0 +1,7 @@
+first@amie.so
+joe@amie.so
+flast@amie.so
+jdoe@amie.so
+first.last@amie.so
+joe.doe@amie.so
+last@amie.so

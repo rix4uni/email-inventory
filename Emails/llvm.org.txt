@@ -1,0 +1,7 @@
+boardapp@llvm.org
+llvm-admin@llvm.org
+eurollvm@llvm.org
+events@llvm.org
+package@llvm.org
+2bcfedev@llvm.org
+cfedev@llvm.org

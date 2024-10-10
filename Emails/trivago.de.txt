@@ -1,0 +1,6 @@
+hotelier@trivago.de
+info@trivago.de
+admin@trivago.de
+sales@trivago.de
+support@trivago.de
+qualitytester@trivago.de

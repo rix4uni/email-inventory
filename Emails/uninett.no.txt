@@ -1,0 +1,7 @@
+ietf-typest-request@uninett.no
+nav-users-request@uninett.no
+espen.breivik@uninett.no
+kathoe@uninett.no
+pgp-ca@uninett.no
+ietf-mixer@uninett.no
+mixmh-info@uninett.no

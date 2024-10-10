@@ -1,0 +1,7 @@
+mapnik-de@openstreetmap.de
+b000tfmapnik-de@openstreetmap.de
+gps-verleih@openstreetmap.de
+kast@openstreetmap.de
+webmaster@openstreetmap.de
+blog@openstreetmap.de
+mapnikde@openstreetmap.de

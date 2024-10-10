@@ -1,0 +1,2 @@
+root@nameserver.sk
+xerox@nameserver.sk

@@ -1,0 +1,7 @@
+u003etomislav.plavcic@percona.com
+u003ecommunity-team@percona.com
+ninad.shah@percona.com
+u003emichael.coburn@percona.com
+u003ematthew.boehm@percona.com
+databasesurvey@percona.com
+haas@percona.com

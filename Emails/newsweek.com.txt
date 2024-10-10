@@ -1,0 +1,7 @@
+david.kaplan@newsweek.com
+worldnews@newsweek.com
+health@newsweek.com
+science@newsweek.com
+nature@newsweek.com
+entertainment@newsweek.com
+political@newsweek.com

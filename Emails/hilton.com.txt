@@ -12,3 +12,10 @@
 22filipe.borne@hilton.com
 22frank.todd@hilton.com
 22joanne.woo@hilton.com
+cidno_homewood@hilton.com
+sfoap_gm@hilton.com
+pitdo_homewood@hilton.com
+balhw_homewood@hilton.com
+iahsp_homewood@hilton.com
+rocck_hampton_suites@hilton.com
+welme_hampton_suites@hilton.com

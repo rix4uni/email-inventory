@@ -1,0 +1,3 @@
+galaxy@ansible.com
+community@ansible.com
+u003cinfo@ansible.com

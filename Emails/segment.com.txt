@@ -13,3 +13,10 @@ albert@segment.com
 albertsemail@segment.com
 alex@segment.com
 alexander.gaesser@segment.com
+christopher.radek@segment.com
+achille@segment.com
+braden.becker@segment.com
+craig.freeman@segment.com
+drew.thompson@segment.com
+marcus.ericsson@segment.com
+nicholas.sun@segment.com

@@ -1,0 +1,7 @@
+john@languagetool.org
+john.doe@languagetool.org
+doejohn@languagetool.org
+jd@languagetool.org
+doe_john@languagetool.org
+doe@languagetool.org
+j.doe@languagetool.org

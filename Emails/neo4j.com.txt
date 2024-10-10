@@ -1,0 +1,7 @@
+graphacademy.favorite@neo4j.com
+1592@neo4j.com
+jose.machado@neo4j.com
+matt.holford@neo4j.com
+michael.hunger@neo4j.com
+npr@neo4j.com
+daniel.ng@neo4j.com

@@ -1,0 +1,7 @@
+example.com@evil.com
+example.com@domain.com
+example.com@lists.php.net
+example.com@gmai.com
+example.com@google.com
+example.com@mydomain.com
+example.com@lists.debian.org

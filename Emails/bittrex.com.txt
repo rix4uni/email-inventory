@@ -8,3 +8,4 @@ corpcare@bittrex.com
 dns-admin@bittrex.com
 events@bittrex.com
 info@bittrex.com
+uff1asupport@bittrex.com

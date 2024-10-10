@@ -1,0 +1,7 @@
+john_smith@cogentco.com
+jsmith@cogentco.com
+john.smith@cogentco.com
+johnsmith@cogentco.com
+john@cogentco.com
+smith@cogentco.com
+ychu@cogentco.com

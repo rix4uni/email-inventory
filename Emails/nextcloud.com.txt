@@ -13,3 +13,10 @@ frank@nextcloud.com
 frank.karlitschek@nextcloud.com
 hello@nextcloud.com
 include@nextcloud.com
+julia.kirschenheuter@nextcloud.com
+luka@nextcloud.com
+docker@nextcloud.com
+first.last@nextcloud.com
+nextcloud.com@nextcloud.com
+firstname.lastname@nextcloud.com
+benoit.penicaut@nextcloud.com

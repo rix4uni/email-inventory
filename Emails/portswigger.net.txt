@@ -7,3 +7,8 @@ dailyswig@portswigger.net
 gareth.heyes@portswigger.net
 hello@portswigger.net
 info@portswigger.net
+example@portswigger.net
+jeeves@portswigger.net
+catherine.chapman@portswigger.net
+licensing@portswigger.net
+pwned@portswigger.net

@@ -1,0 +1,7 @@
+openvpn.videoreview@openvpn.net
+informationfreedom@openvpn.net
+cloud-support@openvpn.net
+marketing@openvpn.net
+gerrit@openvpn.net
+heiko@openvpn.net
+scan-reports@openvpn.net

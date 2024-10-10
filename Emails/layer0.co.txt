@@ -1,0 +1,3 @@
+go@layer0.co
+support@layer0.co
+legal@layer0.co

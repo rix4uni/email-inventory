@@ -1,0 +1,6 @@
+apnic@goldenfrog.com
+abuse@goldenfrog.com
+policy@goldenfrog.com
+nsupport@goldenfrog.com
+trips@goldenfrog.com
+beta@goldenfrog.com

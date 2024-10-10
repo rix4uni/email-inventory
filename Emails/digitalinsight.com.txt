@@ -1,0 +1,7 @@
+john@digitalinsight.com
+jdoe@digitalinsight.com
+john.doe@digitalinsight.com
+john_doe@digitalinsight.com
+johnd@digitalinsight.com
+johndoe@digitalinsight.com
+jd@digitalinsight.com

@@ -1,0 +1,6 @@
+mailer-daemon@sl.pt
+media.gtld@sl.pt
+alazaro@sl.pt
+celso@sl.pt
+info@sl.pt
+webmaster@sl.pt

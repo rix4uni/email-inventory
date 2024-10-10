@@ -12,3 +12,10 @@ brittag@remitly.com
 cad-complaints@remitly.com
 daniel@remitly.com
 datasubjectrequest@remitly.com
+sk-complaints@remitly.com
+lv-complaints@remitly.com
+lt-complaints@remitly.com
+uae-complaints@remitly.com
+poland-recruitment@remitly.com
+dpo@remitly.com
+v-dagmaras@remitly.com

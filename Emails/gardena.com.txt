@@ -1,0 +1,4 @@
+20service@gardena.com
+globalservice@gardena.com
+lobalservice@gardena.com
+plservice@gardena.com

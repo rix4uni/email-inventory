@@ -13,3 +13,7 @@ developers@bluesnap.com
 do-not-reply@bluesnap.com
 doe@bluesnap.com
 ecosystem@bluesnap.com
+pavel.kraskov@bluesnap.com
+clickstudios-do-not-reply@bluesnap.com
+kieranr@bluesnap.com
+daniel.millar@bluesnap.com

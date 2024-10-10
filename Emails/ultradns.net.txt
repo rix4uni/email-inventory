@@ -1,0 +1,3 @@
+domreg@ultradns.net
+servers@ultradns.net
+jtk@ultradns.net

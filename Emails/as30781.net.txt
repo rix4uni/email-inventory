@@ -1,0 +1,5 @@
+peering@as30781.net
+noc@as30781.net
+abuse@as30781.net
+engineering@as30781.net
+hostmaster@as30781.net

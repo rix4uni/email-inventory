@@ -13,3 +13,10 @@ bd-devices@magisto.com
 bd-mno@magisto.com
 bdappstore@magisto.com
 bdcommunity@magisto.com
+support@magisto.com
+bernardo@magisto.com
+reid@magisto.com
+pooj@magisto.com
+web@magisto.com
+copyright@magisto.com
+sales@magisto.com

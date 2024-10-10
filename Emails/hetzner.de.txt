@@ -1,0 +1,7 @@
+otrs-storage@hetzner.de
+john.smith@hetzner.de
+managed-server@hetzner.de
+stephan.konvickova@hetzner.de
+oliver.schaedlich@hetzner.de
+no_reply@hetzner.de
+billing@hetzner.de

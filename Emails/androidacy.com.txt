@@ -1,0 +1,4 @@
+opensource@androidacy.com
+content-takedown@androidacy.com
+dev-rel@androidacy.com
+admin@androidacy.com

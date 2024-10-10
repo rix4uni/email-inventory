@@ -1,0 +1,7 @@
+penny@impactify.io
+johndoe@impactify.io
+john.doe@impactify.io
+john_doe@impactify.io
+johnd@impactify.io
+jd@impactify.io
+jdoe@impactify.io

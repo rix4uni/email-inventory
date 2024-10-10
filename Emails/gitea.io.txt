@@ -1,0 +1,7 @@
+security@gitea.io
+teabot@gitea.io
+info@gitea.io
+someone@gitea.io
+maintainers@gitea.io
+techknowlogick@gitea.io
+mysql-integration-test@gitea.io

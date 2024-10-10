@@ -1,0 +1,7 @@
+operatorzy@3s.pl
+jdoe@3s.pl
+john_doe@3s.pl
+johnd@3s.pl
+johndoe@3s.pl
+jd@3s.pl
+john.doe@3s.pl

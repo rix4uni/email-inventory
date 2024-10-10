@@ -13,3 +13,10 @@ borrower1@blend.com
 borrower2@blend.com
 breakout@blend.com
 brianr@blend.com
+cmuenter@blend.com
+newsales@blend.com
+renewals@blend.com
+invoicing@blend.com
+api@blend.com
+legal@blend.com
+joe.lender@blend.com
