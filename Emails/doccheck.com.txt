@@ -1,0 +1,7 @@
+arzt1_anaesthesiologie@doccheck.com
+arzt2_anaesthesiologie@doccheck.com
+arzt23_allgemeinmedizin@doccheck.com
+arzt10_anaesthesiologie@doccheck.com
+arzt14_anatomie@doccheck.com
+annalena.stolte@doccheck.com
+pfleger56_onkologie@doccheck.com

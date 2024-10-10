@@ -13,3 +13,7 @@ courses@careers.ox.ac.uk
 crankstart-internships@careers.ox.ac.uk
 damilola.odimayo@careers.ox.ac.uk
 daniel.betterton@careers.ox.ac.uk
+internship@careers.ox.ac.uk
+madalena.fonseca@careers.ox.ac.uk
+crankstart-internship@careers.ox.ac.uk
+anne.wolfes@careers.ox.ac.uk

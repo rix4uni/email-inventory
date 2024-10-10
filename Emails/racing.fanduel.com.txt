@@ -686,3 +686,6 @@ matt.musico@fanduel.com
 geoff@fanduel.com
 support@fanduel.com
 mail@email.fanduel.com
+samuel.harty@racing.nh.gov
+paul.kelley@racing.nh.gov
+info@racing.nh.gov

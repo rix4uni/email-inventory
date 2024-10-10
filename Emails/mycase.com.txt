@@ -1,0 +1,7 @@
+u003esupport@mycase.com
+subscription.change@mycase.com
+billing@mycase.com
+u003esubscription.change@mycase.com
+u003ebilling@mycase.com
+lack@mycase.com
+u003epayment.support@mycase.com

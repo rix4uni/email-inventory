@@ -12,3 +12,10 @@ ahmety@watsons.com.tr
 ali.demirkan@watsons.com.tr
 aysek@watsons.com.tr
 bedriyeg@watsons.com.tr
+kvkk@watsons.com.tr
+john@watsons.com.tr
+john_doe@watsons.com.tr
+johnd@watsons.com.tr
+johndoe@watsons.com.tr
+jd@watsons.com.tr
+jdoe@watsons.com.tr

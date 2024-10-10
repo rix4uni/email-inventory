@@ -8,3 +8,4 @@ sid2@irccloud.com
 team@irccloud.com
 u1002@irccloud.com
 u1181@irccloud.com
+security@irccloud.com

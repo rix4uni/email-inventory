@@ -1,0 +1,4 @@
+hostmaster@domain-registry.nl
+drs@domain-registry.nl
+postmaster@domain-registry.nl
+particulieren@domain-registry.nl

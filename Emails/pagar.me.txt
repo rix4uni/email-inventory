@@ -1,0 +1,5 @@
+tstark@pagar.me
+first_recipient@pagar.me
+second_recipient@pagar.me
+mmoreira@pagar.me
+bianca.callado@pagar.me

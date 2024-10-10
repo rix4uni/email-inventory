@@ -1,0 +1,4 @@
+admin@nic.io
+administrator@nic.io
+applications@nic.io
+adminstrator@nic.io

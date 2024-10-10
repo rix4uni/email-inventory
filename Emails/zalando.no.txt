@@ -1,0 +1,4 @@
+service@zalando.no
+reklamasjon@zalando.no
+nodefault@zalando.no
+personvern@zalando.no

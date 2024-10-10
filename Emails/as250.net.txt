@@ -1,0 +1,2 @@
+noc@as250.net
+dns@as250.net

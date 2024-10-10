@@ -1,0 +1,7 @@
+dnsadmin@afraid.org
+abusepleasecontactdnsadmin@afraid.org
+bounces@afraid.org
+folks@afraid.org
+hosted@afraid.org
+hostmaster@afraid.org
+dns@afraid.org

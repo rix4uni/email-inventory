@@ -12,3 +12,10 @@ ashley@dashlane.com
 betty.moyer@dashlane.com
 blog@dashlane.com
 community@dashlane.com
+community_success@dashlane.com
+dmarc-reports@dashlane.com
+dashy@dashlane.com
+success@dashlane.com
+webextension@dashlane.com
+opensource@dashlane.com
+breachreport@dashlane.com

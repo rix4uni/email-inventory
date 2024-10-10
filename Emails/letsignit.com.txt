@@ -1,0 +1,7 @@
+mailer-daemon@letsignit.com
+marketing@letsignit.com
+scage@letsignit.com
+customercare@letsignit.com
+delegue.rgpd@letsignit.com
+delegue.rgdp@letsignit.com
+support@letsignit.com

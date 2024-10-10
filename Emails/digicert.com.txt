@@ -1,0 +1,7 @@
+xyz@digicert.com
+abc@digicert.com
+xy@digicert.com
+u003e@digicert.com
+u003esales@digicert.com
+dmarc@digicert.com
+20people@digicert.com

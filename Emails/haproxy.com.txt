@@ -1,0 +1,7 @@
+adenoyelle@haproxy.com
+hostmaster@haproxy.com
+drandel@haproxy.com
+wlallemand@haproxy.com
+esalama@haproxy.com
+jmagnin@haproxy.com
+nramirez@haproxy.com

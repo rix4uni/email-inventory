@@ -13,3 +13,10 @@
 22aushelper@mozilla.org
 22autopager@mozilla.org
 22default-theme@mozilla.org
+feature7utofill@mozilla.org
+u002fformautofill@mozilla.org
+u002fwebcompat-reporter@mozilla.org
+ev-security-policy@mozilla.org
+u003eev-security-policy@mozilla.org
+pavlov@mozilla.org
+discuss@mozilla.org

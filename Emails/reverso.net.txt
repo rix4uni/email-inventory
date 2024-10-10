@@ -1,0 +1,7 @@
+localize@reverso.net
+dictionary@reverso.net
+gala.amat@reverso.net
+contextapp@reverso.net
+media@reverso.net
+context@reverso.net
+traduction-pro@reverso.net

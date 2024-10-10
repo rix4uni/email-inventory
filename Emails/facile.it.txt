@@ -1,0 +1,7 @@
+firenze@facile.it
+bologna@facile.it
+roma.tiburtina@facile.it
+ancona@facile.it
+pescara@facile.it
+saronno@facile.it
+pesaro@facile.it

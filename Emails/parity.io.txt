@@ -13,3 +13,10 @@ arnold@parity.io
 austin@parity.io
 ben@parity.io
 benjamin.weiss@parity.io
+erin@parity.io
+martin@parity.io
+scott@parity.io
+serban@parity.io
+cicd-team@parity.io
+polkadot-ci-merge-conflict@parity.io
+signer@parity.io

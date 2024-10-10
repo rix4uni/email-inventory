@@ -1,0 +1,7 @@
+foundation@travis-ci.org
+repository@travis-ci.org
+contact@travis-ci.org
+not-for-mail@travis-ci.org
+support@travis-ci.org
+travis@travis-ci.org
+deploy@travis-ci.org

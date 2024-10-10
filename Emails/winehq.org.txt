@@ -1,0 +1,7 @@
+wine-devel@winehq.org
+wine-bugs@winehq.org
+donate@winehq.org
+bettiepioussprague@winehq.org
+compatibility@winehq.org
+help@winehq.org
+julliard@winehq.org

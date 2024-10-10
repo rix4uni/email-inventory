@@ -1,0 +1,7 @@
+ninfo-usa@blackmagicdesign.com
+johns@blackmagicdesign.com
+john.smith@blackmagicdesign.com
+johnsmith@blackmagicdesign.com
+john_smith@blackmagicdesign.com
+john@blackmagicdesign.com
+smith@blackmagicdesign.com

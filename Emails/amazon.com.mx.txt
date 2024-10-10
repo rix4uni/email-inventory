@@ -8,3 +8,6 @@ ayuda-kindle@amazon.com.mx
 carritodelahorro@amazon.com.mx
 cs-reply@amazon.com.mx
 delivery-notification@amazon.com.mx
+informacion-vendedor@amazon.com.mx
+fba-ship-confirm@amazon.com.mx
+venta-juguetes-vacaciones@amazon.com.mx

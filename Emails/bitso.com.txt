@@ -13,3 +13,10 @@ daniel@bitso.com
 eduardo@bitso.com
 emilio@bitso.com
 gaby@bitso.com
+enterprisesupport@bitso.com
+dgonzalez@bitso.com
+api@bitso.com
+developers@bitso.com
+institutional.onboarding@bitso.com
+rodrigo@bitso.com
+support@bitso.com

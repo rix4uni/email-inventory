@@ -1,0 +1,7 @@
+platform@fly.io
+jason@fly.io
+ben@fly.io
+rails@fly.io
+daniel@fly.io
+extensions@fly.io
+infra@fly.io

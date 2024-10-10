@@ -1,0 +1,7 @@
+server@openshift.com
+info@openshift.com
+sales@openshift.com
+up@openshift.com
+developer@openshift.com
+adinfo@openshift.com
+sunil@openshift.com

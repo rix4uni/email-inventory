@@ -13,3 +13,5 @@ bucuresti1288@marionnaud.ro
 bucuresti2202@marionnaud.ro
 cluj2226@marionnaud.ro
 comenzi@marionnaud.ro
+timisoara1253@marionnaud.ro
+bucuresti1292@marionnaud.ro

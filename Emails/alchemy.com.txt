@@ -1,0 +1,7 @@
+beacon@alchemy.com
+albert@alchemy.com
+dapps@alchemy.com
+subgraph-sales@alchemy.com
+account-abstraction@alchemy.com
+adam@alchemy.com
+cpe@alchemy.com

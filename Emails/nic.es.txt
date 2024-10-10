@@ -1,0 +1,7 @@
+webmaster@nic.es
+es-nic@nic.es
+domreg@nic.es
+provreg@nic.es
+hostmaster@nic.es
+transmision@nic.es
+cambios@nic.es

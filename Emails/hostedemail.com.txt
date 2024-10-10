@@ -1,0 +1,7 @@
+postmaster@hostedemail.com
+mx.jkpassages.com.cust@hostedemail.com
+mx.jessicajones.com.cust@hostedemail.com
+mx.all4weddings.co.uk.cust@hostedemail.com
+mx.stressfri.com.cust@hostedemail.com
+mx.aerlogic.uk.cust@hostedemail.com
+mx.rainforestsway.net.cust@hostedemail.com

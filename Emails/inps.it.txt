@@ -1,0 +1,7 @@
+legale.aosta@inps.it
+legale.campania@inps.it
+legale.napoli@inps.it
+legale.salerno@inps.it
+legale.caserta@inps.it
+legale.avellino@inps.it
+legale.benevento@inps.it

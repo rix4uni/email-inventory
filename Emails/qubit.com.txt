@@ -1,0 +1,7 @@
+contactlegal@qubit.com
+john@qubit.com
+smith.john@qubit.com
+john.smith@qubit.com
+johnsmith@qubit.com
+john_smith@qubit.com
+smith@qubit.com

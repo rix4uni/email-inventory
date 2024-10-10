@@ -1,0 +1,7 @@
+report@tailscale.com
+daniel@tailscale.com
+bob@tailscale.com
+devrel@tailscale.com
+katie@tailscale.com
+events@tailscale.com
+jordan@tailscale.com

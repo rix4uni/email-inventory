@@ -1,0 +1,7 @@
+ubuntu-l10n-en-shaw@launchpad.net
+repository@launchpad.net
+ppa@launchpad.net
+server@launchpad.net
+account@launchpad.net
+info@launchpad.net
+directed@launchpad.net

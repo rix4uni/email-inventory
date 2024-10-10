@@ -1,0 +1,7 @@
+reg-cini-owner@nic.it
+registrars@nic.it
+ita-pe-owner@nic.it
+regtoreg@nic.it
+registrars-owner@nic.it
+glcad@nic.it
+glr@nic.it

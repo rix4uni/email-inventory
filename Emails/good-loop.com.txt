@@ -1,0 +1,7 @@
+john@good-loop.com
+doe@good-loop.com
+john.doe@good-loop.com
+johndoe@good-loop.com
+doe.john@good-loop.com
+doejohn@good-loop.com
+j.doe@good-loop.com

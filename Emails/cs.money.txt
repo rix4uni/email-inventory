@@ -8,3 +8,4 @@ gdpr@cs.money
 hr@cs.money
 inkd@cs.money
 m.anisimova@cs.money
+u003eantifraud@cs.money

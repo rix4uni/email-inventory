@@ -1,0 +1,6 @@
+john.smith@dealer-fx.com
+jsmith@dealer-fx.com
+john_smith@dealer-fx.com
+johnsmith@dealer-fx.com
+john@dealer-fx.com
+smith@dealer-fx.com

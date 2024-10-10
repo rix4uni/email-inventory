@@ -1,0 +1,7 @@
+hostmaster@checkdomain.de
+support@checkdomain.de
+webmaster@checkdomain.de
+domain-support@checkdomain.de
+tld-transfer@checkdomain.de
+ntld-registration@checkdomain.de
+j.herold@checkdomain.de

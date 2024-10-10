@@ -13,3 +13,6 @@ dom.h@vine.co
 feedback@vine.co
 help@vine.co
 how-tos@vine.co
+rendirzu-sendesieeinfachanfeedback@vine.co
+metarne-senddemtilfeedback@vine.co
+jobs@vine.co
