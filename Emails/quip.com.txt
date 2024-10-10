@@ -13,3 +13,7 @@ doe@quip.com
 email@quip.com
 feedback@quip.com
 garrett@quip.com
+quip@quip.com
+jobs@quip.com
+support@quip.com
+molly@quip.com

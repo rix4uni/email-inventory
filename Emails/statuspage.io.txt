@@ -39,3 +39,4 @@ founders@statuspage.io
 glue@statuspage.io
 here@statuspage.io
 info@statuspage.io
+nnoreply@statuspage.io

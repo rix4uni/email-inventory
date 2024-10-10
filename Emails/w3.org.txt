@@ -1,0 +1,7 @@
+semantic.web@w3.org
+public-adapt@w3.org
+public-htmlvoc@w3.org
+public-federated-learning@w3.org
+public-interactive-media@w3.org
+u003epublic-schemaorg@w3.org
+owner-uri@w3.org

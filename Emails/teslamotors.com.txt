@@ -1009,3 +1009,10 @@ aarhussales@teslamotors.com
 abagnulo@teslamotors.com
 abaker@teslamotors.com
 abarton@teslamotors.com
+shanghai_sales@teslamotors.com
+chengdu_sales@teslamotors.com
+shenzhen_sales@teslamotors.com
+beijing_sales@teslamotors.com
+uff1anasales@teslamotors.com
+wsausa@teslamotors.com
+alcheng@teslamotors.com

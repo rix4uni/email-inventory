@@ -1,0 +1,5 @@
+exemptions@raspberrypi.com
+direct@raspberrypi.com
+alasdair@raspberrypi.com
+william.vinnicombe@raspberrypi.com
+matt@raspberrypi.com

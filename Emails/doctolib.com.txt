@@ -13,3 +13,10 @@ contact@doctolib.com
 contact.dataprivacy@doctolib.com
 covid19@doctolib.com
 cyril.champier@doctolib.com
+npresse_de@doctolib.com
+alexandra.diers@doctolib.com
+privacy.vettore@doctolib.com
+hr.dataprivacy@doctolib.com
+dmarc@doctolib.com
+anselm.bellia@doctolib.com
+team-e2ee@doctolib.com

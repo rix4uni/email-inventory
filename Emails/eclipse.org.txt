@@ -1,0 +1,7 @@
+adaaa-dev@eclipse.org
+sdv-wg-members@eclipse.org
+openhw-asia-wg-steering@eclipse.org
+chariott-dev@eclipse.org
+jbom-dev@eclipse.org
+asciidoc-lang-dev-request@eclipse.org
+webinar-stepsrcp@eclipse.org

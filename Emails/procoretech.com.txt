@@ -1,0 +1,5 @@
+notifications_amg_associates@procoretech.com
+acme_company@procoretech.com
+upload-1234-project-name@procoretech.com
+upload-1234-smith-building@procoretech.com
+procore-1234abcd@procoretech.com

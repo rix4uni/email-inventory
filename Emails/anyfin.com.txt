@@ -1,0 +1,7 @@
+first@anyfin.com
+joe@anyfin.com
+flast@anyfin.com
+jdoe@anyfin.com
+first.last@anyfin.com
+joe.doe@anyfin.com
+last@anyfin.com

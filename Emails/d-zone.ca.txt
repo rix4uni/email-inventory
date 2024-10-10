@@ -1,0 +1,2 @@
+dnsfirewall@d-zone.ca
+support@d-zone.ca

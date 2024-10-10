@@ -1,0 +1,7 @@
+kate@rstudio.com
+josiah@rstudio.com
+contribute@rstudio.com
+you@rstudio.com
+jonathan.yoder@rstudio.com
+isabella.velasquez@rstudio.com
+george.stagg@rstudio.com

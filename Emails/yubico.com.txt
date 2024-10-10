@@ -1,0 +1,7 @@
+passwordless@yubico.com
+forum@yubico.com
+wwyk@yubico.com
+yubicoevents@yubico.com
+ludvig.michaelsson@yubico.com
+aveen.ismail@yubico.com
+nigel.williams@yubico.com

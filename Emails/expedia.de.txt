@@ -1,0 +1,5 @@
+service@expedia.de
+coordinator@expedia.de
+solutions@expedia.de
+info@expedia.de
+jensgmx@expedia.de

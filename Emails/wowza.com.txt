@@ -1,0 +1,7 @@
+nlaurie.wherley@wowza.com
+security@wowza.com
+media@wowza.com
+john.smith@wowza.com
+jsmith@wowza.com
+johnsmith@wowza.com
+john_smith@wowza.com

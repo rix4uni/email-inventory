@@ -1,0 +1,4 @@
+bootstrappable@freenode.net
+yii@freenode.net
+pypy@freenode.net
+infrastructure@freenode.net

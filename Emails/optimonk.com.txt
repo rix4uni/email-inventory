@@ -1,0 +1,5 @@
+john.doe@optimonk.com
+optimonkdev@optimonk.com
+h@optimonk.com
+nikolett.lorincz@optimonk.com
+miklos.kovacs@optimonk.com

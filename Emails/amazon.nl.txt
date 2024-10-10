@@ -8,3 +8,10 @@ community-help@amazon.nl
 cs-nl@amazon.nl
 cs-screenshots@amazon.nl
 eu-privacy@amazon.nl
+primary@amazon.nl
+jjstokes@amazon.nl
+bbrouwer@amazon.nl
+marketplace-messages@amazon.nl
+fulfillment-messages@amazon.nl
+seller-notification@amazon.nl
+fba-ship-confirm@amazon.nl

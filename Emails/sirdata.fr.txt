@@ -1,0 +1,6 @@
+jsm@sirdata.fr
+john.smith@sirdata.fr
+johnsmith@sirdata.fr
+john_smith@sirdata.fr
+john@sirdata.fr
+smith@sirdata.fr

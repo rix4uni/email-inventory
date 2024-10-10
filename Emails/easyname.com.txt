@@ -12,3 +12,9 @@ ch-domains@easyname.com
 cm-domains@easyname.com
 codes-domains@easyname.com
 consulting-domains@easyname.com
+support@easyname.com
+hosting@easyname.com
+websitebuilder@easyname.com
+dogdomains@easyname.com
+propertiesdomains@easyname.com
+sidomains@easyname.com

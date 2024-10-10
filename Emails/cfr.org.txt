@@ -13,3 +13,10 @@ abarnard@cfr.org
 ablough@cfr.org
 abranczik@cfr.org
 abregman@cfr.org
+lbeehner@cfr.org
+nkrylov@cfr.org
+lmatza@cfr.org
+arottas@cfr.org
+ychen@cfr.org
+cpadilla@cfr.org
+tpi@cfr.org

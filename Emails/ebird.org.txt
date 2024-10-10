@@ -1,0 +1,6 @@
+server@ebird.org
+do-not-reply@ebird.org
+up@ebird.org
+participate@ebird.org
+sightings@ebird.org
+more@ebird.org

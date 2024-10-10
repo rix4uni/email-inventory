@@ -1,0 +1,3 @@
+server@pqrs.org
+info@pqrs.org
+tekezo@pqrs.org

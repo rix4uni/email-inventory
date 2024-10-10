@@ -1,0 +1,4 @@
+newtester-microsoft@osm.org
+newtester-microsoft2@osm.org
+redirect_tester_microsoft@osm.org
+legal-talk@osm.org

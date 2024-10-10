@@ -1,0 +1,3 @@
+marketplace-messages@amazon.se
+fulfillment-messages@amazon.se
+fba-ship-confirm@amazon.se

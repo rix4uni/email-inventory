@@ -1,0 +1,7 @@
+john@perfectaudience.com
+john.doe@perfectaudience.com
+doejohn@perfectaudience.com
+jd@perfectaudience.com
+doe_john@perfectaudience.com
+doe@perfectaudience.com
+j.doe@perfectaudience.com

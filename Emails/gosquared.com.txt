@@ -1,0 +1,6 @@
+john@gosquared.com
+js@gosquared.com
+john.smith@gosquared.com
+johnsmith@gosquared.com
+john_smith@gosquared.com
+smith@gosquared.com

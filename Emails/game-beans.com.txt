@@ -1,0 +1,6 @@
+service@game-beans.com
+ss_service@game-beans.com
+hr@game-beans.com
+sotg.th@game-beans.com
+mz_service@game-beans.com
+cls_service@game-beans.com

@@ -7,3 +7,4 @@ contact@000webhost.com
 dedenahmadbz@000webhost.com
 discourse@000webhost.com
 freehosting@000webhost.com
+canned.response@000webhost.com

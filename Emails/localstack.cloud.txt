@@ -1,0 +1,3 @@
+no-reply@localstack.cloud
+news@localstack.cloud
+benjamin.simon@localstack.cloud

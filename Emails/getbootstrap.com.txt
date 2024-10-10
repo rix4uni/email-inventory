@@ -1,0 +1,7 @@
+gruntworker@getbootstrap.com
+v4@getbootstrap.com
+themes@getbootstrap.com
+sales@getbootstrap.com
+info@getbootstrap.com
+refunds@getbootstrap.com
+issues@getbootstrap.com

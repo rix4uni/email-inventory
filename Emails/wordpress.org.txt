@@ -1012,3 +1012,10 @@ heartbeat@wordpress.org
 3.8@wordpress.org
 4.4@wordpress.org
 8@wordpress.org
+getinvolved@wordpress.org
+yoursitename@wordpress.org
+wprebriefing@wordpress.org
+memorials@wordpress.org
+italia@wordpress.org
+ccowope7@wordpress.org
+forum-moderation@wordpress.org

@@ -13,3 +13,10 @@ akim@netgear.com
 al.sallette@netgear.com
 alan.rubinstein@netgear.com
 albert.hu@netgear.com
+ajimenez@netgear.com
+psirt@netgear.com
+cert@netgear.com
+csirt@netgear.com
+br500_br200@netgear.com
+jopeng@netgear.com
+storede@netgear.com

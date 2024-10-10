@@ -1,0 +1,5 @@
+infra.secure@taplytics.com
+adam@taplytics.com
+travis@taplytics.com
+jeffrey@taplytics.com
+vic@taplytics.com

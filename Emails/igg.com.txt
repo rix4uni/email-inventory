@@ -1,0 +1,7 @@
+help.oc.android@igg.com
+queena.sun@igg.com
+help.spinscapes.android@igg.com
+help.spinscapes.apple@igg.com
+help.epicage.android@igg.com
+help.epicage.apple@igg.com
+help.vikingrise.android@igg.com

@@ -1,0 +1,7 @@
+sales@saltstack.com
+info@saltstack.com
+josephjoseph@saltstack.com
+katarri@saltstack.com
+celeste@saltstack.com
+rglauser@saltstack.com
+rhett@saltstack.com

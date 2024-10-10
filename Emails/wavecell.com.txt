@@ -126,3 +126,4 @@ careers-prod@wavecell.com
 careers-sales@wavecell.com
 contactinfo@wavecell.com
 dataprotection@wavecell.com
+zareena.iqbal@wavecell.com

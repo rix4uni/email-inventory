@@ -1,0 +1,6 @@
+info@angular.io
+sales@angular.io
+devrel@angular.io
+conduct@angular.io
+npm@angular.io
+press@angular.io

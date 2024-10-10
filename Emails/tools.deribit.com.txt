@@ -12,3 +12,10 @@ cvn.bots-foo@tools.wmflabs.org
 cvn.maintainers@tools.wmflabs.org
 date@tools.wmflabs.org
 delinker@tools.wmflabs.org
+jkroll@tools.wmflabs.org
+tfaprotbot.maintainers@tools.wmflabs.org
+tools.tfaprotbot@tools.wmflabs.org
+csbot.maintainers@tools.wmflabs.org
+vrandezo@tools.wmflabs.org
+tools.freddy2001@tools.wmflabs.org
+urbanecm@tools.wmflabs.org

@@ -13,3 +13,5 @@ customer-care@lyst.com
 customercare@lyst.com
 data@lyst.com
 de@lyst.com
+jdoe@lyst.com
+doe@lyst.com

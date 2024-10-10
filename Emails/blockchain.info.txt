@@ -13,3 +13,8 @@ chart@blockchain.info
 christopher@blockchain.info
 crypto370@blockchain.info
 customersupport@blockchain.info
+transactions@blockchain.info
+service@blockchain.info
+wallet@blockchain.info
+still@blockchain.info
+dan@blockchain.info

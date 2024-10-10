@@ -914,3 +914,10 @@ xbatransaction@notice.aliexpress.com
 12v@aliexpress.com
 13@aliexpress.com
 13w@aliexpress.com
+partners@aliexpress.com
+nsupport@aliexpress.com
+nsecurity@aliexpress.com
+ndispute@aliexpress.com
+ae_customerservice@aliexpress.com
+enforcement.enquiry@aliexpress.com
+u003eds-center@aliexpress.com
