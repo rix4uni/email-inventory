@@ -13,3 +13,10 @@ adam@okta.com
 adam.aarons@okta.com
 adam.rosenzweig@okta.com
 adam_aarons@okta.com
+sumana.malkapuram@okta.com
+diego.poza@okta.com
+damian@okta.com
+david.barrish@okta.com
+gsoc@okta.com
+travel@okta.com
+bs@okta.com

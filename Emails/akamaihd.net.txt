@@ -1,0 +1,7 @@
+function@akamaihd.net
+data@akamaihd.net
+a.getdomhelper@akamaihd.net
+this.getfieldbytag_@akamaihd.net
+a@akamaihd.net
+fbstatic-a@akamaihd.net
+fbstatic-ago@akamaihd.net

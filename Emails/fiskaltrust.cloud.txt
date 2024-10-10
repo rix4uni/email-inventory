@@ -1,0 +1,2 @@
+middleware@fiskaltrust.cloud
+portal@fiskaltrust.cloud

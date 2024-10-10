@@ -1,0 +1,7 @@
+hi@babyshop.com
+john@babyshop.com
+johndoe@babyshop.com
+john_doe@babyshop.com
+johnd@babyshop.com
+jd@babyshop.com
+jdoe@babyshop.com

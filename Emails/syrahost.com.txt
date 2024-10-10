@@ -1,0 +1,5 @@
+admin@syrahost.com
+abuse@syrahost.com
+phishing@syrahost.com
+spam@syrahost.com
+dns@syrahost.com

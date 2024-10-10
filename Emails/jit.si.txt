@@ -13,3 +13,5 @@
 54i5@jit.si
 54n1@jit.si
 54n2@jit.si
+testuser@jit.si
+moi@jit.si

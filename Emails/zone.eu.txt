@@ -1,0 +1,5 @@
+hostmaster@zone.eu
+info@zone.eu
+noc@zone.eu
+support@zone.eu
+tech@zone.eu

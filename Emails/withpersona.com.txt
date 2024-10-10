@@ -1,0 +1,7 @@
+sales@withpersona.com
+rick@withpersona.com
+suppor@withpersona.com
+case_creator@withpersona.com
+case_assignee@withpersona.com
+case_updater@withpersona.com
+case_resolver@withpersona.com

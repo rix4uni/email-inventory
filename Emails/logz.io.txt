@@ -1,0 +1,3 @@
+dmarc_reports@logz.io
+anton.kolomiiets@logz.io
+ndaniel@logz.io

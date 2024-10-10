@@ -8,3 +8,4 @@ info@metamask.io
 legacyweb3@metamask.io
 legal-opt@metamask.io
 mobile@metamask.io
+mobile.admin@metamask.io

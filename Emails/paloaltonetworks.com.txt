@@ -1,0 +1,7 @@
+navy@paloaltonetworks.com
+channels@paloaltonetworks.com
+partnerchannels@paloaltonetworks.com
+examrequest@paloaltonetworks.com
+accommodation@paloaltonetworks.com
+devsectalks@paloaltonetworks.com
+lseah@paloaltonetworks.com

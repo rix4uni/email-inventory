@@ -1,0 +1,7 @@
+seidler@apachefriends.org
+kvo@apachefriends.org
+oswald@apachefriends.org
+xampp@apachefriends.org
+download@apachefriends.org
+security@apachefriends.org
+info@apachefriends.org

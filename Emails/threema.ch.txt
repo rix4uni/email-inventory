@@ -8,3 +8,6 @@ help@threema.ch
 info@threema.ch
 jobs@threema.ch
 miguel.rodriguez@threema.ch
+partner@threema.ch
+business-contact@threema.ch
+security2023@threema.ch

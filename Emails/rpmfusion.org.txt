@@ -1,0 +1,7 @@
+rpmfusion-package-review@rpmfusion.org
+kwizart@rpmfusion.org
+sysadmin@rpmfusion.org
+root@rpmfusion.org
+webmaster@rpmfusion.org
+rpmfusion-users@rpmfusion.org
+noreply@rpmfusion.org

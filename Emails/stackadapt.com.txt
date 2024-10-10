@@ -1,0 +1,7 @@
+john@stackadapt.com
+john.smith@stackadapt.com
+johnsmith@stackadapt.com
+john_smith@stackadapt.com
+smith@stackadapt.com
+salesforce@stackadapt.com
+alexandra.pontikis@stackadapt.com

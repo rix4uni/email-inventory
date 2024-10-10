@@ -1,0 +1,2 @@
+info@yarnpkg.com
+sales@yarnpkg.com

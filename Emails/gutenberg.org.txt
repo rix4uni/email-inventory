@@ -1,0 +1,7 @@
+in-browserreading@gutenberg.org
+reading@gutenberg.org
+webmaster@gutenberg.org
+online@gutenberg.org
+available@gutenberg.org
+page@gutenberg.org
+server@gutenberg.org

@@ -12,3 +12,5 @@ debree@edu.uoc.gr
 dev-team@edu.uoc.gr
 dvasarmidou@edu.uoc.gr
 fopk@edu.uoc.gr
+guests@edu.uoc.gr
+mathds@edu.uoc.gr

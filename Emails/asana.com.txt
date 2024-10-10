@@ -13,3 +13,10 @@ breakout@asana.com
 brian@asana.com
 catherinebuan@asana.com
 cfarinacci@asana.com
+prashant@asana.com
+anna@asana.com
+johnvu@asana.com
+client-lib-node@asana.com
+valero@asana.com
+apps-external@asana.com
+startups@asana.com

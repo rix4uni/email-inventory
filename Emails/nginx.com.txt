@@ -1,0 +1,7 @@
+alx@nginx.com
+a.clayton@nginx.com
+sergey.osokin@nginx.com
+e.grebenshchikov@nginx.com
+sorin@nginx.com
+t.stark@nginx.com
+key@nginx.com

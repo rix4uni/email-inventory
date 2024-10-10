@@ -12,3 +12,10 @@
 7@booking.com
 7.4@booking.com
 7.6@booking.com
+appartement_confort_@booking.com
+aparthotel_adagio_@booking.com
+the_appart_@booking.com
+appartement_lumineux_@booking.com
+la_cabane_@booking.com
+christina.katsimerou@booking.com
+bio_hotel_@booking.com

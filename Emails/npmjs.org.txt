@@ -1,0 +1,3 @@
+whoshiring@npmjs.org
+registry@npmjs.org
+info@npmjs.org

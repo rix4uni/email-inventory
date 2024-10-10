@@ -13,3 +13,4 @@ chai@watsons.com.my
 chuiling@watsons.com.my
 chuisan@watsons.com.my
 cindylim@watsons.com.my
+faez@watsons.com.my

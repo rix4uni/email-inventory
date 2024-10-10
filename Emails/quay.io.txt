@@ -1,0 +1,2 @@
+url_bc@quay.io
+mylogin@quay.io

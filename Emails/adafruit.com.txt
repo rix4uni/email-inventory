@@ -13,3 +13,7 @@ chat@adafruit.com
 circuitpython@adafruit.com
 circuitpython2019@adafruit.com
 circuitpython2020@adafruit.com
+kattni@adafruit.com
+circuitpython2023@adafruit.com
+resumes@adafruit.com
+contact@adafruit.com

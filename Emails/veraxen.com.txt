@@ -1,0 +1,3 @@
+jigsaw.ios@veraxen.com
+jigsaw.android@veraxen.com
+blockpuzzle.ios@veraxen.com

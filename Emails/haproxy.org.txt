@@ -1,0 +1,3 @@
+info@haproxy.org
+willy@haproxy.org
+wlallemand@haproxy.org

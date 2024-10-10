@@ -1,0 +1,7 @@
+dco@sitecore.net
+appadmin-svc@sitecore.net
+ala@sitecore.net
+che@sitecore.net
+cloudautoemea-svc@sitecore.net
+apacar@sitecore.net
+dts@sitecore.net

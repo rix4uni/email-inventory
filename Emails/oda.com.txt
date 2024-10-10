@@ -1,0 +1,7 @@
+firstname.lastname@oda.com
+hallo@oda.com
+tor.erik@oda.com
+dpo@oda.com
+de-commercial@oda.com
+thor.steinhovden@oda.com
+de-press@oda.com

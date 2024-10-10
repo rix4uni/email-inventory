@@ -13,3 +13,5 @@ citynetorders@ownit.se
 david@ownit.se
 emma.persson@ownit.se
 feedback@ownit.se
+rune.wall@ownit.se
+kontakt@ownit.se

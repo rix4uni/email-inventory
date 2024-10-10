@@ -1,0 +1,7 @@
+info@biglist.com
+webmaster@biglist.com
+sales@biglist.com
+help@biglist.com
+aster@biglist.com
+billing@biglist.com
+abuse@biglist.com

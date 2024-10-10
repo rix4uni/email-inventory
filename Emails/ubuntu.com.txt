@@ -1,0 +1,7 @@
+martin.pitti@ubuntu.com
+my-irc-nick@ubuntu.com
+i-as@ubuntu.com
+hunt@ubuntu.com
+issue_summary_reporter_doko@ubuntu.com
+ybhan@ubuntu.com
+tl@ubuntu.com

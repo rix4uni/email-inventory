@@ -1,0 +1,3 @@
+v@anytype.io
+team@anytype.io
+dev@anytype.io

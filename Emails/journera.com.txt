@@ -1,0 +1,7 @@
+jeff@journera.com
+first@journera.com
+joe@journera.com
+flast@journera.com
+jdoe@journera.com
+first.last@journera.com
+joe.doe@journera.com

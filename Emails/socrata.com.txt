@@ -1,0 +1,7 @@
+accounting@socrata.com
+blog@socrata.com
+doug.mcleod@socrata.com
+info@socrata.com
+marketing@socrata.com
+sales@socrata.com
+steven.gottlieb@socrata.com

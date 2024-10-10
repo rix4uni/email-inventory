@@ -1,0 +1,7 @@
+warszawa@asdsystems.pl
+lodz@asdsystems.pl
+bydgoszcz@asdsystems.pl
+wloclawek@asdsystems.pl
+bialystok@asdsystems.pl
+szczecin@asdsystems.pl
+kielce@asdsystems.pl

@@ -1,0 +1,7 @@
+gdn.sso2.0@dynatrace.com
+hello.tallinn@dynatrace.com
+u003ehello.tallinn@dynatrace.com
+meg.mcroberts@dynatrace.com
+dieter.ladenhauf@dynatrace.com
+pawel.siwek@dynatrace.com
+todd.baert@dynatrace.com

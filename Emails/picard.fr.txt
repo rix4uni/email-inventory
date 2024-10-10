@@ -1,0 +1,3 @@
+admin_paye@picard.fr
+mission_handicap@picard.fr
+deliveroo@picard.fr

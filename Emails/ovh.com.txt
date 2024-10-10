@@ -12,3 +12,8 @@ ali.chehade@ovh.com
 architect@ovh.com
 assistance@ovh.com
 asvpt@ovh.com
+lorem@ovh.com
+3csupport@ovh.com
+enteteabuse@ovh.com
+qusupport@ovh.com
+prepaid-test@ovh.com

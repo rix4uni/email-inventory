@@ -13,3 +13,9 @@ globaladmin@yourdomain.onmicrosoft.com
 jane.doe@yourdomain.onmicrosoft.com
 jsmith@yourdomain.onmicrosoft.com
 m365admin@yourdomain.onmicrosoft.com
+nsharedmailboxname@yourdomain.onmicrosoft.com
+contososports@yourdomain.onmicrosoft.com
+4ward365.admin@yourdomain.onmicrosoft.com
+adm@yourdomain.onmicrosoft.com
+bob@yourdomain.onmicrosoft.com
+adminaccountname@yourdomain.onmicrosoft.com

@@ -1,0 +1,3 @@
+ame@apiname.com
+pay@apiname.com
+domain@apiname.com

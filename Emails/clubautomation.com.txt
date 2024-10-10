@@ -1,0 +1,6 @@
+john.smith@clubautomation.com
+jsmith@clubautomation.com
+johnsmith@clubautomation.com
+john_smith@clubautomation.com
+john@clubautomation.com
+smith@clubautomation.com
