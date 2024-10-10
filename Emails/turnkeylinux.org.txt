@@ -1,0 +1,2 @@
+mattie@turnkeylinux.org
+release-bookworm-images@turnkeylinux.org

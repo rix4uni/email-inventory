@@ -1,0 +1,5 @@
+u003ehelp-ar@rt.torproject.org
+u003ehelp-es@rt.torproject.org
+u003ehelp-fa@rt.torproject.org
+u003ehelp-fr@rt.torproject.org
+u003ehelp-zh@rt.torproject.org

@@ -161,3 +161,7 @@ ar@openai.com
 assist@openai.com
 atpaino@openai.com
 bestpractices@openai.com
+knight@openai.com
+mario@openai.com
+hyeonwoonoh@openai.com
+fwu@openai.com

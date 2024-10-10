@@ -1,0 +1,7 @@
+cs@zonos.com
+docs@zonos.com
+kermit@zonos.com
+jane@zonos.com
+media@zonos.com
+implementation@zonos.com
+checkoutupgrade@zonos.com

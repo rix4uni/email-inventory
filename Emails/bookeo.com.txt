@@ -1,0 +1,3 @@
+demo-swimming@bookeo.com
+demo-coiffeur@bookeo.com
+demo-scuoladilingue@bookeo.com

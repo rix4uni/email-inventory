@@ -8,3 +8,6 @@ charlie@smtp2go.com
 charlotte@smtp2go.com
 devs@smtp2go.com
 info@smtp2go.com
+hello@smtp2go.com
+user@smtp2go.com
+sam@smtp2go.com

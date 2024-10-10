@@ -1,0 +1,5 @@
+john.smith@lidl.com
+affiliate_media@lidl.com
+kenneth.mcgrath@lidl.com
+gerd.chrzanowski@lidl.com
+dynamicdiscounting@lidl.com

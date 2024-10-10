@@ -1,0 +1,4 @@
+services@tjek.com
+dl@tjek.com
+finance@tjek.com
+invoices@tjek.com

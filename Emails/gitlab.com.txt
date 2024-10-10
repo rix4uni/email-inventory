@@ -13,3 +13,10 @@
 2badmin@gitlab.com
 2bcommit@gitlab.com
 2bcrowdinbot@gitlab.com
+wbxmeet7@gitlab.com
+cs-ops@gitlab.com
+jmichniewicz@gitlab.com
+rtakken@gitlab.com
+support-managers@gitlab.com
+pavelsher@gitlab.com
+tle@gitlab.com

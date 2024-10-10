@@ -1,0 +1,7 @@
+adapter@gingersoftware.com
+beta-users@gingersoftware.com
+affiliates@gingersoftware.com
+ninfo@gingersoftware.com
+firefox@gingersoftware.com
+nsupport@gingersoftware.com
+dorony@gingersoftware.com

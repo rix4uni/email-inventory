@@ -1,0 +1,6 @@
+salesforcesales@shipstation.com
+fulfillment@shipstation.com
+noreply@shipstation.com
+dmarc@shipstation.com
+joey.blanco@shipstation.com
+u003esupport@shipstation.com

@@ -1,0 +1,4 @@
+feature@hom.ee
+support@hom.ee
+device@hom.ee
+bug@hom.ee

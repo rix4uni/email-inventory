@@ -13,3 +13,6 @@ anthony.ermy@js.pentagon.mil
 arthur.bartell@js.pentagon.mil
 bakerhb@js.pentagon.mil
 balashp@js.pentagon.mil
+patrick.seiber@js.pentagon.mil
+shelly.wells@js.pentagon.mil
+dinnis.caliyo@js.pentagon.mil

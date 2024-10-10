@@ -1,0 +1,4 @@
+info@openweathermap.org
+server@openweathermap.org
+denn@openweathermap.org
+over@openweathermap.org

@@ -1,0 +1,5 @@
+bgp4-adm@tele2.net
+lukas@tele2.net
+dnoc@tele2.net
+jundeland@tele2.net
+kll@tele2.net

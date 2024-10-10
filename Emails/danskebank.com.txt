@@ -13,3 +13,10 @@ aholt@danskebank.com
 ajarvinen@danskebank.com
 akarl@danskebank.com
 alf.duch-pedersen@danskebank.com
+samu.slotte@danskebank.com
+lars.mackey@danskebank.com
+basware-offer@danskebank.com
+heidi.schauman@danskebank.com
+mika.sihvola@danskebank.com
+wire@danskebank.com
+responsible_disclosure@danskebank.com

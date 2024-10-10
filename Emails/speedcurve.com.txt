@@ -1,0 +1,5 @@
+john@speedcurve.com
+john.smith@speedcurve.com
+johnsmith@speedcurve.com
+john_smith@speedcurve.com
+smith@speedcurve.com

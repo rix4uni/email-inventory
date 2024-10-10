@@ -1,0 +1,7 @@
+gpg@niif.hu
+scs@niif.hu
+tamas.devai@niif.hu
+intproject@niif.hu
+hegedussz@niif.hu
+alfi@niif.hu
+voip-admin@niif.hu

@@ -8,3 +8,8 @@ hello@unikrn.com
 info@unikrn.com
 jobs@unikrn.com
 jobs-berlin@unikrn.com
+se@unikrn.com
+support@unikrn.com
+rs@unikrn.com
+sales@unikrn.com
+rj@unikrn.com

@@ -1,0 +1,5 @@
+a@amzn.com
+info@amzn.com
+sales@amzn.com
+aliguori@amzn.com
+sblbir@amzn.com

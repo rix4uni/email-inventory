@@ -1,0 +1,3 @@
+andrew@mariadb.org
+nvicentiu@mariadb.org
+commits-request@mariadb.org

@@ -13,3 +13,10 @@ domain@lastpass.com
 drew@lastpass.com
 e-mailsupport@lastpass.com
 erin@lastpass.com
+john@lastpass.com
+dmcareporting@lastpass.com
+user2@lastpass.com
+extension-store@lastpass.com
+securitydisclosure@lastpass.com
+legal@lastpass.com
+privacy@lastpass.com

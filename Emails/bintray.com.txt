@@ -1,0 +1,6 @@
+downloadjar@bintray.com
+jar@bintray.com
+download@bintray.com
+copyright@bintray.com
+info@bintray.com
+admin@bintray.com

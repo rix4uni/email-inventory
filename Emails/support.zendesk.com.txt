@@ -1,0 +1,3 @@
+noreply@support.zendesk.com
+status@support.zendesk.com
+sponsor_accounts@support.zendesk.com

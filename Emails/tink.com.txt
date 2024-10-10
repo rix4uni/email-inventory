@@ -13,3 +13,7 @@ deb@tink.com
 deb_yada@tink.com
 ebba.bolin@tink.com
 elinor.nee@tink.com
+johan.manner@tink.com
+adam.kaminski@tink.com
+info-germany@tink.com
+linda.winder@tink.com

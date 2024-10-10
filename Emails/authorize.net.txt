@@ -10,3 +10,4 @@ appinquiry@authorize.net
 arau@authorize.net
 arb@authorize.net
 asnofraud@authorize.net
+hello@authorize.net

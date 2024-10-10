@@ -1,0 +1,14 @@
+info.pl@brugg.com
+info.pl@megger.com
+info.pl@agfa.com
+info.pl@hubersuhner.com
+info.pl@kobold.com
+info.pl@bystronic.com
+info.pl@monier.com
+anne.nielsen@brugg.com
+thomas.lamalfa@brugg.com
+per.skafte@brugg.com
+jonas.vendelbo@brugg.com
+lars.thystrup@brugg.com
+simon.rasmussen@brugg.com
+laurent.rossi@brugg.com

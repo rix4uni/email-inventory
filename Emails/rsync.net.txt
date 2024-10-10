@@ -1,0 +1,6 @@
+info@rsync.net
+admins@rsync.net
+user@rsync.net
+support@rsync.net
+sales@rsync.net
+pass@rsync.net

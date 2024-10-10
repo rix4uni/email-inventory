@@ -8,3 +8,6 @@ coursier@deliveroo.fr
 cscorporate@deliveroo.fr
 exemple@deliveroo.fr
 hello@deliveroo.fr
+restaurants@deliveroo.fr
+sarra.fell@deliveroo.fr
+sarra@deliveroo.fr

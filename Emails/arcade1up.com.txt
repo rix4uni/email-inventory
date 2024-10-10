@@ -1,0 +1,2 @@
+service@arcade1up.com
+wholesale@arcade1up.com

@@ -1,0 +1,7 @@
+catalog_tester@ariba.com
+power@ariba.com
+domain@ariba.com
+ansmtp@ariba.com
+gjoseph@ariba.com
+kkrach@ariba.com
+mcampbell@ariba.com

@@ -1,0 +1,5 @@
+service@bauhaus.info
+jmeyer@bauhaus.info
+service.kf@bauhaus.info
+datenschutz@bauhaus.info
+datenschutzbeauftragter@bauhaus.info

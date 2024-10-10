@@ -1,0 +1,5 @@
+jobs@mathjax.org
+info@mathjax.org
+peter.krautzberger@mathjax.org
+documentation@mathjax.org
+peter.krautzbeger@mathjax.org

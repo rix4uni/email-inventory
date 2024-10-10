@@ -1,0 +1,4 @@
+reading@ctvnews.ca
+article@ctvnews.ca
+info@ctvnews.ca
+sales@ctvnews.ca

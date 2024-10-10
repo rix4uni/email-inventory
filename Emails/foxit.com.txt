@@ -1,0 +1,3 @@
+privacy@foxit.com
+security-ml@foxit.com
+pdf_compressor@foxit.com

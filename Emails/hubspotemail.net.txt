@@ -862,3 +862,6 @@ thegioididong.com@sp05c.hubspotemail.net
 rogers.com@bf01x.hubspotemail.net
 aol.com@bf02x.hubspotemail.net
 rogers.com@bf02x.hubspotemail.net
+example.gmail.com@hubspotemail.net
+beispiel.gmail.com@hubspotemail.net
+exemplo.gmail.com@hubspotemail.net
