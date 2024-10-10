@@ -12,3 +12,6 @@ alex@thousandeyes.com
 alexander@thousandeyes.com
 amedina@thousandeyes.com
 andrew@thousandeyes.com
+chradam@thousandeyes.com
+channel@thousandeyes.com
+docs-feedback@thousandeyes.com

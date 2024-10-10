@@ -1,0 +1,7 @@
+sales@nagios.com
+marketing@nagios.com
+estanley@nagios.com
+info@nagios.com
+bpedersen@nagios.com
+banderson@nagios.com
+zbordeau@nagios.com

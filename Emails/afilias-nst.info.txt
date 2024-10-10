@@ -1,0 +1,3 @@
+peering@afilias-nst.info
+noc@afilias-nst.info
+abuse@afilias-nst.info

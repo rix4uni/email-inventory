@@ -1,0 +1,3 @@
+registrant@itsfoss.com
+tech@itsfoss.com
+name@itsfoss.com

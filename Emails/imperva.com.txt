@@ -1006,3 +1006,10 @@ aharon.strosberg@imperva.com
 akbar@imperva.com
 alastair.corbett@imperva.com
 alex@imperva.com
+luiz@imperva.com
+lee.wooderson@imperva.com
+yanay.liroz@imperva.com
+francis.arigo@imperva.com
+aaron.klink@imperva.com
+liroz@imperva.com
+arigo@imperva.com

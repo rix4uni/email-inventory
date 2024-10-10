@@ -1,0 +1,7 @@
+testing@wi.us.mensa.org
+locsec@wi.us.mensa.org
+membership@wi.us.mensa.org
+wiscom@wi.us.mensa.org
+children@wi.us.mensa.org
+memre@wi.us.mensa.org
+scholarship@wi.us.mensa.org

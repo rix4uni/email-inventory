@@ -1,0 +1,7 @@
+first@voicemod.net
+joe@voicemod.net
+flast@voicemod.net
+jdoe@voicemod.net
+first.last@voicemod.net
+joe.doe@voicemod.net
+last@voicemod.net

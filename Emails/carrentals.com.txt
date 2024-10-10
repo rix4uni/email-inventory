@@ -12,3 +12,8 @@ domains@carrentals.com
 engineer@carrentals.com
 engineering@carrentals.com
 info@carrentals.com
+support@carrentals.com
+worldwide@carrentals.com
+rentals@carrentals.com
+window@carrentals.com
+only@carrentals.com

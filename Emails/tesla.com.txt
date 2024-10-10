@@ -1012,3 +1012,10 @@ aarhus_sales@tesla.com
 abartoszewicz@tesla.com
 aberdeen_sales@tesla.com
 acaba@tesla.com
+braunschweig_sales@tesla.com
+magdeburg_sales@tesla.com
+u003ejustice@tesla.com
+service_leipzig@tesla.com
+karlsruhe_sales@tesla.com
+absence@tesla.com
+energycustomersupport@tesla.com

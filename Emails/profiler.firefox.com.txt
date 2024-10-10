@@ -1,0 +1,6 @@
+users@profiler.netbeans.org
+commits@profiler.netbeans.org
+users-subscribe@profiler.netbeans.org
+users-help@profiler.netbeans.org
+users-unsubscribe@profiler.netbeans.org
+feedback@profiler.netbeans.org

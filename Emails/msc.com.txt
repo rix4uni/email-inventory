@@ -1,0 +1,7 @@
+sg413-sgsindist@msc.com
+tr080-mscant@msc.com
+tr080-mscesk@msc.com
+tr080-mscgeb@msc.com
+tr080-mscbur@msc.com
+tr080-mscist@msc.com
+tr080-msckys@msc.com

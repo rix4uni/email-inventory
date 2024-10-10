@@ -1,0 +1,7 @@
+editor@alraimedia.com
+sm@alraimedia.com
+dist@alraimedia.com
+prod@alraimedia.com
+acct@alraimedia.com
+jinfo@alraimedia.com
+local@alraimedia.com

@@ -1013,3 +1013,10 @@ bspataris@microsoft.com
 0ams23oq@microsoft.com
 0cbhvq64@microsoft.com
 0d.baker@microsoft.com
+shugup@microsoft.com
+arbasu@microsoft.com
+barbara.domicelj@microsoft.com
+akshay.krishnamurthy@microsoft.com
+clustersvc@microsoft.com
+v-joegarvin@microsoft.com
+benoah@microsoft.com

@@ -1,0 +1,4 @@
+verity.b@pocket-lint.com
+editorial@pocket-lint.com
+pr@pocket-lint.com
+admin@pocket-lint.com

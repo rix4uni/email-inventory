@@ -1,0 +1,2 @@
+maintainer@nixos.org
+community@nixos.org

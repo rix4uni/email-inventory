@@ -7,3 +7,5 @@ de.mainz.hauptbahnhof@starbucks.de
 dhildenbrand@starbucks.de
 dirk.hildenbrand@starbucks.de
 esseninfo@starbucks.de
+de.essen.hauptbahnhof@starbucks.de
+de.hannover.hauptbahnhof@starbucks.de

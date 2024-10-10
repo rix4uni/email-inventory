@@ -1,0 +1,5 @@
+it@notion.com
+john@notion.com
+will@notion.com
+rachel@notion.com
+mary.cassatt@notion.com

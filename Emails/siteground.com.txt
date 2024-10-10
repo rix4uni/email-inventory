@@ -1,0 +1,7 @@
+dmarc-sg@siteground.com
+dmarc-ruf@siteground.com
+sgtest@siteground.com
+plugins_privacy@siteground.com
+milen.z@siteground.com
+privacy_bg_careers@siteground.com
+privacy_es_careers@siteground.com

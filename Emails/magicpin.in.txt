@@ -1,0 +1,7 @@
+first@magicpin.in
+joe@magicpin.in
+flast@magicpin.in
+jdoe@magicpin.in
+first.last@magicpin.in
+joe.doe@magicpin.in
+last@magicpin.in

@@ -1,0 +1,5 @@
+support@openexchangerates.org
+joss@openexchangerates.org
+legal@openexchangerates.org
+info@openexchangerates.org
+proxy@openexchangerates.org

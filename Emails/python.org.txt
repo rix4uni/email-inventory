@@ -1,0 +1,7 @@
+pythonnet-leave@python.org
+itt@python.org
+uk.bnpparibas.com@python.org
+dgplug@python.org
+3ddistutils-sig@python.org
+bmcm.com@python.org
+pythondotnet-bounces@python.org

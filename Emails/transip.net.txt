@@ -1,0 +1,3 @@
+ripe_notify@transip.net
+test@transip.net
+ripe@transip.net

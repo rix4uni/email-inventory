@@ -1,0 +1,7 @@
+matt.yglesias@slate.com
+u003edecoderring@slate.com
+comments@slate.com
+dmarc_rua@slate.com
+dmarc_ruf@slate.com
+hearmeout@slate.com
+u003ehearmeout@slate.com

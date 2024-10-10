@@ -13,3 +13,12 @@ ani@press.jhu.edu
 asapsupport@press.jhu.edu
 asasupport@press.jhu.edu
 asecssupport@press.jhu.edu
+asn@press.jhu.edu
+bkp@press.jhu.edu
+textbooks@press.jhu.edu
+bjorn.stansvik@press.jhu.edu
+clark.quillen@press.jhu.edu
+holly.munroe@press.jhu.edu
+william.brody@press.jhu.edu
+nbkp@press.jhu.edu
+nklr@press.jhu.edu

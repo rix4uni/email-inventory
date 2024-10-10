@@ -1,0 +1,7 @@
+john.smith@brightedge.com
+johnsmith@brightedge.com
+john_smith@brightedge.com
+john@brightedge.com
+smith@brightedge.com
+ms@brightedge.com
+ksoos@brightedge.com

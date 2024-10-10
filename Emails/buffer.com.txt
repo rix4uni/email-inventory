@@ -13,3 +13,10 @@ beth@buffer.com
 bonnie@buffer.com
 brian@buffer.com
 brian.p@buffer.com
+day@buffer.com
+pozdrav@buffer.com
+esther@buffer.com
+nleo@buffer.com
+first@buffer.com
+jane@buffer.com
+jane.doe@buffer.com

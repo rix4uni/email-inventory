@@ -8,3 +8,7 @@ partnerships@spark.ywb.com.au
 partnerships.bris@spark.ywb.com.au
 partnerships.melb@spark.ywb.com.au
 secretary@spark.ywb.com.au
+students@spark.ywb.com.au
+students.bris@spark.ywb.com.au
+students.melb@spark.ywb.com.au
+staff@spark.ywb.com.au

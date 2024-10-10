@@ -1,0 +1,3 @@
+sam@osmc.tv
+security@osmc.tv
+upstream-bugreport@osmc.tv
