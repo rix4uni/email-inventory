@@ -3,3 +3,4 @@ steven.try@snom.com
 paul.grant@snom.com
 flavio.calzaretta@snom.com
 przemyslaw.paziewski@snom.com
+jsm@snom.com
