@@ -1,0 +1,7 @@
+result@speedtest.net
+speed@speedtest.net
+checks@speedtest.net
+mirror@speedtest.net
+testyourinternetconnectionspeed@speedtest.net
+run@speedtest.net
+test@speedtest.net

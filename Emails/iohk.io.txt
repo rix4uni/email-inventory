@@ -1,0 +1,7 @@
+business.development@iohk.io
+rebecca.hopwood@iohk.io
+jan.schlegel@iohk.io
+alberto.garoffolo@iohk.io
+dave.gunnell@iohk.io
+catalystcompletions@iohk.io
+shea.levy@iohk.io

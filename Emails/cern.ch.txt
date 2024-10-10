@@ -1,0 +1,7 @@
+atlas-trig-egamma@cern.ch
+mehdi.daakir@cern.ch
+daniela.wick@cern.ch
+kris.avandal@cern.ch
+magnus.fallbaum@cern.ch
+petra.kosmanen@cern.ch
+ron.waitmal@cern.ch

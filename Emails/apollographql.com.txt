@@ -1,0 +1,7 @@
+peter.ashmore@apollographql.com
+zach.steele@apollographql.com
+tj@apollographql.com
+lisa@apollographql.com
+u003eopensource@apollographql.com
+cloud@apollographql.com
+lorenz.weber-tronic@apollographql.com

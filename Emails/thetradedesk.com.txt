@@ -1,0 +1,7 @@
+edge.support@thetradedesk.com
+john.smith@thetradedesk.com
+johnsmith@thetradedesk.com
+john_smith@thetradedesk.com
+john@thetradedesk.com
+smith@thetradedesk.com
+apipartnerships@thetradedesk.com

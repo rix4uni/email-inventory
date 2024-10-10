@@ -1,0 +1,7 @@
+marc@geonames.org
+available@geonames.org
+info@geonames.org
+do@geonames.org
+martin@geonames.org
+roland@geonames.org
+gerjan@geonames.org

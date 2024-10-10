@@ -4,3 +4,5 @@ emma@redtube.com
 hltv@redtube.com
 imbatman@redtube.com
 legal@redtube.com
+dpo@redtube.com
+dsa@redtube.com

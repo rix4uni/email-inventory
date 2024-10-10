@@ -1,0 +1,7 @@
+brian@airbyte.io
+founders@airbyte.io
+michel@airbyte.io
+chris.rose@airbyte.io
+riley@airbyte.io
+legal@airbyte.io
+demo-monitoring@airbyte.io

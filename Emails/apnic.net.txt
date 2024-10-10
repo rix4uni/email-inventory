@@ -1,0 +1,7 @@
+apnic-alumni@apnic.net
+20election-conduct@apnic.net
+academy-talk@apnic.net
+dan.fidler@apnic.net
+towg-pdr-leave@apnic.net
+wg-pdr-leave@apnic.net
+sig-cooperation-leave@apnic.net

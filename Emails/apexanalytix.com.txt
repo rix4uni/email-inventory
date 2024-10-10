@@ -1,0 +1,2 @@
+dmarc_feedback@apexanalytix.com
+dmarc_ruf@apexanalytix.com

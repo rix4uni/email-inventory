@@ -1,0 +1,7 @@
+ascp.boc@ascp.org
+bocinfo@ascp.org
+formal-complaint.boc@ascp.org
+cmpinternational@ascp.org
+privacy@ascp.org
+karen.fong@ascp.org
+mark.moen@ascp.org

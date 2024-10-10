@@ -1,0 +1,3 @@
+edn@panasonic.jp
+send@panasonic.jp
+end@panasonic.jp

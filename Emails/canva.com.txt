@@ -1006,3 +1006,10 @@ aday@canva.com
 android-app@canva.com
 andyshaw@canva.com
 aram@canva.com
+jessica.l@canva.com
+jane.smith@canva.com
+slehmann@canva.com
+no-reply@canva.com
+publicsuffixlist@canva.com
+reby@canva.com
+brunoriddy@canva.com

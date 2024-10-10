@@ -13,3 +13,5 @@ extensions@qwant.com
 g.champeau@qwant.com
 g.lariviere@qwant.com
 info@qwant.com
+r.dupre@qwant.com
+r.deveaud@qwant.com

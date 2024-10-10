@@ -1,0 +1,5 @@
+sales@kernelcare.com
+server@kernelcare.com
+info@kernelcare.com
+helpdesk@kernelcare.com
+billing@kernelcare.com

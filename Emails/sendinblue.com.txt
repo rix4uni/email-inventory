@@ -1,0 +1,7 @@
+developers@sendinblue.com
+hello@sendinblue.com
+recipient0@sendinblue.com
+recipient1@sendinblue.com
+u003edatenschutz@sendinblue.com
+issue_summary_reporter_anthony@sendinblue.com
+andrea@sendinblue.com

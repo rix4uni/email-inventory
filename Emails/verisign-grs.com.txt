@@ -8,3 +8,6 @@ idn@verisign-grs.com
 idntestbed@verisign-grs.com
 info@verisign-grs.com
 jlee@verisign-grs.com
+idn-domain-count-list@verisign-grs.com
+mltestbed@verisign-grs.com
+owner-idntestbed@verisign-grs.com

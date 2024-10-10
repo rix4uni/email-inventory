@@ -1,0 +1,6 @@
+daphnetyler@kaggle.com
+john@kaggle.com
+johnsmith@kaggle.com
+jsmith@kaggle.com
+john.smith@kaggle.com
+john_smith@kaggle.com

@@ -1,0 +1,7 @@
+alerts@newser.com
+editor@newser.com
+article@newser.com
+john.filut@newser.com
+michael.wolff@newser.com
+patrick.spain@newser.com
+reports@newser.com

@@ -1,0 +1,7 @@
+team.data-partnerships@zeotap.com
+barcelona@zeotap.com
+bangalore@zeotap.com
+london@zeotap.com
+madrid@zeotap.com
+milan@zeotap.com
+mumbai@zeotap.com

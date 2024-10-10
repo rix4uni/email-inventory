@@ -1,0 +1,7 @@
+bpfeifer@influxdata.com
+mwesterlind@influxdata.com
+zsteinkamp@influxdata.com
+rick@influxdata.com
+jclifford@influxdata.com
+security@influxdata.com
+apply@influxdata.com

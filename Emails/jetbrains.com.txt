@@ -1,0 +1,7 @@
+semyon.kolton@jetbrains.com
+sasha.blashenkov@jetbrains.com
+ilya.muradyan@jetbrains.com
+maria.tigina@jetbrains.com
+alexandra.eliseeva@jetbrains.com
+cve@jetbrains.com
+noc-ripe@jetbrains.com

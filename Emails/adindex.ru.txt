@@ -1,0 +1,7 @@
+nfo@adindex.ru
+john@adindex.ru
+john.doe@adindex.ru
+doejohn@adindex.ru
+jd@adindex.ru
+doe_john@adindex.ru
+doe@adindex.ru

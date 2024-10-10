@@ -1,0 +1,7 @@
+general-jakarta@archive.servlets.com
+jdom-interest@archive.servlets.com
+webmacro@archive.servlets.com
+xqzone-general@archive.servlets.com
+jrun-talk@archive.servlets.com
+jsp-interest@archive.servlets.com
+struts-dev@archive.servlets.com

@@ -1,0 +1,6 @@
+service@zalando.at
+geschenkgutscheine@zalando.at
+ervice@zalando.at
+reklamation@zalando.at
+atdefault@zalando.at
+widerruf@zalando.at

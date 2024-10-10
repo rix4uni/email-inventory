@@ -1,0 +1,7 @@
+korea@menlosecurity.com
+dmarc-reports@menlosecurity.com
+stephen.cenedella@menlosecurity.com
+michael.welter@menlosecurity.com
+john.smith@menlosecurity.com
+johnsmith@menlosecurity.com
+john_smith@menlosecurity.com

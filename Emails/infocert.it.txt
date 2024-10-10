@@ -1,0 +1,7 @@
+peppol@infocert.it
+mario@infocert.it
+non_in_rubrica@infocert.it
+supporto.firma.digitale@infocert.it
+gosign@infocert.it
+openminds.srl@infocert.it
+marco.rinaldi.ext@infocert.it

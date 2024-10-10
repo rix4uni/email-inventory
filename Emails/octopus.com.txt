@@ -12,3 +12,10 @@ derek.campbell@octopus.com
 devops@octopus.com
 geo-slime@octopus.com
 info@octopus.com
+demo@octopus.com
+admin@octopus.com
+partners@octopus.com
+u003esupport@octopus.com
+compliance@octopus.com
+marketing@octopus.com
+xyz@octopus.com
