@@ -1,0 +1,7 @@
+example.org@evil.com
+example.org@domain.com
+example.org@apache.org
+example.org@smarden.org
+example.org@lists.leinelab.org
+example.org@mx.alwaysdata.com
+pistike@example.org.getnotify.com

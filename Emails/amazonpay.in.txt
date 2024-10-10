@@ -1,0 +1,5 @@
+amazonpay-escalation@amazonpay.in
+amazonpay-grievance-officer@amazonpay.in
+amazonpay-nodal-officer@amazonpay.in
+escalation@amazonpay.in
+grievance-officer@amazonpay.in

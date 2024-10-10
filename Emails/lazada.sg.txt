@@ -11,3 +11,8 @@ deals@lazada.sg
 film@lazada.sg
 here@lazada.sg
 info@lazada.sg
+products@lazada.sg
+items@lazada.sg
+only@lazada.sg
+online@lazada.sg
+accessories@lazada.sg

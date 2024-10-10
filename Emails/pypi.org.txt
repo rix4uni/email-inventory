@@ -1,0 +1,4 @@
+sales@pypi.org
+nicole@pypi.org
+noreply@pypi.org
+admin@pypi.org

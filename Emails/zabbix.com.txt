@@ -13,3 +13,10 @@ aleksejs.petrovs@zabbix.com
 aleksejs.sestakovs@zabbix.com
 alex@zabbix.com
 alexander.bakaldin@zabbix.com
+webinars@zabbix.com
+evgenii.gordymov@zabbix.com
+sergejs.maklakovs@zabbix.com
+vyacheslav.khaliev@zabbix.com
+konstantins.prutkovs@zabbix.com
+artjoms.rimdjonoks@zabbix.com
+reinis.detlavs@zabbix.com

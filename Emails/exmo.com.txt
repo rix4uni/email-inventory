@@ -13,3 +13,5 @@ exo_support@exmo.com
 finance@exmo.com
 ieo@exmo.com
 info@exmo.com
+career@exmo.com
+tuki@exmo.com

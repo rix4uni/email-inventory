@@ -1,0 +1,2 @@
+dnsops@afnic.fr
+dnsmaster@afnic.fr

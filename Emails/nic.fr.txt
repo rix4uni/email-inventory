@@ -1,0 +1,7 @@
+rfceditor@nic.fr
+github@nic.fr
+dns-lg@nic.fr
+2bietf@nic.fr
+fr@nic.fr
+amandine.darragon@nic.fr
+zmeyer@nic.fr

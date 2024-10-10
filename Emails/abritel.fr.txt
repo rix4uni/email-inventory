@@ -13,3 +13,6 @@ info2@abritel.fr
 italia@abritel.fr
 jad@abritel.fr
 jcv@abritel.fr
+legal@abritel.fr
+scan@abritel.fr
+marketing@abritel.fr

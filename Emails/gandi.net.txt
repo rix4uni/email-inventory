@@ -1,0 +1,7 @@
+corporateservices@gandi.net
+john@gandi.net
+john.smith@gandi.net
+johnsmith@gandi.net
+john_smith@gandi.net
+smith@gandi.net
+pierre-elliott.becue@gandi.net

@@ -10,3 +10,9 @@ cases@newegg.ca
 cooling@newegg.ca
 customers@newegg.ca
 datafeeds@newegg.ca
+blackfriday.stopmallmadness@newegg.ca
+webmaster@newegg.ca
+whyiwontshop@newegg.ca
+service@newegg.ca
+newsletter@newegg.ca
+marketing@newegg.ca

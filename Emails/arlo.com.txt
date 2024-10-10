@@ -13,3 +13,7 @@ ashton.good@arlo.com
 ashton_good@arlo.com
 askarlo@arlo.com
 bbusse@arlo.com
+privacy@arlo.com
+dl-cloudops@arlo.com
+matt@arlo.com
+noreply@arlo.com

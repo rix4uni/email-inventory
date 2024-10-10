@@ -1,1 +1,2 @@
 focus@auth.alpha.jitsi.net
+jidesha@jitsi.net

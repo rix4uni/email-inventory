@@ -1,0 +1,5 @@
+hello@andieswim.com
+orders@andieswim.com
+press@andieswim.com
+ozinfo@andieswim.com
+ozorders@andieswim.com

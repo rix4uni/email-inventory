@@ -1013,3 +1013,10 @@ abakun@yelp.com
 abanks@yelp.com
 abby@yelp.com
 abigailc@yelp.com
+sschroeder@yelp.com
+recruiting@yelp.com
+swagger-spec-compatibility@yelp.com
+restaurantsupport@yelp.com
+npress@yelp.com
+calgary@yelp.com
+jlecas@yelp.com

@@ -1,0 +1,4 @@
+noreply@shop.app
+update@shop.app
+terms-update@shop.app
+u003ehelp@shop.app

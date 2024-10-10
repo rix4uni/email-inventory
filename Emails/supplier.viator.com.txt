@@ -1,0 +1,3 @@
+thommy.andersen@supplier.volvo.com
+bengt.insgard@supplier.volvo.com
+bengt.rydberg@supplier.volvo.com

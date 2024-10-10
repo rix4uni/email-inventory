@@ -1,0 +1,5 @@
+dmarc@scoop.it
+u003ehbrevet@scoop.it
+nhbrevet@scoop.it
+accounting@scoop.it
+sysadmin@scoop.it

@@ -1,0 +1,7 @@
+john.smith@ktla.com
+johnsmith@ktla.com
+john_smith@ktla.com
+john@ktla.com
+smith@ktla.com
+pedro.rivera@ktla.com
+ktlamorningnews@ktla.com

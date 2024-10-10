@@ -1,0 +1,6 @@
+admin@allstarlink.org
+staff@allstarlink.org
+helpdesk@allstarlink.org
+developers@allstarlink.org
+board@allstarlink.org
+rt@allstarlink.org

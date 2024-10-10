@@ -62,3 +62,7 @@ apps2@vhx.tv
 artists@vhx.tv
 awaketv@vhx.tv
 birthstory@vhx.tv
+copyright@vhx.tv
+watermark@vhx.tv
+help@vhx.tv
+publishers@vhx.tv

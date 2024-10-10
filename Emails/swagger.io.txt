@@ -1,0 +1,7 @@
+support@swagger.io
+apiteam@swagger.io
+info@swagger.io
+sales@swagger.io
+6info@swagger.io
+security@swagger.io
+inspector@swagger.io

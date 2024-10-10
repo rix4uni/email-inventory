@@ -6,3 +6,6 @@ jukka@kolikkopelit.com
 jere@kolikkopelit.com
 webmaster@kolikkopelit.com
 asiakaspalvelu@kolikkopelit.com
+kumppanit@kolikkopelit.com
+info@kolikkopelit.com
+sales@kolikkopelit.com

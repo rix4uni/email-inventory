@@ -1,0 +1,7 @@
+hostmaster@telenor.net
+abuse@telenor.net
+bskauge@telenor.net
+espen@telenor.net
+certinfo@telenor.net
+cert@telenor.net
+cert-info@telenor.net

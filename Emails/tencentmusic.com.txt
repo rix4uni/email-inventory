@@ -1,0 +1,4 @@
+tme_brand@tencentmusic.com
+tme_lazyaudio_kefu@tencentmusic.com
+lazyaudio_kefu@tencentmusic.com
+tme_lrtsappstore@tencentmusic.com

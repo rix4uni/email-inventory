@@ -1,0 +1,6 @@
+jsmith@jenkins.io
+john.smith@jenkins.io
+johnsmith@jenkins.io
+john_smith@jenkins.io
+john@jenkins.io
+smith@jenkins.io

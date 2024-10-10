@@ -1,0 +1,2 @@
+service@ailoq.com
+notice@ailoq.com
