@@ -20,3 +20,4 @@ sim@vendhq.com
 nick@vendhq.com
 headoftalent@vendhq.com
 vaughan@vendhq.com
+fixture@vendhq.com
