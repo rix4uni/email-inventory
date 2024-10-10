@@ -2,3 +2,6 @@ culture@uberflip.com
 andrea.lodigiani@uberflip.com
 snapapp@uberflip.com
 privacy@uberflip.com
+jakob.brofeldt@uberflip.com
+mike.brown@uberflip.com
+product@uberflip.com
