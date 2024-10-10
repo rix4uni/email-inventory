@@ -1,0 +1,7 @@
+english@aleph.to
+russia@aleph.to
+osaka@aleph.to
+yokohama@aleph.to
+nagoya@aleph.to
+fukuoka@aleph.to
+sendai@aleph.to

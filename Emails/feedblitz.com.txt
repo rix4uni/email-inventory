@@ -1,0 +1,2 @@
+notify@feedblitz.com
+noreply@feedblitz.com

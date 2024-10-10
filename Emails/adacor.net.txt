@@ -1,0 +1,2 @@
+hostmaster@adacor.net
+abuse@adacor.net

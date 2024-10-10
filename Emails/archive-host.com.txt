@@ -1,0 +1,2 @@
+technique@archive-host.com
+service-client@archive-host.com

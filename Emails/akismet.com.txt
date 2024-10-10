@@ -1,0 +1,7 @@
+support@akismet.com
+key@akismet.com
+servers@akismet.com
+with@akismet.com
+details@akismet.com
+priority@akismet.com
+account@akismet.com

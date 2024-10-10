@@ -1,0 +1,7 @@
+sonatype@sonatype.org
+book-notify-subscribe@sonatype.org
+info@sonatype.org
+sales@sonatype.org
+nexus-user@sonatype.org
+nexus-dev@sonatype.org
+nexus-user-subscribe@sonatype.org

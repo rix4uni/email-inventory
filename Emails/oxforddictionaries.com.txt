@@ -1,0 +1,6 @@
+server@oxforddictionaries.com
+online@oxforddictionaries.com
+editors@oxforddictionaries.com
+oed@oxforddictionaries.com
+dictionaries@oxforddictionaries.com
+info@oxforddictionaries.com

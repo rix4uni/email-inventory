@@ -1,0 +1,7 @@
+webeditor@accu.org
+conference@accu.org
+ukfortran@accu.org
+accu-oxford@accu.org
+kgabac@accu.org
+kabbas@accu.org
+chair@accu.org

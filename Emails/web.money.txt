@@ -1,0 +1,3 @@
+cards@web.money
+card2card@web.money
+exchanger@web.money

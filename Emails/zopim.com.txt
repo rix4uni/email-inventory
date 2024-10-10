@@ -13,3 +13,6 @@ info@zopim.com
 jane@zopim.com
 janedoe@zopim.com
 jezreel@zopim.com
+mikkel.svane@zopim.com
+u003esupport@zopim.com
+u003esecurity@zopim.com

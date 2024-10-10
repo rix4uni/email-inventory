@@ -1,0 +1,7 @@
+n@snyk.io
+cara.foley@snyk.io
+noa.moshe@snyk.io
+some.body@snyk.io
+code-signing@snyk.io
+thebigfix@snyk.io
+u003csnyk-bot@snyk.io

@@ -1,0 +1,5 @@
+u003cabramo@alsa-project.org
+alsa-devel-join@alsa-project.org
+alsa-devel-leave@alsa-project.org
+patch-owner@alsa-project.org
+mandriva.comalsa-devel@alsa-project.org

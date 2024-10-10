@@ -1,0 +1,7 @@
+nmedia@revolut.com
+report.fraud@revolut.com
+payroll-support@revolut.com
+u003ereport.fraud@revolut.com
+fraudops@revolut.com
+courtorders@revolut.com
+u003esupport@revolut.com

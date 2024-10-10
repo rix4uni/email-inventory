@@ -1,0 +1,1 @@
+local_password@mongodb.net

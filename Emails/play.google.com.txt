@@ -12,3 +12,7 @@ google@play.google.com
 google.time@play.google.com
 https@play.google.com
 info@play.google.com
+more@play.google.com
+web@play.google.com
+download@play.google.com
+nction@play.google.com

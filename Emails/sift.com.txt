@@ -1,0 +1,7 @@
+first@sift.com
+joe@sift.com
+flast@sift.com
+jdoe@sift.com
+first.last@sift.com
+joe.doe@sift.com
+last@sift.com

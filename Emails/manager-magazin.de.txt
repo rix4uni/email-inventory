@@ -1,0 +1,4 @@
+hbm.chefredaktion@manager-magazin.de
+mm.research@manager-magazin.de
+claas.tatje@manager-magazin.de
+simone.salden@manager-magazin.de

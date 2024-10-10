@@ -1,0 +1,7 @@
+mcrippa@bluepex.com
+marcio.alexandre@bluepex.com
+freebsdports@bluepex.com
+info@bluepex.com
+freebsd-ports@bluepex.com
+sergio@bluepex.com
+celso.rayes@bluepex.com

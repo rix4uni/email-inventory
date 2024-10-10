@@ -1,0 +1,7 @@
+android@thrillist.com
+editor@thrillist.com
+atlanta@thrillist.com
+atlanticcity@thrillist.com
+austin@thrillist.com
+boston@thrillist.com
+chicago@thrillist.com

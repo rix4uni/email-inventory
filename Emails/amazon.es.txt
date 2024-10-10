@@ -13,3 +13,10 @@ amazoncampuschallenge@amazon.es
 antvara@amazon.es
 apex@amazon.es
 arribasa@amazon.es
+shipping-tracking@amazon.es
+customers@amazon.es
+repairs@amazon.es
+uff1aperformance-vendedor@amazon.es
+buyer-returns@amazon.es
+priera@amazon.es
+privacy@amazon.es

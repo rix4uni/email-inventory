@@ -13,3 +13,8 @@ anton.sandang@atg.se
 atg@atg.se
 benno.eliasson@atg.se
 bj.hammarstrom@atg.se
+spelansvar@atg.se
+yvonne.janse@atg.se
+dmarc@atg.se
+mathilda.bergquist@atg.se
+netman@atg.se

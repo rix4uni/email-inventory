@@ -13,3 +13,10 @@ alexludo@amazon.it
 amazon-student-verification@amazon.it
 amazon-tours@amazon.it
 amazonpayments-cb-info@amazon.it
+spedizioni@amazon.it
+nicolafi@amazon.it
+gimadron@amazon.it
+gleman@amazon.it
+eproto@amazon.it
+request-fattura@amazon.it
+uff1aperformance-venditore@amazon.it

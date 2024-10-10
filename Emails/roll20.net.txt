@@ -1,0 +1,4 @@
+partnerrelations@roll20.net
+invoices@roll20.net
+publisherservice@roll20.net
+pathfinder@roll20.net

@@ -12,3 +12,6 @@ account-compliance@xoom.com
 adrian@xoom.com
 adv@xoom.com
 afrglsl@xoom.com
+customers@xoom.com
+cproduct.feedback@xoom.com
+cancellation_appeals@xoom.com

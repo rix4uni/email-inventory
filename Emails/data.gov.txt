@@ -1,1 +1,10 @@
 
+data.gov@finance.gov.au
+data.gov@data.gsa.gov
+datapolicy2@finance.gov.au
+apsnetzero@finance.gov.au
+maps@finance.gov.au
+woagfleet@finance.gov.au
+peoplepanelcontract@finance.gov.au
+procurementcoordinator@finance.gov.au
+apsregulatoryreform@finance.gov.au

@@ -13,3 +13,10 @@ legal@coinmarketcap.com
 marketing@coinmarketcap.com
 media.conference@coinmarketcap.com
 molly@coinmarketcap.com
+events@coinmarketcap.com
+product@coinmarketcap.com
+bryan.k@coinmarketcap.com
+jobs@coinmarketcap.com
+report@coinmarketcap.com
+u003ereport@coinmarketcap.com
+jin.choo@coinmarketcap.com

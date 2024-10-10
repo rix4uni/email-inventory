@@ -1,0 +1,4 @@
+cabal@adium.im
+info@adium.im
+sales@adium.im
+feedback@adium.im

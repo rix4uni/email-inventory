@@ -11,3 +11,10 @@ apps_tvassistant@oneplus.com
 apps_weather@oneplus.com
 apps_zenmode@oneplus.com
 ashley.colette@oneplus.com
+nsupport@oneplus.com
+ukrepresentative@oneplus.com
+tom.downs@oneplus.com
+x22support.fi@oneplus.com
+support.fi@oneplus.com
+support.lv@oneplus.com
+x22support.uk@oneplus.com

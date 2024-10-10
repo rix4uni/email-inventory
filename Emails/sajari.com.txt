@@ -1,0 +1,7 @@
+first@sajari.com
+joe@sajari.com
+flast@sajari.com
+jdoe@sajari.com
+first.last@sajari.com
+joe.doe@sajari.com
+last@sajari.com

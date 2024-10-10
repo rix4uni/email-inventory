@@ -1,0 +1,7 @@
+cool.person@customer.io
+karn@customer.io
+naomi@customer.io
+blake.ricciardi@customer.io
+diaz@customer.io
+bernard@customer.io
+2btest@customer.io

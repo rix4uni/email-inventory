@@ -1,0 +1,7 @@
+edsearch-list@gnome.org
+edsearch-list-owner@gnome.org
+snwh@gnome.org
+khairulaizat@gnome.org
+gnome-au-list@gnome.org
+rhythmbox-devel-admin@gnome.org
+gnome-db-list-bounces@gnome.org

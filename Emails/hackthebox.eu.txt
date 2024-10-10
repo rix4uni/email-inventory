@@ -1,0 +1,7 @@
+u003ecommunity@hackthebox.eu
+education@hackthebox.eu
+u003eeducation@hackthebox.eu
+submissions@hackthebox.eu
+u003esubmissions@hackthebox.eu
+u003esales@hackthebox.eu
+meetups@hackthebox.eu

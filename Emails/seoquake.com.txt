@@ -1,3 +1,8 @@
 seoquake-plugin-seolinx@seoquake.com
 mail@seoquake.com
 dmatt@seoquake.com
+info@seoquake.com
+sales@seoquake.com
+seoquake-plugin-technorati@seoquake.com
+seoquake-plugin-ask@seoquake.com
+seoquake-plugin-baidu@seoquake.com

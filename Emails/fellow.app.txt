@@ -1,0 +1,6 @@
+a@fellow.app
+privacy@fellow.app
+info@fellow.app
+help@fellow.app
+support@fellow.app
+blog@fellow.app

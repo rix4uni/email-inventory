@@ -1,0 +1,4 @@
+info@admax.se
+registry@admax.se
+peering@admax.se
+billigdoman@admax.se

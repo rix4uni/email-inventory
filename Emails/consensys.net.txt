@@ -13,3 +13,10 @@ alex.voto@consensys.net
 alexander.attar@consensys.net
 alice.nawfal@consensys.net
 alpine@consensys.net
+bill.gleim@consensys.net
+jim.zhang@consensys.net
+daniel.pavelic@consensys.net
+kristofer.shinn@consensys.net
+javier.vera@consensys.net
+william.morriss@consensys.net
+it@consensys.net

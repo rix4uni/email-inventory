@@ -1,0 +1,7 @@
+support@postmarkapp.com
+info@postmarkapp.com
+hash@postmarkapp.com
+sales@postmarkapp.com
+api_key@postmarkapp.com
+firstcc@postmarkapp.com
+secondcc@postmarkapp.com

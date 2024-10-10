@@ -1,0 +1,7 @@
+amitlan@postgresql.org
+u003cfujii@postgresql.org
+nsecurity@postgresql.org
+m1105@postgresql.org
+pgsql-announce-postgresql.org@postgresql.org
+pgsql-announce-owner@postgresql.org
+nathan@postgresql.org

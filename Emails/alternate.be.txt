@@ -1,0 +1,7 @@
+service@alternate.be
+sales@alternate.be
+b2b@alternate.be
+klantenservice@alternate.be
+webmaster@alternate.be
+klantendienst@alternate.be
+privacy@alternate.be

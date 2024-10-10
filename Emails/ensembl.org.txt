@@ -1,0 +1,7 @@
+helpdesk@ensembl.org
+dev@ensembl.org
+announce@ensembl.org
+announce-owner@ensembl.org
+dev-owner@ensembl.org
+info@ensembl.org
+dev-join@ensembl.org

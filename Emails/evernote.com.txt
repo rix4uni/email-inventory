@@ -13,3 +13,10 @@ aharmon@evernote.com
 akoh@evernote.com
 alex@evernote.com
 alexei@evernote.com
+en-eng-core-zone@evernote.com
+feedback@evernote.com
+nlegalnotice@evernote.com
+alegalnotice@evernote.com
+partnership@evernote.com
+partnerships@evernote.com
+https@evernote.com

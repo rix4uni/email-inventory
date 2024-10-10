@@ -13,3 +13,7 @@ cpinson@sketchfab.com
 crowdfunding@sketchfab.com
 dmca@sketchfab.com
 email@sketchfab.com
+remy@sketchfab.com
+arthur@sketchfab.com
+npm@sketchfab.com
+contact@sketchfab.com

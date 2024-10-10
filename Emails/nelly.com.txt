@@ -1,0 +1,5 @@
+accountspayable@nelly.com
+invoicemaildropnlyse@nelly.com
+invoicemaildropnlygroup@nelly.com
+dmarc@nelly.com
+rebecca.harkonen@nelly.com

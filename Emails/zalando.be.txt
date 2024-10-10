@@ -1,0 +1,7 @@
+service@zalando.be
+sales@zalando.be
+info@zalando.be
+klantendienst@zalando.be
+bedefault@zalando.be
+befrdefault@zalando.be
+marijke.averink@zalando.be

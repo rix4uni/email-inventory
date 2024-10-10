@@ -1007,3 +1007,10 @@ adam.hathaway@zoom.us
 adinfo@zoom.us
 adsales@zoom.us
 alex.mooc@zoom.us
+integration.testers@zoom.us
+kelly.hedgecock@zoom.us
+ensureno-reply@zoom.us
+u003edevelopersupport@zoom.us
+julian.martin@zoom.us
+b1no-reply@zoom.us
+9dno-reply@zoom.us
