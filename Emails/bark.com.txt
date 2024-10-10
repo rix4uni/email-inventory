@@ -3,3 +3,4 @@ binary@bark.com
 lucy.thompson@bark.com
 deutschland@bark.com
 hr@bark.com
+dave.boyle@bark.com
