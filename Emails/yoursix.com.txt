@@ -1,0 +1,7 @@
+johnd@yoursix.com
+john@yoursix.com
+john.doe@yoursix.com
+jdoe@yoursix.com
+johndoe@yoursix.com
+john_doe@yoursix.com
+doejohn@yoursix.com

@@ -1,0 +1,6 @@
+u003cdevelopers@phpmyadmin.net
+error-reports@phpmyadmin.net
+gsoc-mentors-2019@phpmyadmin.net
+error-reports-owner@phpmyadmin.net
+gsoc-mentors-2019-owner@phpmyadmin.net
+mailman-owner@phpmyadmin.net

@@ -1004,3 +1004,9 @@ ads-api-help@quora.com
 advertising@quora.com
 andrew.canty@quora.com
 andrew_canty@quora.com
+hello@quora.com
+verified@quora.com
+nchimbulkar@quora.com
+arbitration.optout@quora.com
+20digest@quora.com
+poe@quora.com

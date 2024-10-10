@@ -13,3 +13,7 @@ dio-pgt@prd.kerala.gov.in
 dio-pta@prd.kerala.gov.in
 dio-tcr@prd.kerala.gov.in
 dio-tvm@prd.kerala.gov.in
+dir@prd.kerala.gov.in
+janapatham@prd.kerala.gov.in
+sales@prd.kerala.gov.in
+info@prd.kerala.gov.in

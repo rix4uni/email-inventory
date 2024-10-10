@@ -1,0 +1,2 @@
+data-privacy@mender.io
+data-privacy-officer@mender.io

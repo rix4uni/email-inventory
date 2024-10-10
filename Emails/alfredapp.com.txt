@@ -1,0 +1,4 @@
+info@alfredapp.com
+server@alfredapp.com
+license@alfredapp.com
+sales@alfredapp.com

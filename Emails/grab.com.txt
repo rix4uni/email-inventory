@@ -1012,3 +1012,10 @@ admin.grabcar.hcmc@grab.com
 admin.grabcarhcm@grab.com
 admin.grabcarhcmc@grab.com
 admin.grabcarhn@grab.com
+grabfood.id@grab.com
+arvi.lopez@grab.com
+joann.yoshida@grab.com
+grabbike.th@grab.com
+grabgiftspartners@grab.com
+kris.gwee@grab.com
+gmc.enquiries@grab.com

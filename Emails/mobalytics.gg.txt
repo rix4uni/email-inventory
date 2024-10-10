@@ -1,0 +1,7 @@
+first@mobalytics.gg
+joe@mobalytics.gg
+flast@mobalytics.gg
+jdoe@mobalytics.gg
+first.last@mobalytics.gg
+joe.doe@mobalytics.gg
+last@mobalytics.gg

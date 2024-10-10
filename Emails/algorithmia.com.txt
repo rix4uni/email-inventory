@@ -1,0 +1,7 @@
+info@algorithmia.com
+recommender@algorithmia.com
+jobs@algorithmia.com
+john@algorithmia.com
+kenny@algorithmia.com
+diego@algorithmia.com
+devops@algorithmia.com

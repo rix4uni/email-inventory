@@ -1,0 +1,4 @@
+salt@kali.org
+admins@kali.org
+elwood@kali.org
+u003cdevel@kali.org

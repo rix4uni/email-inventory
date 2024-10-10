@@ -8,3 +8,6 @@ main@openapi.groups.io
 marketing@openapi.groups.io
 owner@openapi.groups.io
 scope@openapi.groups.io
+subscribe@openapi.groups.io
+unsubscribe@openapi.groups.io
+tsc-private@openapi.groups.io

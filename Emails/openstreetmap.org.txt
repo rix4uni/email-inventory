@@ -1,0 +1,7 @@
+newbies@openstreetmap.org
+talk-cl@openstreetmap.org
+talk-ar@openstreetmap.org
+hot@openstreetmap.org
+talk-co@openstreetmap.org
+talk-ro@openstreetmap.org
+server@openstreetmap.org

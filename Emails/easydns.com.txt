@@ -1,0 +1,7 @@
+hostmaster@easydns.com
+support@easydns.com
+abuse@easydns.com
+privacy@easydns.com
+worldnic@easydns.com
+admin@easydns.com
+helpme@easydns.com

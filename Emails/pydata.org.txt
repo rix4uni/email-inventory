@@ -1,0 +1,6 @@
+cdn@pydata.org
+admin@pydata.org
+info@pydata.org
+london@pydata.org
+pandas@pydata.org
+delhi@pydata.org

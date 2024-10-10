@@ -1,0 +1,7 @@
+sales@pingdom.com
+info@pingdom.com
+support@pingdom.com
+alert@pingdom.com
+johndoe@pingdom.com
+press@pingdom.com
+refund@pingdom.com

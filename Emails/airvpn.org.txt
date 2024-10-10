@@ -1,0 +1,4 @@
+maintainer@airvpn.org
+support@airvpn.org
+berniebermingham@airvpn.org
+security@airvpn.org

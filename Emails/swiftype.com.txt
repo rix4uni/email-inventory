@@ -127,3 +127,7 @@ copyright@swiftype.com
 ctong@swiftype.com
 hn@swiftype.com
 jdoe@swiftype.com
+registrant@swiftype.com
+tech@swiftype.com
+admin@swiftype.com
+name@swiftype.com

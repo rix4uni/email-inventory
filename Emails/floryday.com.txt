@@ -1,0 +1,7 @@
+service@floryday.com
+feedback@floryday.com
+newsletter@floryday.com
+assistance@floryday.com
+services@floryday.com
+support@floryday.com
+company@floryday.com

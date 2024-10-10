@@ -1,0 +1,7 @@
+jsmith@cpmstar.com
+john@cpmstar.com
+john.smith@cpmstar.com
+johnsmith@cpmstar.com
+john_smith@cpmstar.com
+smith@cpmstar.com
+btruman@cpmstar.com

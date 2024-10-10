@@ -1,0 +1,7 @@
+notices@jetstack.io
+hello@jetstack.io
+tech@jetstack.io
+matt.barker@jetstack.io
+matt.bates@jetstack.io
+christian.simon@jetstack.io
+james.munnelly@jetstack.io

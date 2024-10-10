@@ -1,0 +1,7 @@
+mgr.07971@store.walgreens.com
+str.07708@store.walgreens.com
+str.04276@store.walgreens.com
+mgr.05246@store.walgreens.com
+mgr.07623@store.walgreens.com
+mgr.11810@store.walgreens.com
+str.04983@store.walgreens.com

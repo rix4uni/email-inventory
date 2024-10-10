@@ -1,0 +1,7 @@
+folks@shadowserver.org
+adimino@shadowserver.org
+entries@shadowserver.org
+admin@shadowserver.org
+domainreg@shadowserver.org
+dnsscan@shadowserver.org
+noc@shadowserver.org

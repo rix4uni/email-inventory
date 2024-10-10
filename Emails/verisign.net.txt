@@ -1,0 +1,3 @@
+pin@verisign.net
+id-center@verisign.net
+accountspayable@verisign.net

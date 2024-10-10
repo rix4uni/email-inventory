@@ -4,3 +4,7 @@ emelie.evenstedt@arket.com
 frida.dahlquist@arket.com
 hanna.eriksson@arket.com
 info@arket.com
+kundenservice@arket.com
+customerservice.uk@arket.com
+customerservice.eu@arket.com
+john.doe@arket.com

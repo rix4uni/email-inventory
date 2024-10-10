@@ -13,3 +13,10 @@ alex.parlato@mapbox.com
 ali@mapbox.com
 alice@mapbox.com
 allan.walker@mapbox.com
+ci@mapbox.com
+actions@mapbox.com
+09@mapbox.com
+08@mapbox.com
+07@mapbox.com
+06@mapbox.com
+05@mapbox.com

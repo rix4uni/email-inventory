@@ -1,0 +1,2 @@
+server-ad@mcsrvstat.us
+api@mcsrvstat.us

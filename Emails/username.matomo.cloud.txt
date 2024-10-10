@@ -1,0 +1,6 @@
+user1@username.plus.com
+user2@username.plus.com
+alan@username.plus.com
+specificaddress@username.plus.com
+address-me@username.plus.com
+sent-ann@username.plus.com

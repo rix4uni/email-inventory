@@ -7,3 +7,6 @@ dunakeszi@marionnaud.hu
 dunaplaza@marionnaud.hu
 gyor@marionnaud.hu
 gyorarkad@marionnaud.hu
+vevoszolgalat@marionnaud.hu
+munka@marionnaud.hu
+info@marionnaud.hu

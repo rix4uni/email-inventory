@@ -8,3 +8,6 @@ foxycartluke.stokes@foxycart.com
 hello@foxycart.com
 help@foxycart.com
 helpdesk@foxycart.com
+info@foxycart.com
+sales@foxycart.com
+security@foxycart.com

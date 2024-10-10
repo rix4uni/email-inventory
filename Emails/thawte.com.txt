@@ -1,0 +1,4 @@
+wot-us@thawte.com
+wot-intl@thawte.com
+b_eu_general_entry@thawte.com
+um@thawte.com

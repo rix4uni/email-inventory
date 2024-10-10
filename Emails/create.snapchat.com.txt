@@ -13,3 +13,7 @@ jkm@create.ucsb.edu
 ken@create.ucsb.edu
 matt@create.ucsb.edu
 media_api@create.ucsb.edu
+sc-devel-request@create.ucsb.edu
+sc-devel@create.ucsb.edu
+sc-dev-request@create.ucsb.edu
+dev@create.ucsb.edu

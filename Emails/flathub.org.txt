@@ -1,0 +1,2 @@
+flathub@flathub.org
+sysadmin@flathub.org

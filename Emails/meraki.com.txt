@@ -820,3 +820,9 @@ ales@meraki.com
 alex.taipale@meraki.com
 amal@meraki.com
 android-support@meraki.com
+network_a_alerts-noreply@meraki.com
+network_b_alerts-noreply@meraki.com
+licencing@meraki.com
+erin.davidson@meraki.com
+frank.tang@meraki.com
+jimmy.wu@meraki.com

@@ -1,0 +1,6 @@
+jsmith@loggly.com
+john@loggly.com
+john.smith@loggly.com
+johnsmith@loggly.com
+john_smith@loggly.com
+smith@loggly.com

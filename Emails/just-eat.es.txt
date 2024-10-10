@@ -8,3 +8,4 @@ jaume.boada@just-eat.es
 migestor@just-eat.es
 nabila.prieto@just-eat.es
 promotedplacement@just-eat.es
+restaurantes@just-eat.es

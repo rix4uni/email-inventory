@@ -288,3 +288,9 @@ bizdev@hellosign.com
 blee@hellosign.com
 cc-test@hellosign.com
 compliance-reports@hellosign.com
+john@hellosign.com
+john.smith@hellosign.com
+johnsmith@hellosign.com
+john_smith@hellosign.com
+smith@hellosign.com
+zei@hellosign.com

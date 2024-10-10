@@ -1,0 +1,7 @@
+jeff@snort.org
+sales@snort.org
+bmc@snort.org
+info@snort.org
+bugs@snort.org
+joel@snort.org
+adam@snort.org
