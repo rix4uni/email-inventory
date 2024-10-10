@@ -1,0 +1,3 @@
+info@rspamd.com
+support@rspamd.com
+vsevolod@rspamd.com

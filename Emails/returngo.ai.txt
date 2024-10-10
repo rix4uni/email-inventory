@@ -1,0 +1,7 @@
+john@returngo.ai
+john.doe@returngo.ai
+doejohn@returngo.ai
+jd@returngo.ai
+doe_john@returngo.ai
+doe@returngo.ai
+j.doe@returngo.ai

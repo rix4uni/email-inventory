@@ -13,3 +13,9 @@ hello@elementor.com
 info@elementor.com
 jobs@elementor.com
 lavi@elementor.com
+biancab@elementor.com
+ariel@elementor.com
+privacy@elementor.com
+asafs@elementor.com
+affiliate@elementor.com
+affiliates@elementor.com

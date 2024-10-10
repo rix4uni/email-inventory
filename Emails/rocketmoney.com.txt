@@ -1,0 +1,3 @@
+affiliates@rocketmoney.com
+security@rocketmoney.com
+vulnerability-report@rocketmoney.com

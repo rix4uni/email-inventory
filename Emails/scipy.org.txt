@@ -1,0 +1,6 @@
+numpy-discussion-owner@scipy.org
+eric@scipy.org
+dmitrey.kroshko@scipy.org
+u003cipython-dev@scipy.org
+numpy-discussions@scipy.org
+_user_numpy-discussion@scipy.org

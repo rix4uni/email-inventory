@@ -8,3 +8,8 @@ investor@exodus.com
 investors@exodus.com
 jim.stoddart@exodus.com
 jobs@exodus.com
+bugbounty@exodus.com
+themeinfo@exodus.com
+bounce@exodus.com
+nsupport@exodus.com
+u003esupport@exodus.com

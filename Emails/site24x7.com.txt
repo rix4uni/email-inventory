@@ -8,3 +8,6 @@ eval@site24x7.com
 events@site24x7.com
 feedback@site24x7.com
 hosting@site24x7.com
+soporte@site24x7.com
+dmarc-reports@site24x7.com
+nsupport@site24x7.com

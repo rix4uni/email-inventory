@@ -1,0 +1,7 @@
+service@nationalgeographic.de
+kolumne@nationalgeographic.de
+treger.jasmin@nationalgeographic.de
+online-redaktion@nationalgeographic.de
+anzeigen@nationalgeographic.de
+marvi@nationalgeographic.de
+leserbriefe@nationalgeographic.de

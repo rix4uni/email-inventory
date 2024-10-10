@@ -1,0 +1,7 @@
+github-buildmonkey@red-gate.com
+eapprompt@red-gate.com
+sqlsourcecontrolsupport@red-gate.com
+st.editor@red-gate.com
+adam.britt@red-gate.com
+sqlbeta@red-gate.com
+legal@red-gate.com

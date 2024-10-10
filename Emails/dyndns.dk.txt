@@ -1,0 +1,2 @@
+domain@dyndns.dk
+allan@dyndns.dk

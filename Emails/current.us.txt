@@ -1,0 +1,7 @@
+nick@current.us
+info@current.us
+privacy@current.us
+legal@current.us
+billing@current.us
+current.support@current.us
+ncurrent.support@current.us

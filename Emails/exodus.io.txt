@@ -46,3 +46,9 @@ bojan.ko@exodus.io
 brahim.ma@exodus.io
 brandon.ca@exodus.io
 christian@exodus.io
+clark@exodus.io
+andrew.r@exodus.io
+julio.vi@exodus.io
+richard.nw@exodus.io
+ralph.ba@exodus.io
+joshuabot@exodus.io

@@ -1,0 +1,6 @@
+deals@travelocity.ca
+car@travelocity.ca
+shopping@travelocity.ca
+stay@travelocity.ca
+finder@travelocity.ca
+now@travelocity.ca

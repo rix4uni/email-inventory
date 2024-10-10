@@ -1,0 +1,7 @@
+first@yellowmessenger.com
+joe@yellowmessenger.com
+flast@yellowmessenger.com
+jdoe@yellowmessenger.com
+first.last@yellowmessenger.com
+joe.doe@yellowmessenger.com
+last@yellowmessenger.com

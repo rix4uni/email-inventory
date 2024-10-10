@@ -1,0 +1,3 @@
+u003er-devel@r-project.org
+r-contribution-wg@r-project.org
+r-contribution-wg-owner@r-project.org

@@ -1,0 +1,6 @@
+jobs@castle.io
+info@castle.io
+privacy@castle.io
+security@castle.io
+support@castle.io
+johan@castle.io

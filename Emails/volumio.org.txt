@@ -1,0 +1,3 @@
+info@volumio.org
+support@volumio.org
+techsupport@volumio.org

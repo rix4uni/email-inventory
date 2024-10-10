@@ -1,0 +1,4 @@
+user@totvs.com
+email@totvs.com
+vitor.conti@totvs.com
+dev.totvs@totvs.com

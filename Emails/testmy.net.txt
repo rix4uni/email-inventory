@@ -1,0 +1,7 @@
+test@testmy.net
+only@testmy.net
+admin@testmy.net
+monitor@testmy.net
+here@testmy.net
+results@testmy.net
+taken@testmy.net

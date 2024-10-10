@@ -13,3 +13,10 @@
 a@verisign.com
 a023348c4125@verisign.com
 a1ex@verisign.com
+first-team@verisign.com
+shill@verisign.com
+3dtrutkowski@verisign.com
+csmith@verisign.com
+sdawdy@verisign.com
+davmcguire@verisign.com
+cbeers@verisign.com

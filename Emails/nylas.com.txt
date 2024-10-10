@@ -1,0 +1,7 @@
+alvaro.t@nylas.com
+first@nylas.com
+flast@nylas.com
+jdoe@nylas.com
+first.last@nylas.com
+joe.doe@nylas.com
+last@nylas.com

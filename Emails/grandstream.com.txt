@@ -1,0 +1,7 @@
+john.smith@grandstream.com
+jsmith@grandstream.com
+johnsmith@grandstream.com
+john_smith@grandstream.com
+john@grandstream.com
+smith@grandstream.com
+ashrith.logan@grandstream.com

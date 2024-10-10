@@ -1,0 +1,7 @@
+issue_summary_assignee_wmedvede@redhat.com
+vhe@redhat.com
+kramdoss@redhat.com
+tsze@redhat.com
+u003etsze@redhat.com
+dshaik@redhat.com
+issue_summary_reporter_tborgato@redhat.com

@@ -1,0 +1,6 @@
+rguerin@freebox.fr
+app-connect-ios@freebox.fr
+app-files-ios@freebox.fr
+app-connect-android@freebox.fr
+mgonzalez@freebox.fr
+app-home-android@freebox.fr

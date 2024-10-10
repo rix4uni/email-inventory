@@ -1,0 +1,7 @@
+db-admin@radb.net
+admin@radb.net
+trouble@radb.net
+auto-dbm@radb.net
+dbadmin@radb.net
+irrd-team@radb.net
+info@radb.net

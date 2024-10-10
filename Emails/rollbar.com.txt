@@ -1,0 +1,2 @@
+product@rollbar.com
+jeff.hoffer@rollbar.com
