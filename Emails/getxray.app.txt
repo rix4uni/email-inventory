@@ -1,2 +1,3 @@
 mail@getxray.app
 sales@getxray.app
+support@getxray.app
