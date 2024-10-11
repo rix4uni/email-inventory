@@ -2,3 +2,4 @@ contact.uz@iqos.com
 20contact.bg@iqos.com
 contact.kw@iqos.com
 contact.au@iqos.com
+20contact.eg@iqos.com
