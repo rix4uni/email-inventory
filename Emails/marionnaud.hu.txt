@@ -10,3 +10,4 @@ gyorarkad@marionnaud.hu
 vevoszolgalat@marionnaud.hu
 munka@marionnaud.hu
 info@marionnaud.hu
+vevozzolgalat@marionnaud.hu
