@@ -1,1 +1,2 @@
 serviceclient@canalplus.com
+servicesclients@canalplus.com

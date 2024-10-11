@@ -1,3 +1,4 @@
 customerservice@alitalia.com
 gestionepn.hr@alitalia.com
 customerserivice.germany@alitalia.com
+cartrecovery@alitalia.com
