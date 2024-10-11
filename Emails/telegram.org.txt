@@ -4,3 +4,4 @@ login@telegram.org
 fz-llcdevelopersupport@telegram.org
 20recover@telegram.org
 revover@telegram.org
+id-recover@telegram.org
