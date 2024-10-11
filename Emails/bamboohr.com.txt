@@ -1,2 +1,7 @@
 20taxadmin@bamboohr.com
 referrals@bamboohr.com
+johnsmith@bamboohr.com
+john.smith@bamboohr.com
+john_smith@bamboohr.com
+john@bamboohr.com
+smith@bamboohr.com

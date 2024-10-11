@@ -5,3 +5,4 @@ berufsbildung@ai.ch
 t@ai.ch
 info@ai.ch
 kantonsgericht@ai.ch
+steuerverwaltung@ai.ch

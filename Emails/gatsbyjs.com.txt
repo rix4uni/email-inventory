@@ -4,3 +4,4 @@ ward@gatsbyjs.com
 molly@gatsbyjs.com
 nicole@gatsbyjs.com
 marketing-jobs@gatsbyjs.com
+dan@gatsbyjs.com
