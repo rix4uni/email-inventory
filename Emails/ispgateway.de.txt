@@ -1,1 +1,2 @@
 mb_schedule_566@ispgateway.de
+mb_snooze_566@ispgateway.de
