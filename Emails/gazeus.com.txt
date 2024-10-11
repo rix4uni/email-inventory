@@ -5,3 +5,4 @@ dns-admin@gazeus.com
 sac.thesocialpoker@gazeus.com
 mahjong.android@gazeus.com
 pool.ios@gazeus.com
+dominoes.battle@gazeus.com

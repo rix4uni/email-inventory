@@ -5,3 +5,4 @@ artur@ain.ua
 adv@ain.ua
 join@ain.ua
 awards@ain.ua
+ls@ain.ua
