@@ -1,2 +1,5 @@
 jobs@sleeper.app
 u003esupport@sleeper.app
+legal@sleeper.app
+u003elegal@sleeper.app
+privacy@sleeper.app
