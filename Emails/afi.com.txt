@@ -4,3 +4,4 @@ fest.boxoffice@afi.com
 shop@afi.com
 jtrompeter@afi.com
 distribution@afi.com
+afiffst@afi.com
