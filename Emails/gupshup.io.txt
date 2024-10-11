@@ -3,3 +3,4 @@ vandana.v@gupshup.io
 converse@gupshup.io
 console-support@gupshup.io
 partner.support@gupshup.io
+omkar.mestry@gupshup.io

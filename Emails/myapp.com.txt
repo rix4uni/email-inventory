@@ -4,3 +4,4 @@ tadabase@myapp.com
 u003cinfo@myapp.com
 mahesh@myapp.com
 privacy@myapp.com
+sales-email@myapp.com
