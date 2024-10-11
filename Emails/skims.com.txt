@@ -1,1 +1,2 @@
 hello@skims.com
+pr@skims.com
