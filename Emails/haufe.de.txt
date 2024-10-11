@@ -3,3 +3,5 @@ u003eservice@haufe.de
 agg-elearning@haufe.de
 sustainability-office@haufe.de
 business-service@haufe.de
+nonline@haufe.de
+steuer-office@haufe.de
