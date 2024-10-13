@@ -1,2 +1,3 @@
 notifications@canny.io
 marketing@canny.io
+eric@canny.io

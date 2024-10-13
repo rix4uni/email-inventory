@@ -5,3 +5,4 @@ service@virtualdj.com
 magazine@virtualdj.com
 press-contact@virtualdj.com
 android@virtualdj.com
+support@virtualdj.com
