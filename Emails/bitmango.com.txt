@@ -1,2 +1,3 @@
 apps@bitmango.com
 wordcookies@bitmango.com
+people-culture@bitmango.com
