@@ -5,3 +5,4 @@ jguthrie@drugstore.com
 dsheckler@drugstore.com
 rholtan@drugstore.com
 tfeatherstone@drugstore.com
+customerservice@drugstore.com
