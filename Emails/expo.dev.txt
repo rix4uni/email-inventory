@@ -1,2 +1,3 @@
 pricing@expo.dev
 no-reply@expo.dev
+cruzan@expo.dev
