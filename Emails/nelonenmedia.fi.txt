@@ -4,3 +4,4 @@ nantero.alhonen@nelonenmedia.fi
 ntiia.lehmusvuori@nelonenmedia.fi
 mirko.baas@nelonenmedia.fi
 havukainenanniina.havukainen@nelonenmedia.fi
+kari.reini@nelonenmedia.fi

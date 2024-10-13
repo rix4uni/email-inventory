@@ -5,3 +5,4 @@ peter.holmstedt@telia.net
 kri@telia.net
 stefan@telia.net
 bjorn.asplund@telia.net
+verification_requested@telia.net
