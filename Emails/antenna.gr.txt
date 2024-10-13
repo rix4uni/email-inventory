@@ -3,3 +3,4 @@ communications@antenna.gr
 netwixdataprotection@antenna.gr
 kaliterizoi@antenna.gr
 lemonix@antenna.gr
+reportaz@antenna.gr
