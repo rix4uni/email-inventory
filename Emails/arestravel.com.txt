@@ -1,3 +1,4 @@
 rooms@arestravel.com
 attractions@arestravel.com
 destinations@arestravel.com
+support@arestravel.com
