@@ -3,3 +3,4 @@ dmarc@sumsub.com
 events@sumsub.com
 u003ejs@sumsub.com
 name@sumsub.com
+no-reply@sumsub.com
