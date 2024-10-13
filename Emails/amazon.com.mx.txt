@@ -11,3 +11,4 @@ delivery-notification@amazon.com.mx
 informacion-vendedor@amazon.com.mx
 fba-ship-confirm@amazon.com.mx
 venta-juguetes-vacaciones@amazon.com.mx
+pet-consumables-compliance@amazon.com.mx
