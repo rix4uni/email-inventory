@@ -5,3 +5,9 @@ peter.norris@peoplematter.com
 ryan.glushkoff@peoplematter.com
 nancy.sansom@peoplematter.com
 joy.capps@peoplematter.com
+john.smith@peoplematter.com
+johnsmith@peoplematter.com
+jsmith@peoplematter.com
+john_smith@peoplematter.com
+john@peoplematter.com
+smith@peoplematter.com
