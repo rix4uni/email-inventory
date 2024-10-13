@@ -16,3 +16,4 @@ joey@directly.com
 press@directly.com
 sales@directly.com
 legal@directly.com
+gweston@directly.com
