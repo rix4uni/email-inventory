@@ -5,3 +5,5 @@ patchlink.emea@lumension.com
 patchlink.professionalservices@lumension.com
 patchlink.support@lumension.com
 sales@lumension.com
+edward.norris@lumension.com
+nedward.norris@lumension.com
