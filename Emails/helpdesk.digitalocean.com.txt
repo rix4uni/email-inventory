@@ -1,1 +1,6 @@
 support@helpdesk.jncs.com
+dhcs@helpdesk.uic.edu
+lares@helpdesk.uic.edu
+orswebsupport@helpdesk.uic.edu
+ahs-help@helpdesk.uic.edu
+lsri-help@helpdesk.uic.edu
