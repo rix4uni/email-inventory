@@ -4,3 +4,4 @@ info@fellow.app
 help@fellow.app
 support@fellow.app
 blog@fellow.app
+manuela@fellow.app
