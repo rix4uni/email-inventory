@@ -1,2 +1,3 @@
 exemple@bodet-software.com
 john.doe@bodet-software.com
+emilie.dion@bodet-software.com
