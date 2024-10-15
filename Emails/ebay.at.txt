@@ -5,3 +5,4 @@ artikeleingestellt@ebay.at
 auktionsende@ebay.at
 gebotbestaetigt@ebay.at
 meinesuche@ebay.at
+paymentsinfoat@ebay.at
