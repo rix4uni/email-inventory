@@ -4,3 +4,4 @@ accountissue@g2a.com
 salesrequest@g2a.com
 nft@g2a.com
 mkusmirczak@g2a.com
+ntickets@g2a.com
