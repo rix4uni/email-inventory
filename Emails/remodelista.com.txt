@@ -5,3 +5,5 @@ edit@remodelista.com
 jobs@remodelista.com
 over@remodelista.com
 more@remodelista.com
+subscriptions@remodelista.com
+membership@remodelista.com
