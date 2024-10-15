@@ -1,1 +1,2 @@
 40example.org@caldav.example.org
+user@caldav.example.org
