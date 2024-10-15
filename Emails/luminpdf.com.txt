@@ -1,3 +1,4 @@
 max@luminpdf.com
 hello@luminpdf.com
 lucy@luminpdf.com
+sales@luminpdf.com

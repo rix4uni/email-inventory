@@ -1,2 +1,7 @@
 damon.buckwalter@iovation.com
 evans.tucker@iovation.com
+john.smith@iovation.com
+johnsmith@iovation.com
+john_smith@iovation.com
+john@iovation.com
+smith@iovation.com
