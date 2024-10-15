@@ -4,3 +4,4 @@ olgica.kravljaca@telegraf.rs
 t.ilic@telegraf.rs
 s.stajic@telegraf.rs
 n.lisinac@telegraf.rs
+marija.zaric@telegraf.rs
