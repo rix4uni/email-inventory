@@ -18,3 +18,5 @@ karo.vanlil@irc.vib-ugent.be
 lola.gurgoglione@irc.vib-ugent.be
 james.geldhof@irc.vib-ugent.be
 engi.ahmed@irc.vib-ugent.be
+ethical.committee@irc.vib-ugent.be
+marlies.brouckaert@irc.vib-ugent.be
