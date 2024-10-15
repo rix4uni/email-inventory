@@ -5,3 +5,4 @@ presse@giga.de
 sales@giga.de
 stars@giga.de
 repair@giga.de
+bewerbung@giga.de
