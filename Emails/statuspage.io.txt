@@ -40,3 +40,8 @@ glue@statuspage.io
 here@statuspage.io
 info@statuspage.io
 nnoreply@statuspage.io
+first_email_subscriber@statuspage.io
+another_example@statuspage.io
+example_subscriber@statuspage.io
+webhook_subscriber@statuspage.io
+update_subscriber@statuspage.io
