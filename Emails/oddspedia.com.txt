@@ -1,2 +1,3 @@
 hr@oddspedia.com
 marketing@oddspedia.com
+legal@oddspedia.com
