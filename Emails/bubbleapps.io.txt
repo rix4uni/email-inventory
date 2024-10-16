@@ -1,1 +1,2 @@
 appname-no-reply@bubbleapps.io
+old_domain@bubbleapps.io
