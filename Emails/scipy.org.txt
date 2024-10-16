@@ -4,3 +4,4 @@ dmitrey.kroshko@scipy.org
 u003cipython-dev@scipy.org
 numpy-discussions@scipy.org
 _user_numpy-discussion@scipy.org
+2010tutorials@scipy.org
