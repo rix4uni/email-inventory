@@ -3,3 +3,4 @@ bugbounty@zemanta.com
 privacidad@zemanta.com
 dpo@zemanta.com
 ayuda@zemanta.com
+zemantajure@zemanta.com
