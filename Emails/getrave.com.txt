@@ -4,3 +4,4 @@ delawarecountyiowaalerts@getrave.com
 smcgov@getrave.com
 shelbycountyiowaalerts@getrave.com
 nsualerts@getrave.com
+donotreply@getrave.com
