@@ -5,3 +5,4 @@ esslingen@freifunk-stuttgart.de
 refugees@freifunk-stuttgart.de
 presse@freifunk-stuttgart.de
 freifunk-bw@freifunk-stuttgart.de
+noc@freifunk-stuttgart.de
