@@ -5,3 +5,4 @@ ejemplo@ionos.es
 facturacion@ionos.es
 affiliado@ionos.es
 protecciondedatos@ionos.es
+privacy-service@ionos.es
