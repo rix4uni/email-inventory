@@ -1,1 +1,2 @@
 accomodationrequests@activisionblizzard.com
+accommodations@activisionblizzard.com
