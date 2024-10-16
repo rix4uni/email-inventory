@@ -5,3 +5,5 @@ press@americantowns.com
 sales@americantowns.com
 cgrogan@americantowns.com
 ssimmons@americantowns.com
+billing@americantowns.com
+sports@americantowns.com
