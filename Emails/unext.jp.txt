@@ -2,3 +2,4 @@ next-info@unext.jp
 inet-infra@unext.jp
 bb01@unext.jp
 hd-yamamoto@unext.jp
+bb@unext.jp

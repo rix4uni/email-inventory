@@ -1,3 +1,6 @@
 josh@airtm.io
 james@airtm.io
 lina@airtm.io
+cristobal@airtm.io
+patrick@airtm.io
+master@airtm.io
