@@ -3,3 +3,4 @@ more@bookingbuddy.com
 flights@bookingbuddy.com
 spent@bookingbuddy.com
 feedback@bookingbuddy.com
+support@bookingbuddy.com
