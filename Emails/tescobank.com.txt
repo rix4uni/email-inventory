@@ -4,3 +4,4 @@ john.doe@tescobank.com
 dawn.lowery@tescobank.com
 tbexbankcomp@tescobank.com
 securitydisclosure@tescobank.com
+sarah.e.munro@tescobank.com
