@@ -3,3 +3,5 @@ email-hello@decentraland.org
 email_hello@decentraland.org
 federico.holzwarth@decentraland.org
 gia@decentraland.org
+studios@decentraland.org
+kim.currier@decentraland.org

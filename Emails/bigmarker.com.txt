@@ -2,3 +2,5 @@ no-reply@bigmarker.com
 example2.presenter2@bigmarker.com
 andrew.bungert@bigmarker.com
 nandrew.bungert@bigmarker.com
+meghan@bigmarker.com
+nmeghan@bigmarker.com
