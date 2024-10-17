@@ -34,14 +34,14 @@ jobs:
           fi
           echo "File paths found:"
           echo "$FILE_PATHS"
-          echo "::set-output name=file_paths::$FILE_PATHS"
+          echo "file_paths=$FILE_PATHS" >> $GITHUB_ENV
 
       - name: Remove files from commit history using git filter-repo
-        if: steps.extract_paths.outputs.file_paths != ''
+        if: env.file_paths != ''
         run: |
           echo "Removing files from history..."
           # Convert the file paths to an array
-          FILE_PATHS=(${ { steps.extract_paths.outputs.file_paths } })
+          IFS=' ' read -r -a FILE_PATHS <<< "$file_paths"
 
           # Create a temporary file to hold paths for git filter-repo
           printf "%s\n" "${FILE_PATHS[@]}" > paths-to-remove.txt
@@ -65,7 +65,7 @@ jobs:
           git push origin main --force
 
       - name: Close the issue
-        if: steps.extract_paths.outputs.file_paths != ''
+        if: env.file_paths != ''
         uses: peter-evans/close-issue@v2
         with:
           issue-number: ${{ github.event.issue.number }}
