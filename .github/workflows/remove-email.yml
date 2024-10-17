@@ -6,6 +6,7 @@ on:
 
 permissions:
   contents: write
+  issues: write  # Explicitly grant write permissions to issues
 
 jobs:
   remove-email-files:
@@ -60,3 +61,5 @@ jobs:
         with:
           issue-number: ${{ github.event.issue.number }}
           comment: "The files have been successfully removed from the commit history and the issue is now closed."
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
