@@ -34,14 +34,15 @@ jobs:
           fi
           echo "File paths found:"
           echo "$FILE_PATHS"
-          echo "file_paths=$FILE_PATHS" >> $GITHUB_ENV
+          # Join the file paths with a newline for proper format
+          echo "$FILE_PATHS" | tr '\n' ',' >> $GITHUB_ENV
 
       - name: Remove files from commit history using git filter-repo
         if: env.file_paths != ''
         run: |
           echo "Removing files from history..."
           # Convert the file paths to an array
-          IFS=' ' read -r -a FILE_PATHS <<< "$file_paths"
+          IFS=',' read -r -a FILE_PATHS <<< "$file_paths"
 
           # Create a temporary file to hold paths for git filter-repo
           printf "%s\n" "${FILE_PATHS[@]}" > paths-to-remove.txt
