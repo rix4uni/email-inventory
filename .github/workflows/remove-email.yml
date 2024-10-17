@@ -41,7 +41,8 @@ jobs:
       - name: Remove files from commit history using git filter-repo
         run: |
           # Read the file paths from the environment variable
-          for FILE_PATH in ${{ env.file_paths }}; do
+          IFS=' ' read -r -a FILE_ARRAY <<< "${{ env.file_paths }}"
+          for FILE_PATH in "${FILE_ARRAY[@]}"; do
             echo "Removing file from history: $FILE_PATH"
             git log --follow -- "$FILE_PATH"
             git filter-repo --path "$FILE_PATH" --invert-paths --force
