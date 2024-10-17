@@ -27,22 +27,19 @@ jobs:
         id: extract_paths
         run: |
           echo "Extracting file paths from the issue..."
-          # Extract file paths, join them with a space separator
-          FILE_PATHS=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=https://github.com/rix4uni/email-inventory/blob/main/)[^\s]+' | tr '\n' ' ')
+          FILE_PATHS=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=https://github.com/rix4uni/email-inventory/blob/main/)[^\s]+')
           if [ -z "$FILE_PATHS" ]; then
             echo "No file paths found. Exiting..."
             exit 1
           fi
           echo "File paths found:"
           echo "$FILE_PATHS"
-          # Save to environment variable for later steps
-          echo "file_paths=$FILE_PATHS" >> $GITHUB_ENV
+          echo "::set-output name=file_paths::$FILE_PATHS"
 
       - name: Remove files from commit history using git filter-repo
+        if: steps.extract_paths.outputs.file_paths != ''
         run: |
-          # Read the file paths from the environment variable
-          IFS=' ' read -r -a FILE_ARRAY <<< "${{ env.file_paths }}"
-          for FILE_PATH in "${FILE_ARRAY[@]}"; do
+          for FILE_PATH in ${{ steps.extract_paths.outputs.file_paths }}; do
             echo "Removing file from history: $FILE_PATH"
             git log --follow -- "$FILE_PATH"
             git filter-repo --path "$FILE_PATH" --invert-paths --force
