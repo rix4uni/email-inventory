@@ -4,6 +4,10 @@ on:
   issues:
     types: [opened]
 
+# Actions project permission
+permissions:
+  contents: write
+
 jobs:
   remove-email-files:
     runs-on: ubuntu-latest
