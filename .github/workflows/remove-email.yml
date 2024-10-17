@@ -34,12 +34,13 @@ jobs:
           fi
           echo "File paths found:"
           echo "$FILE_PATHS"
-          echo "::set-output name=file_paths::$FILE_PATHS"
+          # Save to environment variable for later steps
+          echo "file_paths=$FILE_PATHS" >> $GITHUB_ENV
 
       - name: Remove files from commit history using git filter-repo
-        if: steps.extract_paths.outputs.file_paths != ''
         run: |
-          for FILE_PATH in ${{ steps.extract_paths.outputs.file_paths }}; do
+          # Read the file paths from the environment variable
+          for FILE_PATH in ${{ env.file_paths }}; do
             echo "Removing file from history: $FILE_PATH"
             git log --follow -- "$FILE_PATH"
             git filter-repo --path "$FILE_PATH" --invert-paths --force
