@@ -39,20 +39,27 @@ jobs:
       - name: Remove files from commit history using git filter-repo
         if: steps.extract_paths.outputs.file_paths != ''
         run: |
-          for FILE_PATH in ${{ steps.extract_paths.outputs.file_paths }}; do
-            echo "Removing file from history: $FILE_PATH"
-            git log --follow -- "$FILE_PATH"
-            git filter-repo --path "$FILE_PATH" --invert-paths --force
-            # Extract filename without the path and save in .gitignore
+          echo "Removing files from history..."
+          # Convert the file paths to an array
+          FILE_PATHS=(${ { steps.extract_paths.outputs.file_paths } })
+
+          # Create a temporary file to hold paths for git filter-repo
+          echo "${FILE_PATHS[@]}" | tr ' ' '\n' > paths-to-remove.txt
+
+          git filter-repo --path-glob 'Emails/*' --invert-paths --force --paths-from-file paths-to-remove.txt
+          
+          # Update .gitignore for all filenames
+          for FILE_PATH in "${FILE_PATHS[@]}"; do
             FILENAME=$(basename "$FILE_PATH")
             echo "$FILENAME" >> .gitignore
           done
+          
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@users.noreply.github.com'
 
           git add .gitignore
           git commit -m "Removed files from history and updated .gitignore"
-          
+
           # Add remote and push
           git remote add origin https://github.com/rix4uni/email-inventory.git
           git push origin main --force
