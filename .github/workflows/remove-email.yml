@@ -34,43 +34,31 @@ jobs:
           fi
           echo "File paths found:"
           echo "$FILE_PATHS"
-          
-          # Write each file path to GITHUB_ENV as a single line entry without special characters
-          for FILE_PATH in $FILE_PATHS; do
-            echo "file_paths+=${FILE_PATH}" >> $GITHUB_ENV
-          done
+          echo "::set-output name=file_paths::$FILE_PATHS"
 
       - name: Remove files from commit history using git filter-repo
-        if: env.file_paths != ''
+        if: steps.extract_paths.outputs.file_paths != ''
         run: |
-          echo "Removing files from history..."
-          # Split the file paths into an array using the internal field separator (IFS)
-          IFS=' ' read -r -a FILE_PATHS <<< "$file_paths"
-
-          # Create a temporary file to hold paths for git filter-repo
-          printf "%s\n" "${FILE_PATHS[@]}" > paths-to-remove.txt
-
-          # Remove files from history
-          git filter-repo --path-glob 'Emails/*' --invert-paths --force --paths-from-file paths-to-remove.txt
-          
-          # Update .gitignore for all filenames
-          for FILE_PATH in "${FILE_PATHS[@]}"; do
+          for FILE_PATH in ${{ steps.extract_paths.outputs.file_paths }}; do
+            echo "Removing file from history: $FILE_PATH"
+            git log --follow -- "$FILE_PATH"
+            git filter-repo --path "$FILE_PATH" --invert-paths --force
+            # Extract filename without the path and save in .gitignore
             FILENAME=$(basename "$FILE_PATH")
             echo "$FILENAME" >> .gitignore
           done
-          
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@users.noreply.github.com'
 
           git add .gitignore
           git commit -m "Removed files from history and updated .gitignore"
-
+          
           # Add remote and push
           git remote add origin https://github.com/rix4uni/email-inventory.git
           git push origin main --force
 
       - name: Close the issue
-        if: env.file_paths != ''
+        if: steps.extract_paths.outputs.file_paths != ''
         uses: peter-evans/close-issue@v2
         with:
           issue-number: ${{ github.event.issue.number }}
