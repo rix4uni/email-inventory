@@ -44,7 +44,7 @@ jobs:
           FILE_PATHS=(${ { steps.extract_paths.outputs.file_paths } })
 
           # Create a temporary file to hold paths for git filter-repo
-          echo "${FILE_PATHS[@]}" | tr ' ' '\n' > paths-to-remove.txt
+          printf "%s\n" "${FILE_PATHS[@]}" > paths-to-remove.txt
 
           git filter-repo --path-glob 'Emails/*' --invert-paths --force --paths-from-file paths-to-remove.txt
           
