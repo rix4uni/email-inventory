@@ -1,0 +1,44 @@
+name: Remove Multiple Email Files from History and Close Issue
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  remove-email-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # This is required to access the full commit history
+
+      - name: Extract file paths from issue
+        id: extract_paths
+        run: |
+          echo "Extracting file paths from the issue..."
+          FILE_PATHS=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=https://github.com/rix4uni/email-inventory/blob/main/)[^\s]+')
+          echo "File paths found:"
+          echo "$FILE_PATHS"
+          echo "::set-output name=file_paths::$FILE_PATHS"
+
+      - name: Remove files from commit history using git filter-repo
+        if: steps.extract_paths.outputs.file_paths != ''
+        run: |
+          for FILE_PATH in ${{ steps.extract_paths.outputs.file_paths }}; do
+            echo "Removing file from history: $FILE_PATH"
+            git log --follow -- "$FILE_PATH"
+            git filter-repo --path "$FILE_PATH" --invert-paths --force
+            echo "$FILE_PATH" >> .gitignore
+          done
+          git add .gitignore
+          git commit -m "Removed files from history and updated .gitignore"
+          git remote set-url origin https://github.com/rix4uni/email-inventory.git
+          git push origin main --force
+
+      - name: Close the issue
+        if: steps.extract_paths.outputs.file_paths != ''
+        uses: peter-evans/close-issue@v2
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: "The files have been successfully removed from the commit history and the issue is now closed."
