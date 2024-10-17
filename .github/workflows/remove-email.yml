@@ -27,7 +27,8 @@ jobs:
         id: extract_paths
         run: |
           echo "Extracting file paths from the issue..."
-          FILE_PATHS=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=https://github.com/rix4uni/email-inventory/blob/main/)[^\s]+')
+          # Extract file paths, join them with a space separator
+          FILE_PATHS=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=https://github.com/rix4uni/email-inventory/blob/main/)[^\s]+' | tr '\n' ' ')
           if [ -z "$FILE_PATHS" ]; then
             echo "No file paths found. Exiting..."
             exit 1
