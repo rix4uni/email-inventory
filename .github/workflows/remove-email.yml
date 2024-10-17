@@ -43,7 +43,9 @@ jobs:
             echo "Removing file from history: $FILE_PATH"
             git log --follow -- "$FILE_PATH"
             git filter-repo --path "$FILE_PATH" --invert-paths --force
-            echo "$FILE_PATH" >> .gitignore
+            # Extract filename without the path and save in .gitignore
+            FILENAME=$(basename "$FILE_PATH")
+            echo "$FILENAME" >> .gitignore
           done
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@users.noreply.github.com'
