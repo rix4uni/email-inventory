@@ -2,9 +2,8 @@ name: Remove Multiple Email Files from History and Close Issue
 
 on:
   issues:
-    types: [opened]
+    types: [opened, reopened]
 
-# Actions project permission
 permissions:
   contents: write
 
@@ -22,6 +21,10 @@ jobs:
         run: |
           echo "Extracting file paths from the issue..."
           FILE_PATHS=$(echo "${{ github.event.issue.body }}" | grep -oP '(?<=https://github.com/rix4uni/email-inventory/blob/main/)[^\s]+')
+          if [ -z "$FILE_PATHS" ]; then
+            echo "No file paths found. Exiting..."
+            exit 1
+          fi
           echo "File paths found:"
           echo "$FILE_PATHS"
           echo "::set-output name=file_paths::$FILE_PATHS"
