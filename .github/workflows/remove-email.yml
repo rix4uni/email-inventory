@@ -44,10 +44,14 @@ jobs:
             git filter-repo --path "$FILE_PATH" --invert-paths --force
             echo "$FILE_PATH" >> .gitignore
           done
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@users.noreply.github.com'
+
           git add .gitignore
           git commit -m "Removed files from history and updated .gitignore"
-          git remote set-url origin https://github.com/rix4uni/email-inventory.git
-          git push origin main --force
+          # git remote set-url origin https://github.com/rix4uni/email-inventory.git
+          # git push origin main --force
+          git push
 
       - name: Close the issue
         if: steps.extract_paths.outputs.file_paths != ''
